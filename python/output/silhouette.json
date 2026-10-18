@@ -1,0 +1,44 @@
+{
+  "jumlah_data": 1000,
+  "jumlah_cluster": 6,
+  "silhouette_score": 0.1926,
+  "interpretasi": "Lemah",
+  "per_cluster": {
+    "0": {
+      "nama_cluster": "Cluster 0",
+      "jumlah_data": 64,
+      "silhouette_score": 0.4073,
+      "interpretasi": "Cukup"
+    },
+    "1": {
+      "nama_cluster": "Cluster 1",
+      "jumlah_data": 132,
+      "silhouette_score": 0.1825,
+      "interpretasi": "Lemah"
+    },
+    "2": {
+      "nama_cluster": "Cluster 2",
+      "jumlah_data": 430,
+      "silhouette_score": -0.0033,
+      "interpretasi": "Lemah"
+    },
+    "3": {
+      "nama_cluster": "Cluster 3",
+      "jumlah_data": 116,
+      "silhouette_score": 0.3676,
+      "interpretasi": "Cukup"
+    },
+    "4": {
+      "nama_cluster": "Cluster 4",
+      "jumlah_data": 85,
+      "silhouette_score": 0.6392,
+      "interpretasi": "Baik"
+    },
+    "5": {
+      "nama_cluster": "Cluster 5",
+      "jumlah_data": 173,
+      "silhouette_score": 0.2712,
+      "interpretasi": "Cukup"
+    }
+  }
+}

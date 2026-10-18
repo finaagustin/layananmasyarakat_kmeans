@@ -1,0 +1,1001 @@
+﻿sumber,tanggal,teks,kategori,teks_preprocessed,cluster,nama_cluster
+Maret2026,2026-03-01 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-02 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-03 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-04 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-05 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-06 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-07 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-08 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-09 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-10 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-11 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-12 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-13 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-14 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-15 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-16 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-17 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-18 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-19 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-20 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-21 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-22 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-23 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-24 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-25 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-26 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-27 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-28 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-29 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-30 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-31 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-01 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-02 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-03 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-04 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-05 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-06 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-07 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-08 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-09 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-10 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-11 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-12 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-13 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-14 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-15 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-16 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-17 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-18 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-19 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-20 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-21 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-22 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-23 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-24 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-25 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-26 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-27 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-28 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-29 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-30 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-31 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-01 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-02 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-03 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-04 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-05 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-06 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-07 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-08 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-09 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-10 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-11 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-12 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-13 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-14 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-15 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-16 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-17 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-18 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-19 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-20 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-21 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-22 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-23 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-24 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-25 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-26 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-27 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-28 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-29 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-30 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-31 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-01 00:00:00,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+Maret2026,2026-03-02 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-03 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-04 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-05 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-06 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-07 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-08 00:00:00,permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+Maret2026,2026-03-09 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-10 00:00:00,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+Maret2026,2026-03-11 00:00:00,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+Maret2026,2026-03-12 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-13 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+Maret2026,2026-03-14 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-15 00:00:00,irk email,IRK,irk email,0,Cluster 0
+Maret2026,2026-03-16 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-17 00:00:00,informasi persyaratan slf,SLF,syarat slf,5,Cluster 5
+Maret2026,2026-03-18 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-19 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-20 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-21 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-22 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-23 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-24 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-25 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-26 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-27 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-28 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-29 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-30 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-31 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-01 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-02 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-03 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-04 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-05 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-06 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-07 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-08 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-09 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-10 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-11 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-12 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-13 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-14 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-15 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-16 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-17 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-18 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-19 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-20 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-21 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-22 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-23 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-24 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-25 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-26 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-27 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-28 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-29 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-30 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-31 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-01 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-02 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-03 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-04 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-05 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-06 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-07 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-08 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-09 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-10 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-11 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-12 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-13 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-14 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-15 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-16 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-17 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-18 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-19 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-20 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-21 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-22 00:00:00,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Maret2026,2026-03-23 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-24 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-25 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-26 00:00:00,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Maret2026,2026-03-27 00:00:00,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Maret2026,2026-03-28 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Maret2026,2026-03-29 00:00:00,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+April2026,2026-01-04 00:00:00,Cek Revisi KRK 10.258.7898,KRK,cek revisi krk,2,Cluster 2
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+April2026,,Informasi persyaratan reklame,Lainnya,syarat reklame,3,Cluster 3
+April2026,,pemberkasan PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,irk email,IRK,irk email,0,Cluster 0
+April2026,,persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi Persyaratan PBG,PBG,syarat pbg,3,Cluster 3
+April2026,,migrasi akun simbg,Surat Masuk,migrasi akun simbg,2,Cluster 2
+April2026,,Informasi Persyaratan SLF,SLF,syarat slf,5,Cluster 5
+April2026,,Perubahan data akun SIMBG,PBG,ubah data akun simbg,2,Cluster 2
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Informasi Persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,2026-02-04 00:00:00,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Informasi mengenai KRK,KRK,krk,5,Cluster 5
+April2026,,Cek Revisi KRK 10.258.8031,KRK,cek revisi krk,2,Cluster 2
+April2026,,Pengambilan KRK 10.262.1288,KRK,ambil krk,2,Cluster 2
+April2026,,persyaratan irk surat,IRK,syarat irk surat,0,Cluster 0
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,Pengambilan KRK 10.263.2176,KRK,ambil krk,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi Persyaratan KRK Jl. Jamika No. 123,KRK,syarat krk jamika,5,Cluster 5
+April2026,,ubah kata sandi KRK,KRK,ubah kata sandi krk,2,Cluster 2
+April2026,2026-06-04 00:00:00,pemberkasan pbg reklame,PBG,berkas pbg reklame,3,Cluster 3
+April2026,,Cek zonasi Jl. Arcamanik Endah,Lainnya,cek zonasi arcamanik endah,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,pemberkasan PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,informasi mengenai pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Cek revisi KRK 10.2511.10848,KRK,cek revisi krk,2,Cluster 2
+April2026,,pengambilan krk an RESTA ANDRIA / 1307110701900001,KRK,ambil krk resta andria,2,Cluster 2
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+April2026,,Informasi persyaratan Reklame,Lainnya,syarat reklame,3,Cluster 3
+April2026,,Konsultasi permohonan KRK,KRK,konsultasi mohon krk,2,Cluster 2
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,PENGAMBILAN KRK AN. AAN SUGIAT,KRK,ambil krk aan sugiat,2,Cluster 2
+April2026,,"PENGAMBILAN KRK AN. HISTORI TARIGAN, SH. / 3172052604780005",KRK,ambil krk histori tarigan,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Cek posisi KRK 10.262.1908,KRK,cek posisi krk,2,Cluster 2
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,2026-07-04 00:00:00,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Pengambilan KRK 10.261.745,KRK,ambil krk,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Pengambilan KRK 10.262.2053,KRK,ambil krk,2,Cluster 2
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,pemberkasan pbg,PBG,berkas pbg,2,Cluster 2
+April2026,,irk surat,IRK,irk surat,0,Cluster 0
+April2026,,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+April2026,,persyaratan krk rumah tinggal,KRK,syarat krk rumah tinggal,5,Cluster 5
+April2026,,Informasi KRK Lapas Banceuy,KRK,krk lapas banceuy,2,Cluster 2
+April2026,,informasi emngenai perubahan password krk,KRK,emngenai ubah password krk,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi persyaratan Reklame,Lainnya,syarat reklame,3,Cluster 3
+April2026,,Informasi persyaratan IRK,IRK,syarat irk,0,Cluster 0
+April2026,,pengambilan krk an ybs,KRK,ambil krk ybs,2,Cluster 2
+April2026,,Informas posisi SLF 327314-25022026-011,SLF,informas posisi slf,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+April2026,2026-08-04 00:00:00,Cek posisi PBG,PBG,cek posisi pbg,2,Cluster 2
+April2026,,Informasi PBG,PBG,pbg,3,Cluster 3
+April2026,,Informasi persyaratan KRK untuk Rumah Dinas Ditjen Pajak,KRK,syarat krk rumah dinas ditjen pajak,5,Cluster 5
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi IRK surat,IRK,irk surat,0,Cluster 0
+April2026,,Informasi pembuatan polygon,Lainnya,buat polygon,2,Cluster 2
+April2026,,Informasi Persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi permohonan KRK,KRK,mohon krk,2,Cluster 2
+April2026,,Informasi Revisi KRK 10.2510.10450,KRK,revisi krk,2,Cluster 2
+April2026,,Cek posisi PBG 327326-10032026-010,PBG,cek posisi pbg,2,Cluster 2
+April2026,,Cek posisi PBG 327322-05012026-002,PBG,cek posisi pbg,2,Cluster 2
+April2026,,Pengambilan KRK 10.2612.1715 dan 10.261.709,KRK,ambil krk,2,Cluster 2
+April2026,,Permohonan salinan IMB tahun 2017,SALINAN IMB,mohon salin imb tahun,2,Cluster 2
+April2026,,Persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Informasi persyaratan reklame,Lainnya,syarat reklame,3,Cluster 3
+April2026,,Cek posisi PBG 327308-08122025-003,PBG,cek posisi pbg,2,Cluster 2
+April2026,,Informasi persyaratan KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Cek posisi KRK 10.261.265,KRK,cek posisi krk,2,Cluster 2
+April2026,,Informasi persyaratan Reklame,Lainnya,syarat reklame,3,Cluster 3
+April2026,2026-09-04 00:00:00,Persyaratan IRK surat,IRK,syarat irk surat,0,Cluster 0
+April2026,,pemberkasan PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,Cek revisi KRK 10.263.2837,KRK,cek revisi krk,2,Cluster 2
+April2026,,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,INFORMASI PKKPR,PKKPR,pkkpr,2,Cluster 2
+April2026,,PENGAMBILAN KRK AN. RITA SETIASIH / 3273186202580002,KRK,ambil krk rita setiasih,2,Cluster 2
+April2026,,ganti password krk,KRK,ganti password krk,2,Cluster 2
+April2026,,Cek zonasi Jl. Mekarwangi,KRK,cek zonasi mekarwangi,2,Cluster 2
+April2026,,Informasi posisi KRK,KRK,posisi krk,2,Cluster 2
+April2026,,Persyaratan PBG Kabupaten Bandung Barat,Lainnya,syarat pbg kabupaten bandung barat,2,Cluster 2
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,informasi mengenai PKKPR,PKKPR,pkkpr,2,Cluster 2
+April2026,,Permohonan data,Lainnya,mohon data,2,Cluster 2
+April2026,,Cek revisi KRK 10.263.2809,KRK,cek revisi krk,2,Cluster 2
+April2026,,Cek posisi KRK 10.264.3290,KRK,cek posisi krk,2,Cluster 2
+April2026,,Cek posisi PBG 327305-10032026-006,PBG,cek posisi pbg,2,Cluster 2
+April2026,,Cek Zonasi di Jl. Kampus dan Jl. Babakan sari,Lainnya,cek zonasi kampus babakan sari,2,Cluster 2
+April2026,2026-10-04 00:00:00,Konsultasi persyaratan pengajuan Apotek dengan status menyewa,KRK,konsultasi syarat aju apotek status sewa,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK untuk pengajuan Apotek yang berlokasi di Jl. Kiaracondong,IRK,konsultasi syarat irk aju apotek lokasi kiaracondong,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG untuk Rumah Tinggal daerah Ciwastra,PBG,konsultasi syarat pbg rumah tinggal daerah ciwastra,5,Cluster 5
+April2026,,Cek pengajuan KRK an. ybs,KRK,cek aju krk ybs,2,Cluster 2
+April2026,,Konsultasi mengenai peta polygon,Lainnya,konsultasi peta polygon,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Pengambilan dokumen KRK No. Reg 10.251.789,KRK,ambil dokumen krk reg,2,Cluster 2
+April2026,,Pengambilan dokumen KRK  AN. NENY DIANI FEBRIA,KRK,ambil dokumen krk neny ani febria,2,Cluster 2
+April2026,,Konfirmasi persyaratan PBG untuk Apotek,PBG,konfirmasi syarat pbg apotek,2,Cluster 2
+April2026,,Konsultasi persyaratan Konstruksi Reklame untuk Bank Mantap Bandung,Lainnya,konsultasi syarat konstruksi reklame bank mantap bandung,2,Cluster 2
+April2026,,Konsultasi perbaikan dokumen PBG Nomor : 327311-11022026-011 an. Edi Sutrisno,PBG,konsultasi baik dokumen pbg nomor edi sutrisno,2,Cluster 2
+April2026,,"Permohonan salinan IMB yang berlokasi di Jl. Aki Padma Pasir Koja, surat sudah masuk",SALINAN IMB,mohon salin imb lokasi aki padma pasir koja surat masuk,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Edu Global,KRK,konsultasi syarat krk edu global,5,Cluster 5
+April2026,,Konsultasi mengenai kesalahan huruf pada nama pemohon pengajuan PBG Nomor : 327318-10072025-001,PBG,konsultasi salah huruf nama aju pbg nomor,2,Cluster 2
+April2026,,Konsultasi perbaikan PBG an. Deden Mulyana Nomor : 327309-22092025-008 (cat. bertemu dengan pa sonda dihari senin),PBG,konsultasi baik pbg deden mulyana nomor cat temu sonda hari senin,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Konstruksi Reklame,Lainnya,konsultasi syarat pbg konstruksi reklame,3,Cluster 3
+April2026,13/04/2026,Konsultasi perizinan SLF untuk Pabrik status sewa,SLF,konsultasi izin slf pabrik status sewa,2,Cluster 2
+April2026,,Konsultasi atau cek izin lokasi untuk gudang daerah antapani (syarat IRK E-Mail),IRK,konsultasi cek izin lokasi gudang daerah antapani syarat irk mail,2,Cluster 2
+April2026,,Konsultasi perbaikan dokumen an. Deden Mulyana,PBG,konsultasi baik dokumen deden mulyana,2,Cluster 2
+April2026,,Cek pemberkasan KRK No. Reg 10.2510.10568 an. HENDRIKUS ARDIANTO KRISTIAWAN (minta di keep dulu besok diambil),KRK,cek berkas krk reg hendrikus ardianto kristiawan keep dulu besok ambil,2,Cluster 2
+April2026,,Konfirmasi mengenai pengajuan Salinan IMB yang berlokasi di Jl. Aki Padma Kel. Babakan,SALINAN IMB,konfirmasi aju salin imb lokasi aki padma kel babakan,2,Cluster 2
+April2026,,Pandu langsung pengajuan IRK E-Mail yang berlokasi di Jl. Bengawan No. 47,IRK,pandu langsung aju irk mail lokasi bengawan,2,Cluster 2
+April2026,,Konsultasi persyaratan perijinan untuk BRT,KRK,konsultasi syarat perijinan brt,2,Cluster 2
+April2026,,Pengambilan dokumen KRK No. Reg 10.264.3062 dan No. Reg 10.264.3064,KRK,ambil dokumen krk reg reg,2,Cluster 2
+April2026,,Penolakan perpanjangan ijin usaha No. KBLI 46691 Perdagangan besar yang berlokasi di Jl. Dadali No. 11,PKKPR,tolak panjang ijin usaha kbli dagang besar lokasi dadali,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK E-Mail yang berlokasi di Jl. Lengkong Besar No. 42,IRK,konsultasi syarat irk mail lokasi lengkong besar,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK E-Mail yang berlokasi di Jl.Taman Holis,IRK,konsultasi syarat irk mail lokasi taman hol,2,Cluster 2
+April2026,,Bantu follow up No. Reg 10.263.2845 status di Staff PPK,KRK,bantu follow reg status staff ppk,2,Cluster 2
+April2026,,"Pengambilan dokumen KRK No. Reg 10.262.1953, No. Reg 10.262.1952, No. Reg 10.262.1951",KRK,ambil dokumen krk reg reg reg,2,Cluster 2
+April2026,,Pengambilan dokumen KRK an. ybs,KRK,ambil dokumen krk ybs,2,Cluster 2
+April2026,,Konsultasi persyartaan KRK untuk Rumah Tinggal,KRK,konsultasi persyartaan krk rumah tinggal,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG untuk Apotek,PBG,konsultasi syarat pbg apotek,3,Cluster 3
+April2026,,Pengambilan dokumen KRK No. Reg 10.262.1957 an. Gianida Istiqomah Mauludin,KRK,ambil dokumen krk reg gianida istiqomah mauludin,2,Cluster 2
+April2026,,migrasi akun simbg,PBG,migrasi akun simbg,2,Cluster 2
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,persyaratan slf,SLF,syarat slf,5,Cluster 5
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,persyaratan krk untuk klinik,KRK,syarat krk klinik,5,Cluster 5
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,persyaratan pbg,PBG,syarat pbg,3,Cluster 3
+April2026,14/04/2026,"Konsultasi persyaratan PBG Konstruksi Reklame untuk ""Optik Internasional""",Lainnya,konsultasi syarat pbg konstruksi reklame optik internasional,3,Cluster 3
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Konsultasi perbaikan pengajuan Reklame untuk Hotel Moxy  Nomor : 327309-27012026-006,Lainnya,konsultasi baik aju reklame hotel moxy nomor,2,Cluster 2
+April2026,,Konsultasi mengenai migrasi pemindahan data,PBG,konsultasi migrasi pindah data,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Klinik Utama daerah Bengawan,KRK,konsultasi syarat krk klinik utama daerah bengawan,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Cek pemberkasan PBG Nomor : 327307-03022026-007 dan Nomor : 327322-05012026-002 dan Nomor : 327306-03012025-002,PBG,cek berkas pbg nomor nomor nomor,2,Cluster 2
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,Konsultasi pengajuan Peta Polygon,PKKPR,konsultasi aju peta polygon,2,Cluster 2
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Pengambilan dokumen KRK No. reg 10.2510.10568an. HENDRIKUS ARDIANTO KRISTAWAN,KRK,ambil dokumen krk reg hendrikus ardianto kristawan,2,Cluster 2
+April2026,,Pengambilan dokumen KRK an. YBS,KRK,ambil dokumen krk ybs,2,Cluster 2
+April2026,,Bantu perbaiki kesalahan sistem karena status stuck di pemohon an ybs,KRK,bantu baik salah sistem status stuck ybs,2,Cluster 2
+April2026,,Konsultasi perbaikan dokumen KRK an. Erna Kurniati,KRK,konsultasi baik dokumen krk erna kurniati,2,Cluster 2
+April2026,,PERSYARATAN KRK UNTUK SEKOLAH,KRK,syarat krk sekolah,5,Cluster 5
+April2026,,IRK EMAIL,IRK,irk email,0,Cluster 0
+April2026,,PEBERKASAN KRK AN YBS,KRK,berkas krk ybs,2,Cluster 2
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,INFORMASI EMNGENAI PKKPR,PKKPR,emngenai pkkpr,2,Cluster 2
+April2026,,PERSYARATAN KRK UNTUK PERUMAHAN,KRK,syarat krk rumah,5,Cluster 5
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,IRK EMAIL,IRK,irk email,0,Cluster 0
+April2026,,IRK EMAIL,IRK,irk email,0,Cluster 0
+April2026,,Cek pemberkasan PBG an. YBS Nomor :327307-23022026-011,PBG,cek berkas pbg ybs nomor,2,Cluster 2
+April2026,15/04/2026,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,Pengambilan dokumen KRK an. YBS,KRK,ambil dokumen krk ybs,2,Cluster 2
+April2026,,"Perbaikan dokumen KRK yang sudah terbit dengan catatan sebelumnya berada di jalur SUUTT, namun dengan adanya surat dari PLN pemohon mengajukan kembali dengan  regist yang sama an. Sintia Alferina",KRK,baik dokumen krk terbit catat belum ada jalur suutt ada surat pln aju regist sama sintia alferina,2,Cluster 2
+April2026,,"Pengambilan dokumen KRK No. Reg 10.262.1279 an. NURDIANI ALFANTINAH, SH, M.Kn",KRK,ambil dokumen krk reg nurdiani alfantinah,2,Cluster 2
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,HASIL UKUR,KRK,hasil ukur,2,Cluster 2
+April2026,,PERSYARATAN KRK UNTUK RUMAH TINGGAL,KRK,syarat krk rumah tinggal,5,Cluster 5
+April2026,,"Konsultasi informasimengenai KTB, KDH dsb untuk Bangunan Jurusan Kebinan Poltekes",IRK,konsultasi informasimengenai ktb kdh bangun jurus kebin poltekes,2,Cluster 2
+April2026,,PERSYARATAN PBG,PBG,syarat pbg,3,Cluster 3
+April2026,,Konsultasi perbaikan dokumen KRK No. Reg 10.2511.10980 an. ANTON ABDURACHMAN AGOES,KRK,konsultasi baik dokumen krk reg anton abdurachman agoes,2,Cluster 2
+April2026,,MIGRASI AKUN SIMBG,PBG,migrasi akun simbg,2,Cluster 2
+April2026,,PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame untuk Bank BSI,Lainnya,konsultasi syarat pbg reklame bank bsi,3,Cluster 3
+April2026,,Bantu follow up pengajuan IRK E-Mail yang berlokasi di Jl. Holis,IRK,bantu follow aju irk mail lokasi hol,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK Surat untuk Klinik,IRK,konsultasi syarat irk surat klinik,0,Cluster 0
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Konsultasi persyaratan Salinan IMB,SALINAN IMB,konsultasi syarat salin imb,2,Cluster 2
+April2026,,Konsultasi mengenai Surat Peringatan yang berlokasi di Jl. H. Sarip No. 9/Gg. H. Sarip No. 241,WASDAL,konsultasi surat ingat lokasi sarip sarip,2,Cluster 2
+April2026,,PERBAIKAN KRK UNTUK KONSULTASI LANGSUNG DENGAN PA IYAN SUHYANA,KRK,baik krk konsultasi langsung iyan suhyana,2,Cluster 2
+April2026,,"Pengambilan dokumen KRK an. RESTA ANDRIA, M.Farm",KRK,ambil dokumen krk resta andria farm,2,Cluster 2
+April2026,,INFORMASI MENGENAI PKKPR,PKKPR,pkkpr,2,Cluster 2
+April2026,,Permohonan Migrasi data di SIMBG an. CHIN ATIE,PBG,mohon migrasi data simbg chin atie,2,Cluster 2
+April2026,,Pandu langsung perbaikan dokumen KRK an. Erna Kurniati,KRK,pandu langsung baik dokumen krk erna kurniati,2,Cluster 2
+April2026,16/04/2026,persyaratan krk untuk apotik,KRK,syarat krk apotik,5,Cluster 5
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,irk surat,IRK,irk surat,0,Cluster 0
+April2026,,Konsultasi pembuatan Peta Polygon untuk pengajuan PKKPR sekolah,PKKPR,konsultasi buat peta polygon aju pkkpr sekolah,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Kost,KRK,konsultasi syarat krk rumah kost,5,Cluster 5
+April2026,,Pengambilan dokumen KRK No. Reg 10.264.3199 dan No. Reg 10.264.3235,KRK,ambil dokumen krk reg reg,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Klinik,KRK,konsultasi syarat krk klinik,5,Cluster 5
+April2026,,Cek zona wilyah daerah Ujungberung dan Kiaracondong,IRK,cek zona wilyah daerah ujungberung kiaracondong,2,Cluster 2
+April2026,,Konsultasi mengenai Retribusi PBG untuk Gor,PBG,konsultasi retribusi pbg gor,2,Cluster 2
+April2026,,Konsultasi perbaikan dokumen KRK No. Reg10.2512.12595 an. BERRY HERLAMBANG,KRK,konsultasi baik dokumen krk reg berry herlambang,2,Cluster 2
+April2026,,informasi emngenai PBG reklame,PBG,emngenai pbg reklame,3,Cluster 3
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,Konsultasi dan cek pemberkasan PBG an. LIVIA SETYABRATA Nomor : 327310-06042026-002,PBG,konsultasi cek berkas pbg livia setyabrata nomor,2,Cluster 2
+April2026,,info jalan masuk,Lainnya,info jalan masuk,2,Cluster 2
+April2026,,Konsultasi persyaratan SLF untuk Apotek,SLF,konsultasi syarat slf apotek,2,Cluster 2
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,irk email,IRK,irk email,0,Cluster 0
+April2026,,Pengambilan dokumen KRK No. Reg 10.248.7971 an. ROSIHON ANWAR,KRK,ambil dokumen krk reg rosihon anwar,2,Cluster 2
+April2026,,Bantu follow up pengajuan PBG an. Riana Indriani S.P. Nomor : 327324-23022026-018,KRK,bantu follow aju pbg riana indriani nomor,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Klinik Pratama daerah Puri Dago,KRK,konsultasi syarat krk klinik pratama daerah puri dago,5,Cluster 5
+April2026,17/04/2026,Konsultasi persyaratan KRK untuk Kantor KUA daerah Panyileukan,KRK,konsultasi syarat krk kantor kua daerah panyileukan,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Ujungberung,KRK,konsultasi syarat krk rumah tinggal daerah ujungberung,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Batununggal,KRK,konsultasi syarat krk rumah tinggal daerah batununggal,5,Cluster 5
+April2026,,INFORMASI ZONA,PKKPR,zona,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,Bantu follow up pengajuan KRK an. ybs status di Verifikasi Kabid TR,KRK,bantu follow aju krk ybs status verifikasi kabid,2,Cluster 2
+April2026,,Konsultasi perbaikan dokumen KRK No. Reg 10.262.1908 an. LIEM SIOE TING,KRK,konsultasi baik dokumen krk reg liem sioe ting,2,Cluster 2
+April2026,,PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,PEMBERKASAN,KRK,berkas,2,Cluster 2
+April2026,,Permohonan bantuan Pengukuran untuk Kantor Urusan Agama Kec. Panyileukan,Surat Masuk,mohon bantu ukur kantor urus agama kec panyileukan,2,Cluster 2
+April2026,,Konsultasi persyaratan SLF,SLF,konsultasi syarat slf,5,Cluster 5
+April2026,,PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+April2026,,PENGAMBILAN KRK AN YBS,KRK,ambil krk ybs,2,Cluster 2
+April2026,,Konsultasi pengajuan PKKPR Verifikasi Persyaratan (untuk pengajuan PKKPR Kolektif) karena berada dinaungan mall dengan Nomor : 202603110802330732229,PKKPR,konsultasi aju pkkpr verifikasi syarat aju pkkpr kolektif ada naung mall nomor,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tingal,KRK,konsultasi syarat krk rumah tingal,5,Cluster 5
+April2026,,PERSYARATAN SALINAN IMB,KRK,syarat salin imb,2,Cluster 2
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,Cek zona wilayah daerah Gumuruh,IRK,cek zona wilayah daerah gumuruh,2,Cluster 2
+April2026,,Konsultasi mengenai pembayaran retribusi,PBG,konsultasi bayar retribusi,2,Cluster 2
+April2026,20/04/2026,Konsultasi persyaratan IRK E-Mail untuk cek zona wilayah daerah cimincrang,IRK,konsultasi syarat irk mail cek zona wilayah daerah cimincrang,2,Cluster 2
+April2026,,Cek zona wilayah daerah kabupaten bandung (Awiligan),IRK,cek zona wilayah daerah kabupaten bandung awiligan,2,Cluster 2
+April2026,,Pandu upload pengajuan KRK untuk Rumah Tinggal,KRK,pandu upload aju krk rumah tinggal,2,Cluster 2
+April2026,,"Cek pemberkasan PBG  Nomor : 327322-05012026-002 , Nomor :327307-03022026-007  dan Nomor : 327306-03012025-002",PBG,cek berkas pbg nomor nomor nomor,2,Cluster 2
+April2026,,Konsultasi Perbaikan dokumen PBG an. LIVIA SETYABRATA Nomor : 327310-06042026-002,PBG,konsultasi baik dokumen pbg livia setyabrata nomor,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Cipadung,KRK,konsultasi syarat krk rumah tinggal daerah cipadung,5,Cluster 5
+April2026,,Konsultasi mengenai SBU,Lainnya,konsultasi sbu,2,Cluster 2
+April2026,,Pembuatan akun PBG untuk Biro Umum (Gedung Sate),PBG,buat akun pbg biro umum gedung sate,2,Cluster 2
+April2026,,Cek zona wilayah daerah Dago,IRK,cek zona wilayah daerah dago,2,Cluster 2
+April2026,,informasi mengenai persayaratan slf,SLF,persayaratan slf,2,Cluster 2
+April2026,,menanyakan alur pengajuan PBG,PBG,tanya alur aju pbg,2,Cluster 2
+April2026,,Informasi IRK surat,IRK,irk surat,0,Cluster 0
+April2026,,Bantu follow up pengajuan KRK No. Reg 10.264.3290,KRK,bantu follow aju krk reg,2,Cluster 2
+April2026,,Ce zona wilayah untuk lembaga  pelatihan,IRK,zona wilayah lembaga latih,2,Cluster 2
+April2026,,persyaratanb krk,KRK,persyaratanb krk,5,Cluster 5
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame untuk Alfamart,Lainnya,konsultasi syarat pbg reklame alfamart,3,Cluster 3
+April2026,21/04/2026,Konsultasi persyaratan KRK untuk Tanah Pemprov,KRK,konsultasi syarat krk tanah pemprov,5,Cluster 5
+April2026,,PEMBERKASAN PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,CEK ZONASI,IRK,cek zonasi,2,Cluster 2
+April2026,,Konfirmasi mengenai SP 1 yang berlokasi didaerah Cipamokolan,WASDAL,konfirmasi lokasi daerah cipamokolan,2,Cluster 2
+April2026,,Pengambilan dokumen KRK an. VIRNANIRANTI,KRK,ambil dokumen krk virnaniranti,2,Cluster 2
+April2026,,pemberkasan PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,Cek salinan IMB jl. Terbang Layang H1-5 TAHUN 1995,SALINAN IMB,cek salin imb terbang layang tahun,2,Cluster 2
+April2026,,persyaratan pbg,PBG,syarat pbg,3,Cluster 3
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,Cek pemberkasan PBG Nomor : 327318-24022026-004 an. Ade Hasan Sumarso status ter hold karena INWAL,PBG,cek berkas pbg nomor ade hasan sumarso status ter hold inwal,2,Cluster 2
+April2026,,"Pengambilan dokumen KRK an. ZAKI MUDZAKIR, S.ST., M.M",KRK,ambil dokumen krk zaki mudzakir,2,Cluster 2
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Konsultasi pengajuan PKKPR,PKKPR,konsultasi aju pkkpr,2,Cluster 2
+April2026,,Bantu follow up pengajuan PBG Nomor : 327326-10032026-010,PBG,bantu follow aju pbg nomor,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG untuk ruko,PBG,konsultasi syarat pbg ruko,3,Cluster 3
+April2026,,PEMBERKASAN PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,PEMBERKASAN PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,INFORMASI MENGENAI ALUR KRK,KRK,alur krk,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,22/04/2026,Pengambilan dokumen KRK No. Reg 10.264.3067 an. RABBANI AMARANGGANA,KRK,ambil dokumen krk reg rabbani amaranggana,2,Cluster 2
+April2026,,pemberkasan pbg,PBG,berkas pbg,2,Cluster 2
+April2026,,PENGAMBILAN KRK AN. JAMES HARO & NELYWANI,KRK,ambil krk james haro nelywani,2,Cluster 2
+April2026,,Cek status Surat Masuk mengenai Surat Pernyataan Pemindahan Data Pemohon PBG di SIMBG,Surat Masuk,cek status surat masuk surat nyata pindah data pbg simbg,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame Identitas,Lainnya,konsultasi syarat pbg reklame identitas,3,Cluster 3
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,pengambilan krk,KRK,ambil krk,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame untuk Identitas,Lainnya,konsultasi syarat pbg reklame identitas,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Cipadung/Panyileukan,KRK,konsultasi syarat krk rumah tinggal daerah cipadung panyileukan,5,Cluster 5
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Pengambilan dokumen KRK No. Reg 10.262.1440 an. SEP BUDI NUGRAHA,KRK,ambil dokumen krk reg sep budi nugraha,2,Cluster 2
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame untuk Hotel Grand Cordela,PBG,konsultasi syarat pbg reklame hotel grand cordela,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,pemberkasan pbg,PBG,berkas pbg,2,Cluster 2
+April2026,,pengambilan krk an ybs,KRK,ambil krk ybs,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame Azko,Lainnya,konsultasi syarat pbg reklame azko,3,Cluster 3
+April2026,,Konsultasi persyaratan KRK untuk Sekolah,KRK,konsultasi syarat krk sekolah,5,Cluster 5
+April2026,,persyaratan pbg,PBG,syarat pbg,3,Cluster 3
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,23/04/2026,Konsultasi persyaratan Rumah Tinggal daerah Burangrang,KRK,konsultasi syarat rumah tinggal daerah burangrang,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Kos Kos an daerah Panyileukan,KRK,konsultasi syarat krk kos kos daerah panyileukan,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Masjid,KRK,konsultasi syarat krk masjid,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Perumahan,KRK,konsultasi syarat krk rumah,5,Cluster 5
+April2026,,Pengambilan dokumen KRK No. Reg 10.261.200 an.  TRI AFIANTO,KRK,ambil dokumen krk reg tri afianto,2,Cluster 2
+April2026,,Konsultasi jawaban IRK E-Mail,IRK,konsultasi jawab irk mail,2,Cluster 2
+April2026,,PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+April2026,,pengambilan krk an.BENIDEKTUS ADI PRIANTO (PT. BINTANG MEDIKA SEJAHTERA) / 1601141604940001,KRK,ambil krk benidektus adi prianto bintang medika sejahtera,2,Cluster 2
+April2026,,Konsultasi mengenai retribusi pelayanan pemakaman (sudah gratis dan tidak ada hutang piutang lagi),PEMAKAMAN,konsultasi retribusi layan makam gratis hutang piutang,1,Cluster 1
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,informasi emngenai sumur resapan,PBG,emngenai sumur resap,2,Cluster 2
+April2026,,informasi mengenai peta polygon,PKKPR,peta polygon,2,Cluster 2
+April2026,,Konsultasi persyaratan SLF untuk Apotek,SLF,konsultasi syarat slf apotek,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,24/05/2026,Konsultasi perbaikan dokumen KRK an. YBS,KRK,konsultasi baik dokumen krk ybs,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Konsultasi persyaratan PBG Reklame untuk Golden Money Changer,Lainnya,konsultasi syarat pbg reklame golden money changer,3,Cluster 3
+April2026,,Bantu follow up pengajuan PBG Nomor : 327322-05012026-002 dan Nomor : 327306-03012025-002,PBG,bantu follow aju pbg nomor nomor,2,Cluster 2
+April2026,,informasi mengenai pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Andir,KRK,konsultasi syarat krk rumah tinggal daerah andir,5,Cluster 5
+April2026,,Konsultasi persyaratan PBG untuk Cafe atau Restaurant,PBG,konsultasi syarat pbg cafe restaurant,3,Cluster 3
+April2026,,Konsultasi persyaratan KRK untuk usaha,KRK,konsultasi syarat krk usaha,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untu Usaha,KRK,konsultasi syarat krk untu usaha,5,Cluster 5
+April2026,,Konsultasi mengenai peta Polygon,PKKPR,konsultasi peta polygon,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK E-Mail untuk cek zona wilayah,IRK,konsultasi syarat irk mail cek zona wilayah,2,Cluster 2
+April2026,,PENGAMBILAN KRK,KRK,ambil krk,2,Cluster 2
+April2026,,INFORMASI PBG,PBG,pbg,3,Cluster 3
+April2026,,Pandu langsung pengajuan KRK an. YBS,KRK,pandu langsung aju krk ybs,2,Cluster 2
+April2026,27/04/2026,Konsultasi dan pandu perbaikan dokumen KRK  No. Reg 10.264.3654,KRK,konsultasi pandu baik dokumen krk reg,2,Cluster 2
+April2026,,Konsultasi mengenai perubahan E-Mail an. HERAWAN KOSWARA,PBG,konsultasi ubah mail herawan koswara,2,Cluster 2
+April2026,,Konsulasi persyaratan KRK untuk Rumah Tinggal daerah Gegerkalong,KRK,konsulasi syarat krk rumah tinggal daerah gegerkalong,5,Cluster 5
+April2026,,Konsultasi mengenai penolakan zona wilayah pada pengajuan PKKPR yang berlokasi PT. SINERGY MEDIATEK INFORMASI,PKKPR,konsultasi tolak zona wilayah aju pkkpr lokasi sinergy mediatek,2,Cluster 2
+April2026,,PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+April2026,,Konsultasi mengenai PBG Reklame Identitas,PKKPR,konsultasi pbg reklame identitas,3,Cluster 3
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,IRK EMAIL,IRK,irk email,0,Cluster 0
+April2026,,INFORMASI PKKPR PT PINDAD,PKKPR,pkkpr pindad,2,Cluster 2
+April2026,,Cek zona wilayah dan pelebaran jalan,IRK,cek zona wilayah lebar jalan,2,Cluster 2
+April2026,,Cek pemberkasan KRK No. Reg 10.262.1908 an. LIEM SIOE TING,KRK,cek berkas krk reg liem sioe ting,2,Cluster 2
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,PEMBERKASAN KRK,KRK,berkas krk,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,PERSYARATAN SLF,SLF,syarat slf,5,Cluster 5
+April2026,,perubahan akun simbg,PBG,ubah akun simbg,2,Cluster 2
+April2026,,Konsultasi perubahan atau migrasi E-Mail,PBG,konsultasi ubah migrasi mail,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,Cek bantu follow up pengajuan PBG,PBG,cek bantu follow aju pbg,2,Cluster 2
+April2026,,Pengambilan dokumen IRK Surat yang berlokasi di Jl. H. Kurdi,IRK,ambil dokumen irk surat lokasi kurdi,0,Cluster 0
+April2026,,Konsultasi cek zona wilayah yang berlokasi di Jl. Buah Batu,IRK,konsultasi cek zona wilayah lokasi buah batu,2,Cluster 2
+April2026,,"PENGAMBILAN KRK AN ARIFIN MUNTHE, S.SOS. / 3273070105490001",KRK,ambil krk arifin munthe sos,2,Cluster 2
+April2026,,Pandu revisi berkas KRK an. IDA AYU ASTUTI,KRK,pandu revisi berkas krk ida ayu astuti,2,Cluster 2
+April2026,,pemberkasan pbg,PBG,berkas pbg,2,Cluster 2
+April2026,28/04/2026,Pengajuan Migrasi atau Perubahan akun an. Drs. Paulus Suharja NIK : 327308150260001,PBG,aju migrasi ubah akun drs paulus suharja nik,2,Cluster 2
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Cikaso,KRK,konsultasi syarat krk rumah tinggal daerah cikaso,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Gereja,KRK,konsultasi syarat krk gereja,5,Cluster 5
+April2026,,Kolsultasi perbaikan KRK No. Reg 10.264.3654 an. IDA AYU ASTUTI,KRK,kolsultasi baik krk reg ida ayu astuti,2,Cluster 2
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,persyaratan KRK untuk ruko,KRK,syarat krk ruko,5,Cluster 5
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Konfirmasi mengenai KRK yang sudah terbit pad atahun 2020 namun berada diaerah KBU dan memerlukan Rekomendasi dari Gurbernur,KRK,konfirmasi krk terbit pad atahun ada diaerah kbu perlu rekomendasi gurbernur,2,Cluster 2
+April2026,,pemberkasan pbg,PBG,berkas pbg,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK Surat untuk Apotek,IRK,konsultasi syarat irk surat apotek,0,Cluster 0
+April2026,,Konsultasi persyaratan PBG Reklame untuk Identitas (logo YAMAHA),Lainnya,konsultasi syarat pbg reklame identitas logo yamaha,3,Cluster 3
+April2026,,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame untuk HOtel Crown Plaza,Lainnya,konsultasi syarat pbg reklame hotel crown plaza,3,Cluster 3
+April2026,,pemberkasan krk,KRK,berkas krk,2,Cluster 2
+April2026,,Konsul mengenai proyek jembatan layang di daerah cinambo,Lainnya,konsul proyek jembatan layang daerah cinambo,2,Cluster 2
+April2026,,informasi mengenai pkkpr,PKKPR,pkkpr,2,Cluster 2
+April2026,,Pengambilan dokumen KRK No. Reg 10.264.3275,KRK,ambil dokumen krk reg,2,Cluster 2
+April2026,,Konsultasi salinan IMB Tahun 1993 yang berlokasi di Jl. Cicalengka Raya No. 44,SALINAN IMB,konsultasi salin imb tahun lokasi cicalengka raya,2,Cluster 2
+April2026,,Cek bantu pengajuan PBG Nomor : 327326-20042026-002,PBG,cek bantu aju pbg nomor,2,Cluster 2
+April2026,,Konsultasi persyaratan IRK Surat untuk Apotek,IRK,konsultasi syarat irk surat apotek,0,Cluster 0
+April2026,,Pengambilan dokumen KRK No. Reg 10.262.1284,KRK,ambil dokumen krk reg,2,Cluster 2
+April2026,,pbg reklame,PBG,pbg reklame,3,Cluster 3
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,29/04/2026,PERSYARATAN KRK,KRK,syarat krk,5,Cluster 5
+April2026,,Konsultasi perbaikan dokumen KRK an. YBS,KRK,konsultasi baik dokumen krk ybs,2,Cluster 2
+April2026,,pengajuan irk surat,IRK,aju irk surat,0,Cluster 0
+April2026,,Permohonan permintaan data untuk Karya Ilmiah,Mahasiswa,mohon minta data karya ilmiah,2,Cluster 2
+April2026,,persyaratan pbg reklame,PBG,syarat pbg reklame,3,Cluster 3
+April2026,,pengajuan irk surat,IRK,aju irk surat,0,Cluster 0
+April2026,,Bantu follow up pengajuan KRK No. Reg 10.263.2813 an. NURBANI SUCI,KRK,bantu follow aju krk reg nurbani suci,2,Cluster 2
+April2026,,Cek zona wilayah untuk perluasan gereja yang berlokasi di Jl. Setiabudhi,IRK,cek zona wilayah luas gereja lokasi setiabudhi,2,Cluster 2
+April2026,,persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,Bantu follow up pengajuan KRK No. Reg 10.264.3290 SRI UTAMI RAHAYU,KRK,bantu follow aju krk reg sri utami rahayu,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyaratan PBG Reklame,Lainnya,konsultasi syarat pbg reklame,3,Cluster 3
+April2026,,persyratan pbg,PBG,persyratan pbg,3,Cluster 3
+April2026,,informasi persyaratan krk,KRK,syarat krk,5,Cluster 5
+April2026,,konsultasi mengenai irk email,IRK,konsultasi irk email,0,Cluster 0
+April2026,,irk surat,IRK,irk surat,0,Cluster 0
+April2026,,konsultasi mengenai pbg reklame,PBG,konsultasi pbg reklame,3,Cluster 3
+April2026,,Konsultasi persyartaan PBG Reklame Identitas,Lainnya,konsultasi persyartaan pbg reklame identitas,3,Cluster 3
+April2026,,irk email,IRK,irk email,0,Cluster 0
+April2026,,Cek pengajuan PBG Nomor : 327307-03022026-007 dan Nomor : 327322-05012026-002,PBG,cek aju pbg nomor nomor,2,Cluster 2
+April2026,,Konsultasi persyartaan PBG Reklame,Lainnya,konsultasi persyartaan pbg reklame,3,Cluster 3
+April2026,,PEMBERKASAN PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,PEMBERKASAN PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,PERSYARATAN PBG REKLAME,PBG,syarat pbg reklame,3,Cluster 3
+April2026,30/04/2026,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Konsultasi persyaratan PBG untuk Rumah Tinggal,KRK,konsultasi syarat pbg rumah tinggal,5,Cluster 5
+April2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+April2026,,Konsultasi persyaratan PBG Reklame Identitas,Lainnya,konsultasi syarat pbg reklame identitas,3,Cluster 3
+April2026,,Konsultasi mengenai pengajuan PKKPR untuk PT. SURYA MULTI LAKSANA yang berlokasi di Jl. Soekarno Hatta No. 207 A,PKKPR,konsultasi aju pkkpr surya multi laksana lokasi soekarno hatta,2,Cluster 2
+April2026,,PERSYARATAN SLF,SLF,syarat slf,5,Cluster 5
+April2026,,INFORMASI PKKPR,PKKPR,pkkpr,2,Cluster 2
+April2026,,IRK SURAT,IRK,irk surat,0,Cluster 0
+April2026,,PEMBERKASAN PBG,PBG,berkas pbg,2,Cluster 2
+April2026,,Konsultasi perbaikan dokumen KRK No. Reg 10.264.3356 an.  IHSAN ALI MUHAROM,KRK,konsultasi baik dokumen krk reg ihsan ali muharom,2,Cluster 2
+April2026,,Bantu follow up pengajuan IRK E-Mail an. KIKI MULYADI,IRK,bantu follow aju irk mail kiki mulyadi,2,Cluster 2
+April2026,,Konsultasi persyaratan PBG untuk Rumah kost,PBG,konsultasi syarat pbg rumah kost,2,Cluster 2
+Mei2026,2026-04-05 00:00:00,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Citerrup,KRK,konsultasi syarat krk rumah tinggal daerah citerrup,5,Cluster 5
+Mei2026,,INFORMASI MENGENAI PERSYARATAN PBG REKLAME,REKLAME,syarat pbg reklame,3,Cluster 3
+Mei2026,,Cek dan bantu follow up pengajuan SLF an. Farida Anum,SLF,cek bantu follow aju slf farida anum,2,Cluster 2
+Mei2026,,konsultasi mengenai pemberkasan pbg,PBG,konsultasi berkas pbg,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal dan Toko daerah Buah Batu,KRK,konsultasi syarat krk rumah tinggal toko daerah buah batu,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Bantu follow up pengajuan PBG Nomor : 327322-05012026-002 dan Nomor : 327306-03012025-002,PBG,bantu follow aju pbg nomor nomor,2,Cluster 2
+Mei2026,,Konsultasi persyartaan KRK untuk Ruko daerah Antapani,KRK,konsultasi persyartaan krk ruko daerah antapani,2,Cluster 2
+Mei2026,,konsultasi mengenai persyaratan KRK,KRK,konsultasi syarat krk,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Klinik Pratama,KRK,konsultasi syarat krk klinik pratama,5,Cluster 5
+Mei2026,,Pengambilan KRK a.n irwansyah,KRK,ambil krk irwansyah,2,Cluster 2
+Mei2026,,Pandu langsung pengajuan KRK an. ENUNG KUSTIAH,KRK,pandu langsung aju krk enung kustiah,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggl,KRK,konsultasi syarat krk rumah tinggl,5,Cluster 5
+Mei2026,,konsultasi persyaratan REKLAME,REKLAME,konsultasi syarat reklame,3,Cluster 3
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Caringin,KRK,konsultasi syarat krk rumah tinggal daerah caringin,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Apotek,KRK,konsultasi syarat krk apotek,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Apotek,KRK,konsultasi syarat krk apotek,5,Cluster 5
+Mei2026,,Cek pengajuan PBG status di Menunggu Pembayaran,PBG,cek aju pbg status tunggu bayar,2,Cluster 2
+Mei2026,,Ubah password akun SIPETRUK an. YBS,KRK,ubah password akun sipetruk ybs,2,Cluster 2
+Mei2026,,Perbaikan dokumen KRK a.n Erwanti,KRK,baik dokumen krk erwanti,2,Cluster 2
+Mei2026,,Bantu follow up pengajuan KRK an. SITI AFIFAH,KRK,bantu follow aju krk siti afifah,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tingga,KRK,konsultasi syarat krk rumah tingga,5,Cluster 5
+Mei2026,,Informasi persyaratan IRK Email,IRK,syarat irk email,0,Cluster 0
+Mei2026,,Konsultasi Persyaratan KRK rumah tinggal daerah karasak,KRK,konsultasi syarat krk rumah tinggal daerah karasak,5,Cluster 5
+Mei2026,,Konsultasi Persyaratan KRK Rumah tinggal daerah gegerkalong,KRK,konsultasi syarat krk rumah tinggal daerah gegerkalong,5,Cluster 5
+Mei2026,2026-05-05 00:00:00,Konsultasi mengenai perijinan bangunan dengan pa rizky bidang ck an. Pa Ade,PBG,konsultasi perijinan bangun rizky bidang ade,2,Cluster 2
+Mei2026,,Informasi mengenai program kerja tenaga kebersihan diarahkan ke DSDABM,Lainnya,program kerja tenaga bersih arah dsdabm,2,Cluster 2
+Mei2026,,Konsultasi persyaratan PBG Reklame untuk Hotel Grand Kopo,REKLAME,konsultasi syarat pbg reklame hotel grand kopo,3,Cluster 3
+Mei2026,,Konsultasi mengenai persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi mengenai persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi Persyaratan KRK,KRK,konsultasi syarat krk,5,Cluster 5
+Mei2026,,Informasi mengenai perngajuan proses PBG dan KRK,PBG,perngajuan proses pbg krk,2,Cluster 2
+Mei2026,,Konsultasi mengenai pesyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi Persyaratan KRK,KRK,konsultasi syarat krk,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Non Rumah Tinggal,KRK,konsultasi syarat krk non rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi mengenai PBG REKLAME,PBG,konsultasi pbg reklame,3,Cluster 3
+Mei2026,,Informasi mengenai PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi salinan iMB Tahun 1997,SALINAN IMB,konsultasi salin imb tahun,2,Cluster 2
+Mei2026,,Konsultasi mengenai kendala akun SIMBG,Tidak Diketahui,konsultasi kendala akun simbg,2,Cluster 2
+Mei2026,,Konsultasi mengenai persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi perbaikan dokumen KRK an. YBS,KRK,konsultasi baik dokumen krk ybs,2,Cluster 2
+Mei2026,,Bantu follow up pengajuan IRK E-Mail,IRK,bantu follow aju irk mail,2,Cluster 2
+Mei2026,,Konsultasi persyaratan IRK Surat,IRK,konsultasi syarat irk surat,0,Cluster 0
+Mei2026,,Konsultasi persyartan PBG,PBG,konsultasi persyartan pbg,3,Cluster 3
+Mei2026,,Pengambilan dokumen KRK an. RUDI SUDIRO MURBONEGORO dan IR. H. DUDUNG KUSMARA,KRK,ambil dokumen krk rudi sudiro murbonegoro dudung kusmara,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi persyaratan IRK Surat,IRK,konsultasi syarat irk surat,0,Cluster 0
+Mei2026,,Konsultasi persyaratan PBG,PBG,konsultasi syarat pbg,3,Cluster 3
+Mei2026,2026-06-05 00:00:00,Konsultasi mengenai persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Pengambilan dokumen KRK No. Reg 10.262.2057 an. SONI SUHARYONO,KRK,ambil dokumen krk reg soni suharyono,2,Cluster 2
+Mei2026,,Konsultasi persyaratan PBG Reklame untuk Identitas nama perusahaan asuransi,REKLAME,konsultasi syarat pbg reklame identitas nama usaha asuransi,3,Cluster 3
+Mei2026,,Pengambilan KRK a.n Ispurnomo no regist. 10.264.3510,KRK,ambil krk ispurnomo regist,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Kost,KRK,konsultasi syarat krk kost,5,Cluster 5
+Mei2026,,Cek salinan IMB,SALINAN IMB,cek salin imb,2,Cluster 2
+Mei2026,,Konsultasi perbaikan dokumen KRK an. YBS,KRK,konsultasi baik dokumen krk ybs,2,Cluster 2
+Mei2026,,Konsultasi Persyaratan PBG REKLAME The Papandayan Hotel,PBG,konsultasi syarat pbg reklame the papandayan hotel,3,Cluster 3
+Mei2026,,Mengikuti rapat Klarifikasi terkait PBG dan SLF untuk Bangunan di Jl. Gajah lumantung No. 3  dengan Bidang WASDAL,WASDAL,ikut rapat klarifikasi pbg slf bangun gajah lumantung bidang wasdal,2,Cluster 2
+Mei2026,,Cek zona wilayah Jl. Dago Pojok,IRK,cek zona wilayah dago pojok,2,Cluster 2
+Mei2026,,Bantu follow up pengajuan IRK E-Mail yang berlokasi di Jl. Cigadung Selatan II No. 17 sejak tgl. 24 April 2026,IRK,bantu follow aju irk mail lokasi cigadung selatan sejak tgl april,2,Cluster 2
+Mei2026,,Konsultasi mengenai kendala Akun SIMBG,PBG,konsultasi kendala akun simbg,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah BuahBatu,KRK,konsultasi syarat krk rumah tinggal daerah buahbatu,5,Cluster 5
+Mei2026,,kosultasi persyaratan KRK untuk apotek daerah singgasana,KRK,kosultasi syarat krk apotek daerah singgasana,5,Cluster 5
+Mei2026,,Konsultasi mengenai KRK cagar budaya tipe c Jl. Bengawan No. 78  daerah bengawa,KRK,konsultasi krk cagar budaya tipe bengawan daerah bengawa,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Sekolah Paud,KRK,konsultasi syarat krk sekolah paud,5,Cluster 5
+Mei2026,,Konsultasi mengenai pengajuan IRK email,IRK,konsultasi aju irk email,0,Cluster 0
+Mei2026,,Konsultasi persyaratan PBG Reklame untuk Identitas (HYPERMART),REKLAME,konsultasi syarat pbg reklame identitas hypermart,3,Cluster 3
+Mei2026,,Cek pemberkasan KRK,KRK,cek berkas krk,2,Cluster 2
+Mei2026,,Konsultasi mengenai persyaratan IRK surat,IRK,konsultasi syarat irk surat,0,Cluster 0
+Mei2026,,Konsultasi persyaratan KRK rumah tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,2026-07-05 00:00:00,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi Follow Up IRK Email Jl. Cijawura girang,IRK,konsultasi follow irk email cijawura girang,0,Cluster 0
+Mei2026,,Konsultasi persyaratan KRK rumah tinggal daerah arcamanik,KRK,konsultasi syarat krk rumah tinggal daerah arcamanik,5,Cluster 5
+Mei2026,,Informasi mengenai PBG REKLAME,PBG,pbg reklame,3,Cluster 3
+Mei2026,,Informasi mengenai kepemilikan tanah di jl. kupang antapani kidulmbuka,Lainnya,milik tanah kupang antapani kidulmbuka,2,Cluster 2
+Mei2026,,"Konsultasi perbaikan dokumen KRK an, YBS",KRK,konsultasi baik dokumen krk ybs,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk apotik,KRK,konsultasi syarat krk apotik,5,Cluster 5
+Mei2026,,Perbaikan berkas KRK dengan no regist 10.264.4087,KRK,baik berkas krk regist,2,Cluster 2
+Mei2026,,Cek pemberkasan KRK an. SITI AFIFAH,KRK,cek berkas krk siti afifah,2,Cluster 2
+Mei2026,,Bantu follow up  pengajuan KRK an. YBS,KRK,bantu follow aju krk ybs,2,Cluster 2
+Mei2026,,Pengambilan dokumen KRK an. YBS,KRK,ambil dokumen krk ybs,2,Cluster 2
+Mei2026,,Pengambilan KRK A.N Dwi Narto Nugroho,KRK,ambil krk dwi narto nugroho,2,Cluster 2
+Mei2026,,Pengambilan dokumen KRK an. ADEVIA MUTIARA OKTA,KRK,ambil dokumen krk adevia mutiara okta,2,Cluster 2
+Mei2026,,Pengajuan IRK Surat an. ELVIN ATMAJA HIDAYAT yang berlokasi di Jl. Babakan Sukajadi No. 3,IRK,aju irk surat elvin atmaja hidayat lokasi babakan sukajadi,0,Cluster 0
+Mei2026,,Bantu upluad perbaikan KRK rumah tinggal,KRK,bantu upluad baik krk rumah tinggal,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Apotek dan Klinik,KRK,konsultasi syarat krk apotek klinik,5,Cluster 5
+Mei2026,,INFORMASI KONSULTASI PBB REKLAME,PBG,konsultasi pbb reklame,3,Cluster 3
+Mei2026,,Pengambilan KRK a.n ERNA KURNIATI,KRK,ambil krk erna kurniati,2,Cluster 2
+Mei2026,,Konsultasi mengenai kendala akun SIMBG,PBG,konsultasi kendala akun simbg,2,Cluster 2
+Mei2026,,Konsultasi perbaikan dokumen KRK No. Reg 10.261.241,KRK,konsultasi baik dokumen krk reg,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk alih fungsi,KRK,konsultasi syarat krk alih fungsi,5,Cluster 5
+Mei2026,,kONSULTASI PERBAIKAN DOKUMEN KRK,KRK,konsultasi baik dokumen krk,2,Cluster 2
+Mei2026,,PENGECEKAN STATUS KRK VERIFIKASI SUBKOR PPTR,KRK,kece status krk verifikasi subkor pptr,2,Cluster 2
+Mei2026,2026-08-05 00:00:00,Konsultasi persyaratan KRK untuk Gudang yang di Jl. Cimindi No. 272,KRK,konsultasi syarat krk gudang cimindi,5,Cluster 5
+Mei2026,,Bantu follow up pengajuan KRK No. Reg 10.264.3237 an. DRS. H. E HUDAYA PRAWIRA status di Subkoor PPTR sejak tgl. 30/04/2026,KRK,bantu follow aju krk reg drs hudaya prawira status subkoor pptr sejak tgl,2,Cluster 2
+Mei2026,,Konsultasi persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi persyaratan PBG rumah tinggal,PBG,konsultasi syarat pbg rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi persyaratan PBG Reklame Identitas diatas 4 meter,REKLAME,konsultasi syarat pbg reklame identitas atas meter,3,Cluster 3
+Mei2026,,Konsultasi perbaikan dokumen KRK,KRK,konsultasi baik dokumen krk,2,Cluster 2
+Mei2026,,Konsultasi perijinan bangunan untuk Kabupaten Bandung,PBG,konsultasi perijinan bangun kabupaten bandung,2,Cluster 2
+Mei2026,,Cek pengajuan KRK an. RIDWAN SETIAWAN,KRK,cek aju krk ridwan setiawan,2,Cluster 2
+Mei2026,,Cek dan bantu follow up terkait pengajuan PBG Nomor : 327313-06052026-014 status di Verifikasi Kelengkapan Dokumen,PBG,cek bantu follow aju pbg nomor status verifikasi lengkap dokumen,2,Cluster 2
+Mei2026,,Konsultasi perbaikan dokumen KRK fitness plus summarecon bandung,KRK,konsultasi baik dokumen krk fitness plus summarecon bandung,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Pengambilan dokumen KRK an. MARIO FRANSISCO RETA XAVERY,KRK,ambil dokumen krk mario fransisco reta xavery,2,Cluster 2
+Mei2026,,Perbaikan dokumen KRK lapangan golf arcamanik,KRK,baik dokumen krk lapang golf arcamanik,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Ruko,KRK,konsultasi syarat krk ruko,5,Cluster 5
+Mei2026,,Pandu langsung pengajuan IRK E-Mail yang berlokasi di Jl. Ir. H. Juanda No.262,IRK,pandu langsung aju irk mail lokasi juanda,2,Cluster 2
+Mei2026,,PENGECEKAN STATUS SLF UNTUK JL.RANGGA GEMPOL,SLF,kece status slf rangga gempol,2,Cluster 2
+Mei2026,2026-11-05 00:00:00,Konsultasi perbaikan dokumen KRK No. Reg 10.263.2983 an. ERIS RAMDANI (KLINIK LAPAS KELAS IIA BANCEUY),KRK,konsultasi baik dokumen krk reg eris ramdani klinik lapas kelas iia banceuy,2,Cluster 2
+Mei2026,,Pergantian kata sandu akun krk bapak yudhi,KRK,ganti kata sandu akun krk bapak yudhi,2,Cluster 2
+Mei2026,,Konsultasi persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,PENGAMBILAN KRK A.N RIDWAN SETIAWAN,KRK,ambil krk ridwan setiawan,2,Cluster 2
+Mei2026,,Konsultasi peng upload an PBG untuk apotek pada SIMBG,PBG,konsultasi peng upload pbg apotek simbg,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK rumah tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi persyaratan PBG Bangunan untuk Perumahan daerah Gedebage,PBG,konsultasi syarat pbg bangun rumah daerah gedebage,3,Cluster 3
+Mei2026,,Bantu ubah password an. YBS,KRK,bantu ubah password ybs,2,Cluster 2
+Mei2026,,konsultasi pemberkasan pbg reklame,PBG,konsultasi berkas pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Sekolah,KRK,konsultasi syarat krk sekolah,5,Cluster 5
+Mei2026,,Informasi mengenai salinan siteplan 2004,SITEPLAN,salin siteplan,2,Cluster 2
+Mei2026,,Konsultasi mengenai penolakan PKKPR karena RDTR tidak sesuai,PKKPR,konsultasi tolak pkkpr rdtr sesuai,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Klinik,KRK,konsultasi syarat krk klinik,5,Cluster 5
+Mei2026,,Konsultasi mengenai persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi persyaratan KRK untu Ruko daerah Ciroyom,KRK,konsultasi syarat krk untu ruko daerah ciroyom,5,Cluster 5
+Mei2026,,Konsultasi persyaratan IRK Surat untuk Apotek,IRK,konsultasi syarat irk surat apotek,0,Cluster 0
+Mei2026,,Konsultasi persyaratan KRK rumah tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi mengenai persyaratan PBG Reklame untuk hotel daerah Braga,REKLAME,konsultasi syarat pbg reklame hotel daerah braga,3,Cluster 3
+Mei2026,,Pengambilan KRK a.n Muhammad ali ridho diwakilkan,KRK,ambil krk muhammad ali ridho wakil,2,Cluster 2
+Mei2026,,Konsultasi pemberkasan KRK,KRK,konsultasi berkas krk,2,Cluster 2
+Mei2026,,Konsultasi persyaratan PBG untuk Apotek,PBG,konsultasi syarat pbg apotek,3,Cluster 3
+Mei2026,,iNFORMASI MENGENAI PERSYARATAN SLF BANDARA HUSEIN,SLF,syarat slf bandara husein,5,Cluster 5
+Mei2026,,Konsultasi dan cek zona wilayah melalui link RDTR yang berlokasi di Jl. Ciwaru,IRK,konsultasi cek zona wilayah lalu link rdtr lokasi ciwaru,2,Cluster 2
+Mei2026,,Konsultasi IRK Surat untuk Apotek,IRK,konsultasi irk surat apotek,0,Cluster 0
+Mei2026,2026-12-05 00:00:00,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Kiaracondong,KRK,konsultasi syarat krk rumah tinggal daerah kiaracondong,5,Cluster 5
+Mei2026,,Konsultasi persyaratan SLF,SLF,konsultasi syarat slf,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK,KRK,konsultasi syarat krk,5,Cluster 5
+Mei2026,,Konsultasi mengenai informasi pengajuan PBG,PBG,konsultasi aju pbg,2,Cluster 2
+Mei2026,,Bantu follow up pengajuan PBG Nomor : 327309-23042026-007 an. Sep Budi Nugraha,PBG,bantu follow aju pbg nomor sep budi nugraha,2,Cluster 2
+Mei2026,,konultasi persyaratan PBG REKLAME,KRK,konultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,INFORMASI MENGENAI PBG YANG SUDAH TERBIT,PBG,pbg terbit,2,Cluster 2
+Mei2026,,PENGAMBILAN KRK A.N SUNARDI DIWAKILKAN,KRK,ambil krk sunardi wakil,2,Cluster 2
+Mei2026,,PENGAMBILAN KRK ATAS NAMA MUHAMMAD RIZA,KRK,ambil krk atas nama muhammad riza,2,Cluster 2
+Mei2026,,Konsultasi IRK untuk cek Zona Wilayah daerah Antapani,IRK,konsultasi irk cek zona wilayah daerah antapani,2,Cluster 2
+Mei2026,,KONSULTASI TERKAIT SURAT PENGAJUAN KKPR DAN SUDAH SIARAHKAN KE DPMPTSP,Lainnya,konsultasi surat aju kkpr siarah dpmptsp,2,Cluster 2
+Mei2026,,PENGAJUAN SURAT PERMOHONAN MIGRASI AKUN SIMBG ATAS NAMA IRSAN AHSEN SERVIA,PBG,aju surat mohon migrasi akun simbg atas nama irsan ahsen servia,2,Cluster 2
+Mei2026,,INFORMASI MENGENAI PERSYARATAN PBG,PBG,syarat pbg,3,Cluster 3
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Margahayu,KRK,konsultasi syarat krk rumah tinggal daerah margahayu,5,Cluster 5
+Mei2026,,Cek pengajuan PBG Nomor : 327322-05012026-002,PBG,cek aju pbg nomor,2,Cluster 2
+Mei2026,,KONSULTASI PERSYARATAN KRK,KRK,konsultasi syarat krk,5,Cluster 5
+Mei2026,,"Pengambilan dokumen KRK No. Reg 10.264.3061 an. DEDI YUSUP APRIADI, SE",KRK,ambil dokumen krk reg dedi yusup apriadi,2,Cluster 2
+Mei2026,,Perbaikan dokumen KRK No. Reg 10.261.924 an. DR. RACHMAT GUNADI,KRK,baik dokumen krk reg rachmat gunadi,2,Cluster 2
+Mei2026,,PENGAMBILAN KRK A.N NARENDRA SAVA HANUNG,KRK,ambil krk narendra sava hanung,2,Cluster 2
+Mei2026,,Konsultasi dan cek zona wilayah yang berlokasi di Jl. Windu No. 23,IRK,konsultasi cek zona wilayah lokasi windu,2,Cluster 2
+Mei2026,,Pengambilan dokumen KRK No. Reg 10.264.3380 an. LIAUW PAULUS TEJAKUSUMA,KRK,ambil dokumen krk reg liauw paulus tejakusuma,2,Cluster 2
+Mei2026,,KONSULTASI PERSYARATAN PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,KONSILTASI PERSYARATAN KRK RUMAH TINGGAL,KRK,konsiltasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi persyaratan migrasi atau ganti e-mail,PBG,konsultasi syarat migrasi ganti mail,2,Cluster 2
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,13/05.2026,Konsultasi dan cek zona wilayah yang berlokasi di Jl. Nagrog (Grand Valley Ujungberung),IRK,konsultasi cek zona wilayah lokasi nagrog grand valley ujungberung,2,Cluster 2
+Mei2026,,Konsulyasi persyaratan KRK untuk bangunan pesantren,PBG,konsulyasi syarat krk bangun pesantren,5,Cluster 5
+Mei2026,,konsultasi persyaratan KRK rumah tinggal di arcamanik,IRK,konsultasi syarat krk rumah tinggal arcamanik,5,Cluster 5
+Mei2026,,Pengajuan IRK surat apotek,IRK,aju irk surat apotek,0,Cluster 0
+Mei2026,,Konsultasi persyaratan KRK untuk Apotek,IRK,konsultasi syarat krk apotek,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Ruko Batununggal,KRK,konsultasi syarat krk ruko batununggal,5,Cluster 5
+Mei2026,,Konultasi persyaratan KRK untuk Pabrik,KRK,konultasi syarat krk pabrik,2,Cluster 2
+Mei2026,,Konsultasi persyaratan REKLAME,PBG,konsultasi syarat reklame,3,Cluster 3
+Mei2026,,Konsultasi persyaratan KRK rumah tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Cek salinan IMB tahun 2016,SALINAN IMB,cek salin imb tahun,2,Cluster 2
+Mei2026,,Konsultasi pengajuan PBG untuk Apotek an. YBS,PBG,konsultasi aju pbg apotek ybs,2,Cluster 2
+Mei2026,,Konsultasi persyaratan IRK email,IRK,konsultasi syarat irk email,0,Cluster 0
+Mei2026,,Konsultasi persyaratan dan informasi mengenai persyaratan PBG Reklame  untuk hotel crown,REKLAME,konsultasi syarat syarat pbg reklame hotel crown,3,Cluster 3
+Mei2026,,Konsultasi persyaratan PBG REKLAME,PBG,konsultasi syarat pbg reklame,3,Cluster 3
+Mei2026,,Konsultasi persyaratan KRK untuk Pesantren,KRK,konsultasi syarat krk pesantren,5,Cluster 5
+Mei2026,,Konsultasi persyaratan KRK untuk Rumah Tinggal,KRK,konsultasi syarat krk rumah tinggal,5,Cluster 5
+Mei2026,,Konsultasi persyaratan perubahan SLF untuk Puskesmas Pasirlayung,SLF,konsultasi syarat ubah slf puskesmas pasirlayung,2,Cluster 2
+Mei2026,,"Yang Melaporkan,",Tidak Diketahui,lapor,2,Cluster 2
+Mei2026,,ANNISA NUR KHOLIFAH INSANI,Tidak Diketahui,annisa nur kholifah insani,2,Cluster 2
+Pemakaman,2026-01-12 00:34:36.459000,Pembayaran piutang,Pemakaman Umum,bayar piutang,2,Cluster 2
+Pemakaman,2026-01-12 17:29:37.702000,Pembayaran piutan,Pemakaman Umum,bayar piut,2,Cluster 2
+Pemakaman,2026-01-28 23:15:50.878000,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,Revisi Data Makam,tanya makam gratis,1,Cluster 1
+Pemakaman,2026-01-28 23:17:37.203000,DIKREMASI DIRUMAH DUKA BUMI BARU,Pemindahan Makam,kremasi rumah duka bumi baru,2,Cluster 2
+Pemakaman,2026-01-28 23:18:57.406000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-01-28 23:20:03.873000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-01-28 23:21:00.904000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-01-29 20:43:50.469000,Pemakaman Baru Tumpang dengan Alm Sarah Binti Ripan wafat 19-08-2004 Blok D No.46,Pemakaman Baru Tumpang,makam baru tumpang alm sarah binti ripan wafat blok,1,Cluster 1
+Pemakaman,2026-01-29 20:50:08.176000,Sosialisasi Retribusi Gratis di UPTD wilayah I TPU Cibarunay,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis uptd wilayah tpu cibarunay,1,Cluster 1
+Pemakaman,2026-02-01 17:12:21.858000,PEMAKAMAN BARU DI BLOK D,Pemakaman Baru,makam baru blok,1,Cluster 1
+Pemakaman,2026-02-01 17:14:28.260000,PEMAKAMAN BARU WAFAT TANGGAL 2-2-2026 DI BLOK C,Pemakaman Baru,makam baru wafat tanggal blok,1,Cluster 1
+Pemakaman,2026-02-01 17:16:19.373000,PENGAMBILAN KARTU DATA MAKAM WAFAT TANGGAL 10-01-2026 BLOK A,Pemakaman Baru,ambil kartu data makam wafat tanggal blok,2,Cluster 2
+Pemakaman,2026-02-01 20:58:57.903000,PEMBAYARAN RETRIBUSI,Revisi Data Makam,bayar retribusi,2,Cluster 2
+Pemakaman,2026-02-01 21:00:05.716000,SOSIALISASI RETRIBUSI MAKAM,Sosialisasi Retribusi Gratis,sosialisasi retribusi makam,1,Cluster 1
+Pemakaman,2026-02-04 16:24:52.499000,PEMBAYARAN RETRIBUSI MAKAM,Sosialisasi Retribusi Gratis,bayar retribusi makam,1,Cluster 1
+Pemakaman,2026-02-04 16:27:20.300000,PEMBAYARAN RETRIBUSI,Sosialisasi Retribusi Gratis,bayar retribusi,2,Cluster 2
+Pemakaman,2026-02-04 18:03:53.314000,Sosialisai Gratis dan Pengambilan Kartu Data Makam,Sosialisasi Retribusi Gratis,sosialisai gratis ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-04 19:10:37.234000,MENANYAKAN RETRIBUSI MAKAM,Sosialisasi Retribusi Gratis,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-02-04 20:29:01.164000,PEMAKAMAN BARU TUMPANG AN. RASMAH DITUMPANG DENGAN DADAN SETIADI WAFAT 01-04-2000 BLOK A,Pemakaman Baru Tumpang,makam baru tumpang rasmah tumpang dad setiadi wafat blok,1,Cluster 1
+Pemakaman,2026-02-04 23:29:07.500000,RETRIBUSI MAKAM,Sosialisasi Retribusi Gratis,retribusi makam,1,Cluster 1
+Pemakaman,2026-02-04 23:31:50.366000,PEMBONGKARAN MAKAM,Pemindahan Makam,bongkar makam,2,Cluster 2
+Pemakaman,2026-02-04 23:34:31.993000,SOSIALISASI RETRIBUSI GRATIS,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-04 23:36:17.712000,INFORMASI RETRIBUSI,Sosialisasi Retribusi Gratis,retribusi,1,Cluster 1
+Pemakaman,2026-02-04 23:39:02.657000,SURAT KETERANGAN KEMATIAN,Sosialisasi Retribusi Gratis,surat terang mati,2,Cluster 2
+Pemakaman,2026-02-05 00:19:27.865000,PEMAKAMAN BARU WAFAT 05-12-2026 BLOK B,Pemakaman Baru,makam baru wafat blok,1,Cluster 1
+Pemakaman,2026-02-05 17:45:16.470000,PEMINDAHAN PEMAKAMAN,Pemindahan Makam,pindah makam,2,Cluster 2
+Pemakaman,2026-02-05 17:52:10.750000,PENGAMBILKAN KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-05 17:57:35.570000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-05 18:25:48.189000,Sosialisasi Retribusi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-05 18:29:46.623000,Sosialisasi Retribusi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-05 18:36:45.187000,Sosialisasi Retribusi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-05 18:49:38.535000,Sosialisasi Retribusi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-05 19:05:09.645000,Sosialisasi Retribusi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-05 19:35:24.172000,Sosialisasi Retribusi Gratis _Ziarah,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis ziarah,1,Cluster 1
+Pemakaman,2026-02-05 19:45:03.341000,kematian bayar,Sosialisasi Rumputisasi Gratis (Program Pemerintah),mati bayar,2,Cluster 2
+Pemakaman,2026-02-05 20:25:39.866000,pencarian data makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-05 22:44:30.721000,SOSIALISASI GRATIS (ZIARAH),Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi gratis ziarah,2,Cluster 2
+Pemakaman,2026-02-06 18:07:27.793000,Sosialisasi Retribusi Gratis (Ziarah),Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis ziarah,1,Cluster 1
+Pemakaman,2026-02-06 18:33:49.528000,Sosialisasi Registrasi Gratis (ziarah),Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi registrasi gratis ziarah,2,Cluster 2
+Pemakaman,2026-02-06 19:50:35.541000,"Mencari Lahan Makam dan ingin Memilih , dan sepertinya tidak jadi dimakamkan di TPU Cibarunay",Sosialisasi Rumputisasi Gratis (Program Pemerintah),cari lahan makam pilih seperti jadi makam tpu cibarunay,2,Cluster 2
+Pemakaman,2026-02-06 19:52:44.661000,Sosialisai makam gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisai makam gratis,1,Cluster 1
+Pemakaman,2026-02-06 19:55:29.292000,Sosialisasi Registrasi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi registrasi gratis,2,Cluster 2
+Pemakaman,2026-02-08 17:53:09.840000,PEMBONGKARAN MAKAM,Pemindahan Makam,bongkar makam,2,Cluster 2
+Pemakaman,2026-02-08 17:54:36.752000,Sosialisasi Retribusi Gratis (Ziarah),Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis ziarah,1,Cluster 1
+Pemakaman,2026-02-08 17:56:56.600000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-08 18:25:25.944000,PENAMBAHAN TENDA PEMAKAMAN,Pemakaman Baru,tambah tenda makam,1,Cluster 1
+Pemakaman,2026-02-08 18:51:01.582000,MENANYAKAN RETRIBUSI MAKAM,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-02-08 19:46:02.596000,PEMBONGKARAN MAKAM,Pemindahan Makam,bongkar makam,2,Cluster 2
+Pemakaman,2026-02-08 23:56:22.131000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-09 00:47:39.102000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-09 17:58:22.371000,RENCANA MEMINDAHKAN MAKAM KE PEMAKAMAN KELUARGA,Pemindahan Makam,rencana pindah makam makam keluarga,2,Cluster 2
+Pemakaman,2026-02-09 18:00:14.068000,AMBIL KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-09 18:02:46.893000,PEMBAYARAN RETRIBUSI TERTUNDA,Pencarian Data Makam,bayar retribusi tunda,2,Cluster 2
+Pemakaman,2026-02-09 18:22:54.424000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-09 19:56:18.663000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-09 20:40:30.925000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-02-09 22:47:57.429000,Pengecekan Data makam dan sosialisasi retribusi gratis,Pencarian Data Makam,kece data makam sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-09 23:36:55.538000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-10 17:51:15.902000,Sosialisasi Retribusi Gratis (Ziarah),Pencarian Data Makam,sosialisasi retribusi gratis ziarah,1,Cluster 1
+Pemakaman,2026-02-10 17:52:32.522000,Sosialisasi Retribusi Gratis (Ziarah),Pencarian Data Makam,sosialisasi retribusi gratis ziarah,1,Cluster 1
+Pemakaman,2026-02-10 17:53:28.372000,Sosialisasi Retribusi Gratis (Ziarah),Pencarian Data Makam,sosialisasi retribusi gratis ziarah,1,Cluster 1
+Pemakaman,2026-02-10 17:57:13.905000,Pemakaman baru Wafat tanggal 10-02-2026,Pemakaman Baru,makam baru wafat tanggal,1,Cluster 1
+Pemakaman,2026-02-10 18:45:39.003000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-10 21:06:11.859000,pengambilan kartu data makam,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-11 17:57:02.452000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-11 18:19:05.751000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-11 18:43:47.065000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-02-11 19:06:07.376000,Pencarian Data (Ziarah),Pencarian Data Makam,cari data ziarah,4,Cluster 4
+Pemakaman,2026-02-11 19:32:42.041000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-11 20:09:46.202000,Ziarah dan pengambilan kartu data makam,Pengambilan Kartu Data Makam,ziarah ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-11 20:32:39.285000,KARTU DATA MAKAM,Pengambilan Kartu Data Makam,kartu data makam,4,Cluster 4
+Pemakaman,2026-02-11 20:49:40.768000,MENANYAKAN RETRIBUSI,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-11 21:33:21.453000,Menanyakan kapan makamnya di rumputisasi,Rumputisasi,tanya kapan makam rumput,1,Cluster 1
+Pemakaman,2026-02-11 22:00:20.769000,PENGAMBILAN KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-11 22:40:45.726000,SOSIALISASI RUMPUTIASI GRATIS,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi rumputiasi gratis,1,Cluster 1
+Pemakaman,2026-02-12 18:06:45.604000,MENANYAKAN RETRIBUSI,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-12 18:29:17.436000,pencarian data makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-12 19:04:18.612000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-14 17:38:39.790000,Pengambilan Kartu data makam,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-02-15 20:28:03.529000,Mencari Data Makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-15 20:29:24.755000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-02-15 20:37:55.552000,Menanyakan Retribusi Gratis,Pencarian Data Makam,tanya retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-17 18:50:26.718000,MENANYAKAN RETRIBUSI,Pencarian Data Makam,tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-17 21:40:04.257000,DAFTAR ULANG,Pencarian Data Makam,daftar ulang,2,Cluster 2
+Pemakaman,2026-02-17 22:02:17.200000,MENANYAKAN  RETRIBUSI,Pencarian Data Makam,tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-17 22:30:17.100000,MENANYAKAN RETRIBUSI,Pencarian Data Makam,tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-18 19:58:53.596000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-19 22:50:17.507000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-22 19:42:08.695000,menanyakan retribusi,Pencarian Data Makam,tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-22 19:43:50.429000,MENANYAKAN RETRIBUSI,Pencarian Data Makam,tanya retribusi,1,Cluster 1
+Pemakaman,2026-02-22 22:33:56.429000,Pelayanan Pemakaman Tumpang,Pemakaman Baru Tumpang,layan makam tumpang,2,Cluster 2
+Pemakaman,2026-02-25 18:20:11.115000,Sosialisasi Retribusi Gratis,Pencarian Data Makam,sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-25 18:21:57.126000,Sosialisasi Retribusi Gratis,Pencarian Data Makam,sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-02-25 22:05:45.751000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-02-25 22:09:16.121000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-02-25 22:15:04.816000,PENCARIAN DATA MAKAM,Pemakaman Baru,cari data makam,4,Cluster 4
+Pemakaman,2026-02-25 22:19:33.715000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-26 22:13:40.350000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-02-26 22:18:46.418000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-01 23:11:09.169000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-01 23:13:57.347000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-02 16:33:47.011000,Pelayanan Persyaratan Pemakaman Baru,Pemakaman Baru,layan syarat makam baru,1,Cluster 1
+Pemakaman,2026-03-04 22:23:48.925000,SOSIALIASI HER REGISTRASI GRATIS,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialiasi her registrasi gratis,2,Cluster 2
+Pemakaman,2026-03-04 22:25:31.557000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-08 21:21:26.594000,Pelayanan Pengambilan Kartu Data Makam,Pengambilan Kartu Data Makam,layan ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-03-12 18:58:34.064000,MENANYAKAN RETRIBUSI,Pencarian Data Makam,tanya retribusi,1,Cluster 1
+Pemakaman,2026-03-12 20:16:03.829000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-12 20:23:27.387000,PEMBUATAN SURAT KETERANGAN PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat surat terang makam,2,Cluster 2
+Pemakaman,2026-03-12 20:28:28.831000,PENCARIANDATA MAKAM,Pencarian Data Makam,pencariandata makam,1,Cluster 1
+Pemakaman,2026-03-12 20:32:09.954000,PENCARIA DATA MAKAM,Pencarian Data Makam,pencaria data makam,4,Cluster 4
+Pemakaman,2026-03-12 20:37:04.742000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-12 20:40:31.957000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-26 19:38:37.610000,Pencarian Data Makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-26 19:41:33.003000,Pencarian Blok Makam,Pencarian Data Makam,cari blok makam,2,Cluster 2
+Pemakaman,2026-03-26 19:58:20.907000,Menanyakan Program Rumputisasi,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tanya program rumput,2,Cluster 2
+Pemakaman,2026-03-26 19:59:20.907000,Pengambilan Kartu Data makam,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-03-26 20:00:57.058000,Pencarian Data Makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-26 20:02:18.905000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-03-26 20:03:32.332000,Pencarian Data Makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-26 20:04:41.460000,Pencarian Kartu Data Makam,Pencarian Data Makam,cari kartu data makam,4,Cluster 4
+Pemakaman,2026-03-26 20:14:25.705000,Menanyakan Program Rumputisasi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tanya program rumput gratis,2,Cluster 2
+Pemakaman,2026-03-26 20:15:33.089000,Pencarian data makam ingin memperbaiki nisan,Pencarian Data Makam,cari data makam baik nisan,4,Cluster 4
+Pemakaman,2026-03-26 20:16:48.878000,Sosialisasi Pemakaman Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi makam gratis,1,Cluster 1
+Pemakaman,2026-03-26 20:18:49.004000,Pencarian Data Makam Untuk Pengacatan Nisan,Pencarian Data Makam,cari data makam acat nisan,4,Cluster 4
+Pemakaman,2026-03-26 20:20:13.829000,Sosialisasi Retribusi Gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi gratis,1,Cluster 1
+Pemakaman,2026-03-26 20:21:15.131000,Pencarian Blok Makam,Pencarian Data Makam,cari blok makam,2,Cluster 2
+Pemakaman,2026-03-26 20:27:43.409000,Pengambilan Kartu Data Makam,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-03-26 20:28:57.934000,Pencarian Data makam,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-26 20:30:08.500000,Menanyakan Jatuh Tempo Pembayaran,Pencarian Data Makam,tanya jatuh tempo bayar,2,Cluster 2
+Pemakaman,2026-03-26 20:32:35.420000,-,Pencarian Data Makam,,2,Cluster 2
+Pemakaman,2026-03-26 20:35:11.742000,Menanyakan Jatuh Tempo Makam,Pencarian Data Makam,tanya jatuh tempo makam,2,Cluster 2
+Pemakaman,2026-03-26 20:41:25.448000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-03-26 20:43:51.966000,Pelayanan Pemakaman Baru ditumpang dengan almOdah (07-02-2010),Pemakaman Baru Tumpang,layan makam baru tumpang almodah,1,Cluster 1
+Pemakaman,2026-03-26 20:45:45.153000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-03-26 20:47:12.061000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-03-26 20:48:45.033000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-03-26 20:58:09.766000,Pencarian data Pembayran Retribusi Terakhir,Pencarian Data Makam,cari data pembayran retribusi akhir,4,Cluster 4
+Pemakaman,2026-03-29 17:21:17.915000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-29 17:23:15.681000,PENGAMBILAN KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-03-29 17:25:24.342000,MENANYAKAN RETRIBUSI GRATIS,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tanya retribusi gratis,1,Cluster 1
+Pemakaman,2026-03-29 17:26:53.574000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-03-29 19:34:49.441000,PENGABILAN KARTU DATA MAKAM,Pengambilan Kartu Data Makam,kabil kartu data makam,4,Cluster 4
+Pemakaman,2026-03-30 19:51:36.063000,PEMINDAHAN MAKAM,Pemindahan Makam,pindah makam,2,Cluster 2
+Pemakaman,2026-03-30 19:55:19.713000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-03-30 20:34:32.330000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-03-30 20:40:07.797000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-03-30 21:22:08.462000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-03-30 21:57:12.413000,PETUGAS MEMBUAT SUKET PEMAKAMAN DENGAN DI LAMPIRKAN PERSYARATAN LENGKAP,Pembuatan Surat Keterangan Pemakaman,tugas buat suket makam lampir syarat lengkap,2,Cluster 2
+Pemakaman,2026-03-31 18:48:15.170000,MEMBUAT SUKET PEMAKAMAN ALM TAUFIK PERSYARATAN LENGKAP,Pembuatan Surat Keterangan Pemakaman,buat suket makam alm taufik syarat lengkap,2,Cluster 2
+Pemakaman,2026-03-31 20:49:44.134000,KARTU MAKAM TELAH DI AMBIL,Pengambilan Kartu Data Makam,kartu makam ambil,2,Cluster 2
+Pemakaman,2026-04-01 21:51:03.122000,Pelayanan pemakaman tumpanng dengan Abu bakar Wijaya,Pemakaman Baru Tumpang,layan makam tumpanng abu bakar wijaya,1,Cluster 1
+Pemakaman,2026-04-01 21:53:12.314000,Pelayanan Pemakaman Baru,Pemakaman Baru,layan makam baru,1,Cluster 1
+Pemakaman,2026-04-01 23:57:22.178000,MENANYAKAN RETRIBUSI PEMAKAMAN,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-01 23:59:00.767000,MENANYAKAN RETRIBUSI PEMAKAMAN,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-05 21:25:41.649000,PEMAKAMAN BARU TUMPANG,Pemakaman Baru Tumpang,makam baru tumpang,1,Cluster 1
+Pemakaman,2026-04-05 21:30:24.457000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-04-05 21:36:23,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-05 21:40:01.936000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-05 21:45:15.922000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-04-05 21:49:12.174000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-04-05 21:54:02.444000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-05 21:58:50.630000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-05 22:02:15.919000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-07 23:12:31.859000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-04-07 23:15:56.786000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-04-07 23:20:15.752000,PEMBONGKARAN MAKAM,Pembongkaran Makam,bongkar makam,2,Cluster 2
+Pemakaman,2026-04-07 23:24:25.366000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-07 23:27:31.697000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-04-07 23:30:30.210000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-15 17:58:21.216000,MENANYAKAN RETRIBUSIMAKAM,Menanyakan Retribusi Pemakaman,tanya retribusimakam,2,Cluster 2
+Pemakaman,2026-04-15 18:01:42.742000,PEMBONGKARAN MAKAM,Pembongkaran Makam,bongkar makam,2,Cluster 2
+Pemakaman,2026-04-15 18:05:30.414000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-15 18:10:39.953000,PEMBUATAN SURAT KETERANGAN PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat surat terang makam,2,Cluster 2
+Pemakaman,2026-04-15 18:20:49.198000,BERKOODINASI DENGAN PETUGAS PENGGALI MAKAM DAN MENYAPKAN LIANG LAHAT,Pemakaman Baru,berkoodinasi tugas gali makam sap liang lahat,2,Cluster 2
+Pemakaman,2026-04-15 18:24:48.097000,MENERIMA PEMBAYARAN PIUTANG,Menanyakan Retribusi Pemakaman,terima bayar piutang,2,Cluster 2
+Pemakaman,2026-04-15 18:26:49.248000,DIBERIKAN KDM,Pencarian Data Makam,beri kdm,2,Cluster 2
+Pemakaman,2026-04-15 18:28:41.921000,MEMBUAT SUKET. PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat suket makam,2,Cluster 2
+Pemakaman,2026-04-15 18:30:34.335000,MEMBUAT SUKET. PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat suket makam,2,Cluster 2
+Pemakaman,2026-04-15 18:32:23.823000,MEMBUAT SUKET. PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat suket makam,2,Cluster 2
+Pemakaman,2026-04-15 18:34:19.123000,MENGAMBIL KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-04-15 18:36:12.675000,MENGAMBIL KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-04-15 18:38:08.306000,MENCARI DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-04-15 18:40:12.293000,MENGAMBIL KARTU DATA MAKAM,Pengambilan Kartu Data Makam,ambil kartu data makam,4,Cluster 4
+Pemakaman,2026-04-15 18:43:49.244000,MEMBUAT SUKET PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat suket makam,2,Cluster 2
+Pemakaman,2026-04-19 18:06:00.355000,MEMAKAMKAN ALM. NURLINA DITUMPANG DENGAN AHYADI SUGADI ( 21-06-2010) DI BLOK C,Pemakaman Baru Tumpang,makam alm nurlina tumpang ahyadi sugadi blok,2,Cluster 2
+Pemakaman,2026-04-19 18:10:05.265000,MEMAKAMKAN ALM DENI SUPRIADI DI TUMPANG DENGAN IBU DJUARIAH (01-05-2021) DI BLOK A,Pemakaman Baru Tumpang,makam alm den supriadi tumpang ibu djuariah blok,2,Cluster 2
+Pemakaman,2026-04-19 18:11:48.298000,MEMAKAMKAN ALM RHUDIYANTO DI BLOK C,Pemakaman Baru,makam alm rhudiyanto blok,2,Cluster 2
+Pemakaman,2026-04-19 18:27:54.869000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-19 18:30:09.403000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-19 18:33:42.188000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-04-19 18:37:28.534000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-19 18:40:16.705000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-04-19 18:48:45.705000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-21 20:04:56.353000,PEMBAYARAN PIUTANG RETRIBUSI ALM. SUKARYA 2023-2024,Menanyakan Retribusi Pemakaman,bayar piutang retribusi alm sukarya,2,Cluster 2
+Pemakaman,2026-04-21 20:06:27.095000,PEMBAYARAN PIUTANG RETRIBUSI ALM. II SADELI 2016-2024,Menanyakan Retribusi Pemakaman,bayar piutang retribusi alm sadel,2,Cluster 2
+Pemakaman,2026-04-26 16:45:57.778000,MENANYAKAN RETRIBUSI PEMAKAMAN,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-04-26 16:46:49.894000,Pembuatan Surat Keterangan Pemakaman,Pemakaman Umum,buat surat terang makam,2,Cluster 2
+Pemakaman,2026-04-26 16:47:43.406000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-04-29 00:08:53.652000,WAWANCARA TUGAS AKHIR,Pemakaman Umum,wawancara tugas akhir,2,Cluster 2
+Pemakaman,2026-04-29 00:20:17.928000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-05-03 20:15:04.234000,PEMBAYARAN PIUTANG RETRIBUSI UNTUK ALM. II SADELI 2016-2024,Menanyakan Retribusi Pemakaman,bayar piutang retribusi alm sadel,2,Cluster 2
+Pemakaman,2026-05-03 20:17:32.467000,PENGAMBILAN SURAT PEMAKAMAN,Pengambilan Kartu Data Makam,ambil surat makam,2,Cluster 2
+Pemakaman,2026-05-03 20:19:50.213000,LAPORAN PEMAKAMAN BARU ALM. IBU MAMAH DI BLOK E,Pemakaman Baru,lapor makam baru alm ibu mamah blok,1,Cluster 1
+Pemakaman,2026-05-03 20:21:03.839000,PEMINDAHAN MAKAM,Pemindahan Makam,pindah makam,2,Cluster 2
+Pemakaman,2026-05-03 20:23:36.742000,LAPORAN PEMAKAMAN,Pemakaman Baru,lapor makam,2,Cluster 2
+Pemakaman,2026-05-03 20:26:22.875000,ZIARAH MAKAM KE BLOK B ALM . P BANGUN,Pencarian Data Makam,ziarah makam blok alm bangun,2,Cluster 2
+Pemakaman,2026-05-03 20:28:13.690000,PENGAMBILAN KARTU DATA MAKAM ALM. ANINDIA PINASTHIKA,Pengambilan Kartu Data Makam,ambil kartu data makam alm anindia pinasthika,4,Cluster 4
+Pemakaman,2026-05-03 20:32:03.264000,LAPORAN PEMAKAMAN ALM. MIMIL MAMILIANI,Pemakaman Baru,lapor makam alm mimil mamiliani,2,Cluster 2
+Pemakaman,2026-05-04 18:39:25.256000,PEMINDAHAN MAKAM,Pemindahan Makam,pindah makam,2,Cluster 2
+Pemakaman,2026-05-04 18:44:15.744000,MENANYAKAN RETRIBUSIMAKAM,Menanyakan Retribusi Pemakaman,tanya retribusimakam,2,Cluster 2
+Pemakaman,2026-05-04 18:48:12.388000,PEMBONGKARAN MAKAM,Pembongkaran Makam,bongkar makam,2,Cluster 2
+Pemakaman,2026-05-04 18:52:04.004000,MENANYAKAN RETRIBUSI MAKAM,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-05-05 19:16:01.500000,PENCARIAN DATA MAKAM DAN SOSIALISASI PERDA PEMAKAMAN GRATIS,Pencarian Data Makam,cari data makam sosialisasi perda makam gratis,4,Cluster 4
+Pemakaman,2026-05-17 17:48:31.184000,PENCARIAN DATA MAKAM,Pencarian Data Makam,cari data makam,4,Cluster 4
+Pemakaman,2026-05-17 17:49:57.980000,MENANYAKAN RETRIBUSI PEMAKAMAN,Menanyakan Retribusi Pemakaman,tanya retribusi makam,1,Cluster 1
+Pemakaman,2026-05-17 17:51:27.348000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-05-17 17:52:53.474000,PEMAKAMAN BARU,Pemakaman Baru,makam baru,1,Cluster 1
+Pemakaman,2026-05-17 18:12:01.685000,PENGAMBILAN KDM AN. ALM PUJIANTO KURNIADI,Pengambilan Kartu Data Makam,ambil kdm alm pujianto kurniadi,2,Cluster 2
+Pemakaman,2026-05-17 18:14:02.981000,MEMBUAT SURAT KET. PEMAKAMAN,Pembuatan Surat Keterangan Pemakaman,buat surat ket makam,2,Cluster 2
+Pemakaman,2026-05-17 18:17:05.693000,SOSIALISASI PERDA PEMAKAMAN DAN RETRIBUSI GRATIS,Menanyakan Retribusi Pemakaman,sosialisasi perda makam retribusi gratis,1,Cluster 1
+Pemakaman,2026-05-17 18:19:00.240000,LAPORAN PEMAKAMAN UNTUK ALMARHUM IBU AIDA,Pemakaman Baru,lapor makam almarhum ibu aida,2,Cluster 2

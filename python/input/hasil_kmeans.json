@@ -1,0 +1,78 @@
+{
+    "jumlah_data": 1000,
+    "jumlah_cluster": 4,
+    "inertia": 762.296,
+    "jumlah_iterasi": 14,
+    "distribusi_cluster": [
+        {
+            "cluster": 0,
+            "jumlah_data": 552,
+            "persentase": 55.2
+        },
+        {
+            "cluster": 1,
+            "jumlah_data": 176,
+            "persentase": 17.6
+        },
+        {
+            "cluster": 2,
+            "jumlah_data": 132,
+            "persentase": 13.2
+        },
+        {
+            "cluster": 3,
+            "jumlah_data": 140,
+            "persentase": 14.0
+        }
+    ],
+    "top_terms": {
+        "0": [
+            "retribusi",
+            "krk",
+            "irk",
+            "makam",
+            "ambil",
+            "pkkpr",
+            "email",
+            "irk email",
+            "konsultasi",
+            "surat"
+        ],
+        "1": [
+            "syarat krk",
+            "syarat",
+            "krk",
+            "konsultasi syarat",
+            "konsultasi",
+            "krk rumah",
+            "rumah",
+            "tinggal",
+            "rumah tinggal",
+            "syarat slf"
+        ],
+        "2": [
+            "pbg",
+            "reklame",
+            "pbg reklame",
+            "syarat pbg",
+            "syarat",
+            "konsultasi",
+            "konsultasi syarat",
+            "berkas pbg",
+            "berkas",
+            "syarat reklame"
+        ],
+        "3": [
+            "makam",
+            "data makam",
+            "data",
+            "cari data",
+            "cari",
+            "makam gratis",
+            "gratis",
+            "kartu data",
+            "kartu",
+            "ambil kartu"
+        ]
+    }
+}

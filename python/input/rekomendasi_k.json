@@ -1,0 +1,8 @@
+{
+    "jumlah_data": 1000,
+    "jumlah_fitur": 364,
+    "k_min": 2,
+    "k_max": 8,
+    "k_optimal": 4,
+    "metode": "Elbow Method"
+}

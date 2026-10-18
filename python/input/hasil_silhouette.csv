@@ -1,0 +1,5 @@
+﻿cluster,jumlah_data,persentase,silhouette_cluster,interpretasi,silhouette_global,interpretasi_global
+0,552,55.2,-0.0028,Lemah,0.1408,Lemah
+1,176,17.6,0.2688,Cukup,0.1408,Lemah
+2,132,13.2,0.3093,Cukup,0.1408,Lemah
+3,140,14.0,0.3871,Cukup,0.1408,Lemah

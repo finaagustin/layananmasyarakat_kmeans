@@ -1,0 +1,7 @@
+﻿cluster,nama_cluster,jumlah_data,silhouette_cluster,interpretasi_cluster,silhouette_global,interpretasi_global
+0,Cluster 0,64,0.4073,Cukup,0.1926,Lemah
+1,Cluster 1,132,0.1825,Lemah,0.1926,Lemah
+2,Cluster 2,430,-0.0033,Lemah,0.1926,Lemah
+3,Cluster 3,116,0.3676,Cukup,0.1926,Lemah
+4,Cluster 4,85,0.6392,Baik,0.1926,Lemah
+5,Cluster 5,173,0.2712,Cukup,0.1926,Lemah

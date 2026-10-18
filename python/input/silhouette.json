@@ -1,0 +1,37 @@
+{
+    "jumlah_data": 1000,
+    "jumlah_cluster": 4,
+    "k_optimal": 4,
+    "silhouette_score": 0.1408,
+    "interpretasi": "Lemah",
+    "per_cluster": [
+        {
+            "cluster": 0,
+            "jumlah_data": 552,
+            "persentase": 55.2,
+            "silhouette_cluster": -0.0028,
+            "interpretasi": "Lemah"
+        },
+        {
+            "cluster": 1,
+            "jumlah_data": 176,
+            "persentase": 17.6,
+            "silhouette_cluster": 0.2688,
+            "interpretasi": "Cukup"
+        },
+        {
+            "cluster": 2,
+            "jumlah_data": 132,
+            "persentase": 13.2,
+            "silhouette_cluster": 0.3093,
+            "interpretasi": "Cukup"
+        },
+        {
+            "cluster": 3,
+            "jumlah_data": 140,
+            "persentase": 14.0,
+            "silhouette_cluster": 0.3871,
+            "interpretasi": "Cukup"
+        }
+    ]
+}

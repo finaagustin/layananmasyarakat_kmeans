@@ -1,0 +1,1001 @@
+﻿no,teks_asli,teks_preprocessed,kategori,kata_bobot_1,nilai_1,kata_bobot_2,nilai_2,kata_bobot_3,nilai_3,kata_bobot_4,nilai_4,kata_bobot_5,nilai_5
+1,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+2,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+3,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+4,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+5,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+6,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+7,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+8,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+9,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+10,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+11,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+12,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+13,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+14,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+15,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+16,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+17,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+18,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+19,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+20,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+21,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+22,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+23,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+24,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+25,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+26,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+27,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+28,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+29,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+30,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+31,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+32,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+33,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+34,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+35,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+36,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+37,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+38,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+39,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+40,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+41,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+42,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+43,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+44,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+45,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+46,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+47,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+48,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+49,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+50,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+51,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+52,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+53,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+54,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+55,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+56,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+57,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+58,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+59,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+60,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+61,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+62,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+63,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+64,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+65,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+66,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+67,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+68,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+69,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+70,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+71,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+72,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+73,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+74,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+75,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+76,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+77,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+78,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+79,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+80,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+81,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+82,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+83,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+84,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+85,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+86,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+87,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+88,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+89,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+90,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+91,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+92,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+93,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+94,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+95,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+96,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+97,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+98,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+99,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+100,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+101,permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+102,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+103,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+104,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+105,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+106,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+107,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+108,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+109,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+110,informasi persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+111,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+112,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+113,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+114,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+115,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+116,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+117,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+118,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+119,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+120,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+121,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+122,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+123,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+124,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+125,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+126,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+127,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+128,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+129,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+130,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+131,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+132,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+133,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+134,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+135,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+136,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+137,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+138,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+139,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+140,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+141,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+142,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+143,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+144,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+145,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+146,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+147,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+148,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+149,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+150,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+151,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+152,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+153,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+154,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+155,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+156,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+157,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+158,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+159,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+160,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+161,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+162,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+163,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+164,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+165,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+166,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+167,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+168,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+169,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+170,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+171,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+172,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+173,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+174,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+175,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+176,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+177,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+178,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+179,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+180,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+181,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+182,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+183,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+184,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+185,Cek Revisi KRK 10.258.7898,cek revisi krk,KRK,cek revisi,0.5423,revisi krk,0.5286,revisi,0.5168,cek,0.3459,krk,0.1994
+186,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+187,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+188,Informasi persyaratan reklame,syarat reklame,Lainnya,syarat reklame,0.8268,reklame,0.4644,syarat,0.3175,,0.0,,0.0
+189,pemberkasan PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+190,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+191,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+192,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+193,persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+194,Informasi Persyaratan PBG,syarat pbg,PBG,syarat pbg,0.6978,pbg,0.5592,syarat,0.4476,,0.0,,0.0
+195,migrasi akun simbg,migrasi akun simbg,Surat Masuk,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+196,Informasi Persyaratan SLF,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+197,Perubahan data akun SIMBG,ubah data akun simbg,PBG,ubah,0.5422,akun simbg,0.4538,simbg,0.4435,akun,0.4402,data,0.3311
+198,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+199,Informasi Persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+200,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+201,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+202,Informasi mengenai KRK,krk,KRK,krk,1.0,,0.0,,0.0,,0.0,,0.0
+203,Cek Revisi KRK 10.258.8031,cek revisi krk,KRK,cek revisi,0.5423,revisi krk,0.5286,revisi,0.5168,cek,0.3459,krk,0.1994
+204,Pengambilan KRK 10.262.1288,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+205,persyaratan irk surat,syarat irk surat,IRK,syarat irk,0.5518,irk surat,0.5087,surat,0.4691,irk,0.3934,syarat,0.2489
+206,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+207,Pengambilan KRK 10.263.2176,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+208,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+209,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+210,Informasi Persyaratan KRK Jl. Jamika No. 123,syarat krk jamika,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+211,ubah kata sandi KRK,ubah sandi krk,KRK,ubah,0.9259,krk,0.3779,,0.0,,0.0,,0.0
+212,pemberkasan pbg reklame,berkas pbg reklame,PBG,berkas pbg,0.5725,berkas,0.4813,pbg reklame,0.4112,reklame,0.3962,pbg,0.3385
+213,Cek zonasi Jl. Arcamanik Endah,cek zonasi arcamanik endah,Lainnya,zonasi,0.5436,cek zonasi,0.5436,arcamanik,0.5436,cek,0.3367,,0.0
+214,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+215,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+216,pemberkasan PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+217,informasi mengenai pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+218,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+219,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+220,Cek revisi KRK 10.2511.10848,cek revisi krk,KRK,cek revisi,0.5423,revisi krk,0.5286,revisi,0.5168,cek,0.3459,krk,0.1994
+221,pengambilan krk an RESTA ANDRIA / 1307110701900001,ambil krk resta andria,KRK,resta andria,0.4543,resta,0.4543,krk resta,0.4543,andria,0.4543,ambil krk,0.3077
+222,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+223,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+224,Informasi persyaratan Reklame,syarat reklame,Lainnya,syarat reklame,0.8268,reklame,0.4644,syarat,0.3175,,0.0,,0.0
+225,Konsultasi permohonan KRK,konsultasi mohon krk,KRK,mohon krk,0.762,mohon,0.5293,konsultasi,0.2755,krk,0.2517,,0.0
+226,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+227,PENGAMBILAN KRK AN. AAN SUGIAT,ambil krk aan sugiat,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+228,"PENGAMBILAN KRK AN. HISTORI TARIGAN, SH. / 3172052604780005",ambil krk histori tarigan,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+229,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+230,Cek posisi KRK 10.262.1908,cek posisi krk,KRK,posisi krk,0.5681,cek posisi,0.5151,posisi,0.497,cek,0.3518,krk,0.2028
+231,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+232,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+233,Pengambilan KRK 10.261.745,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+234,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+235,Pengambilan KRK 10.262.2053,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+236,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+237,pemberkasan pbg,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+238,irk surat,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+239,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+240,persyaratan krk rumah tinggal,syarat krk rumah tinggal,KRK,tinggal,0.4489,rumah tinggal,0.4489,krk rumah,0.4446,rumah,0.4024,syarat krk,0.3302
+241,Informasi KRK Lapas Banceuy,krk lapas banceuy,KRK,lapas,0.6886,banceuy,0.6886,krk,0.2274,,0.0,,0.0
+242,informasi emngenai perubahan password krk,emngenai ubah password krk,KRK,password krk,0.4771,ubah password,0.457,emngenai,0.4414,password,0.4414,ubah,0.3861
+243,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+244,Informasi persyaratan Reklame,syarat reklame,Lainnya,syarat reklame,0.8268,reklame,0.4644,syarat,0.3175,,0.0,,0.0
+245,Informasi persyaratan IRK,syarat irk,IRK,syarat irk,0.7643,irk,0.5449,syarat,0.3447,,0.0,,0.0
+246,pengambilan krk an ybs,ambil krk ybs,KRK,krk ybs,0.5374,ybs,0.5111,ambil krk,0.494,ambil,0.3846,krk,0.2409
+247,Informas posisi SLF 327314-25022026-011,informas posisi slf,SLF,posisi,0.7806,slf,0.625,,0.0,,0.0,,0.0
+248,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+249,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+250,Cek posisi PBG,cek posisi pbg,PBG,posisi pbg,0.5505,cek posisi,0.514,posisi,0.496,cek,0.3511,pbg,0.2517
+251,Informasi PBG,pbg,PBG,pbg,1.0,,0.0,,0.0,,0.0,,0.0
+252,Informasi persyaratan KRK untuk Rumah Dinas Ditjen Pajak,syarat krk rumah dinas ditjen pajak,KRK,krk rumah,0.5754,rumah,0.5208,syarat krk,0.4274,krk,0.3286,syarat,0.3271
+253,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+254,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+255,Informasi IRK surat,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+256,Informasi pembuatan polygon,buat polygon,Lainnya,polygon,0.7071,buat,0.7071,,0.0,,0.0,,0.0
+257,Informasi Persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+258,Informasi permohonan KRK,mohon krk,KRK,mohon krk,0.7926,mohon,0.5506,krk,0.2618,,0.0,,0.0
+259,Informasi Revisi KRK 10.2510.10450,revisi krk,KRK,revisi krk,0.6904,revisi,0.6749,krk,0.2604,,0.0,,0.0
+260,Cek posisi PBG 327326-10032026-010,cek posisi pbg,PBG,posisi pbg,0.5505,cek posisi,0.514,posisi,0.496,cek,0.3511,pbg,0.2517
+261,Cek posisi PBG 327322-05012026-002,cek posisi pbg,PBG,posisi pbg,0.5505,cek posisi,0.514,posisi,0.496,cek,0.3511,pbg,0.2517
+262,Pengambilan KRK 10.2612.1715 dan 10.261.709,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+263,Permohonan salinan IMB tahun 2017,mohon salin imb tahun,SALINAN IMB,mohon salin,0.3981,imb tahun,0.3894,tahun,0.3854,mohon,0.3711,salin imb,0.3679
+264,Persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+265,Persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+266,Informasi persyaratan reklame,syarat reklame,Lainnya,syarat reklame,0.8268,reklame,0.4644,syarat,0.3175,,0.0,,0.0
+267,Cek posisi PBG 327308-08122025-003,cek posisi pbg,PBG,posisi pbg,0.5505,cek posisi,0.514,posisi,0.496,cek,0.3511,pbg,0.2517
+268,Informasi persyaratan KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+269,Cek posisi KRK 10.261.265,cek posisi krk,KRK,posisi krk,0.5681,cek posisi,0.5151,posisi,0.497,cek,0.3518,krk,0.2028
+270,Informasi persyaratan Reklame,syarat reklame,Lainnya,syarat reklame,0.8268,reklame,0.4644,syarat,0.3175,,0.0,,0.0
+271,Persyaratan IRK surat,syarat irk surat,IRK,syarat irk,0.5518,irk surat,0.5087,surat,0.4691,irk,0.3934,syarat,0.2489
+272,pemberkasan PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+273,Cek revisi KRK 10.263.2837,cek revisi krk,KRK,cek revisi,0.5423,revisi krk,0.5286,revisi,0.5168,cek,0.3459,krk,0.1994
+274,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+275,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+276,INFORMASI PKKPR,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+277,PENGAMBILAN KRK AN. RITA SETIASIH / 3273186202580002,ambil krk rita setiasih,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+278,ganti password krk,ganti password krk,KRK,password krk,0.5891,ganti,0.5642,password,0.5449,krk,0.1946,,0.0
+279,Cek zonasi Jl. Mekarwangi,cek zonasi mekarwangi,KRK,zonasi,0.6477,cek zonasi,0.6477,cek,0.4012,,0.0,,0.0
+280,Informasi posisi KRK,posisi krk,KRK,posisi krk,0.7268,posisi,0.6359,krk,0.2595,,0.0,,0.0
+281,Persyaratan PBG Kabupaten Bandung Barat,syarat pbg kabupaten bandung barat,Lainnya,kabupaten,0.537,kabupaten bandung,0.537,bandung,0.5036,syarat pbg,0.2873,pbg,0.2303
+282,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+283,informasi mengenai PKKPR,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+284,Permohonan data,mohon data,Lainnya,mohon,0.8148,data,0.5797,,0.0,,0.0,,0.0
+285,Cek revisi KRK 10.263.2809,cek revisi krk,KRK,cek revisi,0.5423,revisi krk,0.5286,revisi,0.5168,cek,0.3459,krk,0.1994
+286,Cek posisi KRK 10.264.3290,cek posisi krk,KRK,posisi krk,0.5681,cek posisi,0.5151,posisi,0.497,cek,0.3518,krk,0.2028
+287,Cek posisi PBG 327305-10032026-006,cek posisi pbg,PBG,posisi pbg,0.5505,cek posisi,0.514,posisi,0.496,cek,0.3511,pbg,0.2517
+288,Cek Zonasi di Jl. Kampus dan Jl. Babakan sari,cek zonasi kampus babakan sari,Lainnya,babakan,0.557,zonasi,0.5379,cek zonasi,0.5379,cek,0.3332,,0.0
+289,Konsultasi persyaratan pengajuan Apotek dengan status menyewa,konsultasi syarat aju apotek status sewa,KRK,syarat aju,0.4122,status sewa,0.4122,aju apotek,0.4122,sewa,0.4122,status,0.3235
+290,Konsultasi persyaratan IRK untuk pengajuan Apotek yang berlokasi di Jl. Kiaracondong,konsultasi syarat irk aju apotek lokasi kiaracondong,IRK,aju apotek,0.473,kiaracondong,0.453,syarat irk,0.3448,apotek,0.3412,lokasi,0.3285
+291,Konsultasi persyaratan PBG untuk Rumah Tinggal daerah Ciwastra,konsultasi syarat pbg rumah tinggal daerah ciwastra,PBG,pbg rumah,0.4877,tinggal daerah,0.3886,daerah,0.3307,rumah tinggal,0.3079,tinggal,0.3079
+292,Cek pengajuan KRK an. ybs,cek aju krk ybs,KRK,cek aju,0.5001,aju krk,0.4369,krk ybs,0.4103,ybs,0.3903,aju,0.3205
+293,Konsultasi mengenai peta polygon,konsultasi peta polygon,Lainnya,konsultasi peta,0.5337,peta,0.4794,peta polygon,0.4794,polygon,0.4673,konsultasi,0.1929
+294,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+295,Pengambilan dokumen KRK No. Reg 10.251.789,ambil dokumen krk reg,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+296,Pengambilan dokumen KRK  AN. NENY DIANI FEBRIA,ambil dokumen krk neny ani febria,KRK,ambil dokumen,0.5425,dokumen krk,0.4798,dokumen,0.4682,ambil,0.429,krk,0.2687
+297,Konfirmasi persyaratan PBG untuk Apotek,konfirmasi syarat pbg apotek,PBG,konfirmasi,0.5606,pbg apotek,0.5444,apotek,0.4373,syarat pbg,0.3106,pbg,0.2489
+298,Konsultasi persyaratan Konstruksi Reklame untuk Bank Mantap Bandung,konsultasi syarat konstruksi reklame bank mantap bandung,Lainnya,reklame bank,0.4348,bank,0.4348,konstruksi reklame,0.4164,konstruksi,0.4164,bandung,0.3905
+299,Konsultasi perbaikan dokumen PBG Nomor : 327311-11022026-011 an. Edi Sutrisno,konsultasi baik dokumen pbg nomor edi sutrisno,PBG,dokumen pbg,0.4912,pbg nomor,0.3801,nomor,0.3509,konsultasi baik,0.3509,baik dokumen,0.3383
+300,"Permohonan salinan IMB yang berlokasi di Jl. Aki Padma Pasir Koja, surat sudah masuk",mohon salin imb lokasi aki padma pasir koja surat,SALINAN IMB,padma,0.3467,aki padma,0.3467,aki,0.3467,lokasi aki,0.3467,imb lokasi,0.3467
+301,Konsultasi persyaratan KRK untuk Edu Global,konsultasi syarat krk edu global,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+302,Konsultasi mengenai kesalahan huruf pada nama pemohon pengajuan PBG Nomor : 327318-10072025-001,konsultasi salah huruf nama aju pbg nomor,PBG,salah,0.4901,nama,0.4533,pbg nomor,0.3792,aju pbg,0.3696,nomor,0.35
+303,Konsultasi perbaikan PBG an. Deden Mulyana Nomor : 327309-22092025-008 (cat. bertemu dengan pa sonda dihari senin),konsultasi baik pbg deden mulyana nomor cat temu sonda hari senin,PBG,mulyana,0.4593,deden mulyana,0.4593,deden,0.4593,nomor,0.3281,konsultasi baik,0.3281
+304,Konsultasi persyaratan PBG Konstruksi Reklame,konsultasi syarat pbg konstruksi reklame,Lainnya,pbg konstruksi,0.5054,konstruksi reklame,0.4841,konstruksi,0.4841,syarat pbg,0.259,reklame,0.243
+305,Konsultasi perizinan SLF untuk Pabrik status sewa,konsultasi izin slf pabrik status sewa,SLF,status sewa,0.44,pabrik,0.44,sewa,0.44,izin,0.44,status,0.3452
+306,Konsultasi atau cek izin lokasi untuk gudang daerah antapani (syarat IRK E-Mail),konsultasi cek izin lokasi gudang daerah antapani syarat irk mail,IRK,gudang,0.3543,izin,0.3543,daerah antapani,0.3393,antapani,0.3277,konsultasi cek,0.3102
+307,Konsultasi perbaikan dokumen an. Deden Mulyana,konsultasi baik dokumen deden mulyana,PBG,mulyana,0.4533,deden mulyana,0.4533,deden,0.4533,konsultasi baik,0.3238,baik dokumen,0.3122
+308,Cek pemberkasan KRK No. Reg 10.2510.10568 an. HENDRIKUS ARDIANTO KRISTIAWAN (minta di keep dulu besok diambil),cek berkas krk reg hendrikus ardianto kristiawan keep besok ambil,KRK,reg hendrikus,0.3769,ardianto,0.3769,hendrikus,0.3769,hendrikus ardianto,0.3769,cek berkas,0.3103
+309,Konfirmasi mengenai pengajuan Salinan IMB yang berlokasi di Jl. Aki Padma Kel. Babakan,konfirmasi aju salin imb lokasi aki padma kel babakan,SALINAN IMB,lokasi aki,0.3333,padma,0.3333,aki padma,0.3333,imb lokasi,0.3333,aki,0.3333
+310,Pandu langsung pengajuan IRK E-Mail yang berlokasi di Jl. Bengawan No. 47,pandu aju irk mail lokasi bengawan,IRK,bengawan,0.3863,pandu aju,0.3731,mail lokasi,0.3532,pandu,0.3383,aju irk,0.3213
+311,Konsultasi persyaratan perijinan untuk BRT,konsultasi syarat perijinan brt,KRK,perijinan,0.829,konsultasi syarat,0.3658,konsultasi,0.3129,syarat,0.2846,,0.0
+312,Pengambilan dokumen KRK No. Reg 10.264.3062 dan No. Reg 10.264.3064,ambil dokumen krk reg reg,KRK,reg,0.5446,reg reg,0.4755,ambil dokumen,0.3311,krk reg,0.3239,dokumen krk,0.2928
+313,Penolakan perpanjangan ijin usaha No. KBLI 46691 Perdagangan besar yang berlokasi di Jl. Dadali No. 11,tolak panjang ijin usaha kbli dagang lokasi dadali,PKKPR,tolak,0.6377,usaha,0.6159,lokasi,0.4625,,0.0,,0.0
+314,Konsultasi persyaratan IRK E-Mail yang berlokasi di Jl. Lengkong Besar No. 42,konsultasi syarat irk mail lokasi lengkong,IRK,mail lokasi,0.4581,irk mail,0.4106,mail,0.3946,syarat irk,0.3814,lokasi,0.3635
+315,Konsultasi persyaratan IRK E-Mail yang berlokasi di Jl.Taman Holis,konsultasi syarat irk mail lokasi taman hol,IRK,hol,0.4636,mail lokasi,0.4059,irk mail,0.3638,mail,0.3497,syarat irk,0.338
+316,Bantu follow up No. Reg 10.263.2845 status di Staff PPK,bantu follow reg status staff ppk,KRK,status,0.495,bantu follow,0.4506,follow,0.4463,bantu,0.4308,reg,0.4087
+317,"Pengambilan dokumen KRK No. Reg 10.262.1953, No. Reg 10.262.1952, No. Reg 10.262.1951",ambil dokumen krk reg reg reg,KRK,reg reg,0.6402,reg,0.5368,ambil dokumen,0.2633,krk reg,0.2576,dokumen krk,0.2329
+318,Pengambilan dokumen KRK an. ybs,ambil dokumen krk ybs,KRK,krk ybs,0.4619,ybs,0.4393,ambil dokumen,0.418,dokumen krk,0.3697,dokumen,0.3608
+319,Konsultasi persyartaan KRK untuk Rumah Tinggal,konsultasi persyartaan krk rumah tinggal,KRK,persyartaan krk,0.4856,konsultasi persyartaan,0.4491,persyartaan,0.4491,tinggal,0.2836,rumah tinggal,0.2836
+320,Konsultasi persyaratan PBG untuk Apotek,konsultasi syarat pbg apotek,PBG,pbg apotek,0.6089,apotek,0.4891,syarat pbg,0.3474,konsultasi syarat,0.2865,pbg,0.2784
+321,Pengambilan dokumen KRK No. Reg 10.262.1957 an. Gianida Istiqomah Mauludin,ambil dokumen krk reg gianida istiqomah mauludin,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+322,migrasi akun simbg,migrasi akun simbg,PBG,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+323,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+324,persyaratan slf,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+325,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+326,persyaratan krk untuk klinik,syarat krk klinik,KRK,krk klinik,0.6444,klinik,0.6059,syarat krk,0.3161,krk,0.2431,syarat,0.242
+327,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+328,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+329,persyaratan pbg,syarat pbg,PBG,syarat pbg,0.6978,pbg,0.5592,syarat,0.4476,,0.0,,0.0
+330,"Konsultasi persyaratan PBG Konstruksi Reklame untuk ""Optik Internasional""",konsultasi syarat pbg konstruksi reklame optik internasional,Lainnya,pbg konstruksi,0.5054,konstruksi reklame,0.4841,konstruksi,0.4841,syarat pbg,0.259,reklame,0.243
+331,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+332,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+333,Konsultasi perbaikan pengajuan Reklame untuk Hotel Moxy  Nomor : 327309-27012026-006,konsultasi baik aju reklame hotel moxy nomor,Lainnya,reklame hotel,0.4594,hotel,0.4491,konsultasi baik,0.3748,nomor,0.3748,baik,0.3399
+334,Konsultasi mengenai migrasi pemindahan data,konsultasi migrasi pindah data,PBG,pindah data,0.6242,pindah,0.5343,migrasi,0.4228,data,0.3085,konsultasi,0.2257
+335,Konsultasi persyaratan KRK untuk Klinik Utama daerah Bengawan,konsultasi syarat krk klinik utama daerah bengawan,KRK,bengawan,0.5145,krk klinik,0.4703,klinik,0.4422,daerah,0.3369,syarat krk,0.2307
+336,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+337,Cek pemberkasan PBG Nomor : 327307-03022026-007 dan Nomor : 327322-05012026-002 dan Nomor : 327306-03012025-002,cek berkas pbg nomor nomor nomor,PBG,nomor nomor,0.5685,nomor,0.5603,cek berkas,0.3077,pbg nomor,0.2893,berkas pbg,0.2597
+338,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+339,Konsultasi pengajuan Peta Polygon,konsultasi aju peta polygon,PKKPR,peta polygon,0.4751,peta,0.4751,polygon,0.4631,konsultasi aju,0.4527,aju,0.3044
+340,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+341,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+342,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+343,Pengambilan dokumen KRK No. reg 10.2510.10568an. HENDRIKUS ARDIANTO KRISTAWAN,ambil dokumen krk reg hendrikus ardianto kristawan,KRK,reg hendrikus,0.3966,hendrikus,0.3966,hendrikus ardianto,0.3966,ardianto,0.3966,ambil dokumen,0.2645
+344,Pengambilan dokumen KRK an. YBS,ambil dokumen krk ybs,KRK,krk ybs,0.4619,ybs,0.4393,ambil dokumen,0.418,dokumen krk,0.3697,dokumen,0.3608
+345,Bantu perbaiki kesalahan sistem karena status stuck di pemohon an ybs,bantu baik salah sistem status stuck ybs,KRK,salah,0.578,status,0.4536,ybs,0.4051,bantu,0.3947,baik,0.3745
+346,Konsultasi perbaikan dokumen KRK an. Erna Kurniati,konsultasi baik dokumen krk erna kurniati,KRK,kurniati,0.3913,krk erna,0.3913,erna,0.3913,erna kurniati,0.3913,konsultasi baik,0.2918
+347,PERSYARATAN KRK UNTUK SEKOLAH,syarat krk sekolah,KRK,krk sekolah,0.6438,sekolah,0.6252,syarat krk,0.299,krk,0.2299,syarat,0.2288
+348,IRK EMAIL,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+349,PEBERKASAN KRK AN YBS,berkas krk ybs,KRK,krk ybs,0.5286,ybs,0.5028,berkas krk,0.4859,berkas,0.4189,krk,0.2369
+350,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+351,INFORMASI EMNGENAI PKKPR,emngenai pkkpr,PKKPR,emngenai,0.809,pkkpr,0.5878,,0.0,,0.0,,0.0
+352,PERSYARATAN KRK UNTUK PERUMAHAN,syarat krk rumah,KRK,krk rumah,0.5754,rumah,0.5208,syarat krk,0.4274,krk,0.3286,syarat,0.3271
+353,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+354,IRK EMAIL,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+355,IRK EMAIL,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+356,Cek pemberkasan PBG an. YBS Nomor :327307-23022026-011,cek berkas pbg ybs nomor,PBG,cek berkas,0.4753,nomor,0.4124,ybs,0.4047,berkas pbg,0.4011,berkas,0.3372
+357,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+358,Pengambilan dokumen KRK an. YBS,ambil dokumen krk ybs,KRK,krk ybs,0.4619,ybs,0.4393,ambil dokumen,0.418,dokumen krk,0.3697,dokumen,0.3608
+359,"Perbaikan dokumen KRK yang sudah terbit dengan catatan sebelumnya berada di jalur SUUTT, namun dengan adanya surat dari PLN pemohon mengajukan kembali dengan  regist yang sama an. Sintia Alferina",baik dokumen krk terbit catat jalur suutt surat pln aju regist sintia alferina,KRK,krk terbit,0.4372,terbit,0.4187,regist,0.4187,baik dokumen,0.3011,baik,0.2832
+360,"Pengambilan dokumen KRK No. Reg 10.262.1279 an. NURDIANI ALFANTINAH, SH, M.Kn",ambil dokumen krk reg nurdiani alfantinah,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+361,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+362,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+363,HASIL UKUR,hasil ukur,KRK,ukur,1.0,,0.0,,0.0,,0.0,,0.0
+364,PERSYARATAN KRK UNTUK RUMAH TINGGAL,syarat krk rumah tinggal,KRK,tinggal,0.4489,rumah tinggal,0.4489,krk rumah,0.4446,rumah,0.4024,syarat krk,0.3302
+365,"Konsultasi informasimengenai KTB, KDH dsb untuk Bangunan Jurusan Kebinan Poltekes",konsultasi informasimengenai ktb kdh dsb bangun jurus kebin poltekes,IRK,bangun,0.9212,konsultasi,0.3891,,0.0,,0.0,,0.0
+366,PERSYARATAN PBG,syarat pbg,PBG,syarat pbg,0.6978,pbg,0.5592,syarat,0.4476,,0.0,,0.0
+367,Konsultasi perbaikan dokumen KRK No. Reg 10.2511.10980 an. ANTON ABDURACHMAN AGOES,konsultasi baik dokumen krk reg anton abdurachman agoes,KRK,konsultasi baik,0.4013,baik dokumen,0.3869,krk reg,0.3665,reg,0.364,baik,0.364
+368,MIGRASI AKUN SIMBG,migrasi akun simbg,PBG,migrasi akun,0.4677,akun simbg,0.4478,migrasi,0.4478,simbg,0.4376,akun,0.4344
+369,PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+370,Konsultasi persyaratan PBG Reklame untuk Bank BSI,konsultasi syarat pbg reklame bank bsi,Lainnya,reklame bank,0.5481,bank,0.5481,syarat pbg,0.2809,pbg reklame,0.2735,reklame,0.2635
+371,Bantu follow up pengajuan IRK E-Mail yang berlokasi di Jl. Holis,bantu follow aju irk mail lokasi hol,IRK,hol,0.3873,mail lokasi,0.3391,aju irk,0.3085,irk mail,0.3039,mail,0.2921
+372,Konsultasi persyaratan IRK Surat untuk Klinik,konsultasi syarat irk surat klinik,IRK,klinik,0.498,syarat irk,0.441,irk surat,0.4066,surat,0.3749,irk,0.3144
+373,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+374,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+375,Konsultasi persyaratan Salinan IMB,konsultasi syarat salin imb,SALINAN IMB,syarat salin,0.5942,salin imb,0.4092,imb,0.4092,salin,0.4058,konsultasi syarat,0.2511
+376,Konsultasi mengenai Surat Peringatan yang berlokasi di Jl. H. Sarip No. 9/Gg. H. Sarip No. 241,konsultasi surat ingat lokasi sarip sarip,WASDAL,konsultasi surat,0.7076,lokasi,0.4915,surat,0.4385,konsultasi,0.2558,,0.0
+377,PERBAIKAN KRK UNTUK KONSULTASI LANGSUNG DENGAN PA IYAN SUHYANA,baik krk konsultasi iyan suhyana,KRK,baik krk,0.7627,baik,0.516,konsultasi,0.2879,krk,0.263,,0.0
+378,"Pengambilan dokumen KRK an. RESTA ANDRIA, M.Farm",ambil dokumen krk resta andria farm,KRK,resta andria,0.426,resta,0.426,krk resta,0.426,andria,0.426,ambil dokumen,0.2841
+379,INFORMASI MENGENAI PKKPR,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+380,Permohonan Migrasi data di SIMBG an. CHIN ATIE,mohon migrasi data simbg chin atie,PBG,mohon migrasi,0.6174,mohon,0.4289,migrasi,0.4182,simbg,0.4086,data,0.3051
+381,Pandu langsung perbaikan dokumen KRK an. Erna Kurniati,pandu baik dokumen krk erna kurniati,KRK,pandu baik,0.3765,kurniati,0.3606,krk erna,0.3606,erna,0.3606,erna kurniati,0.3606
+382,persyaratan krk untuk apotik,syarat krk apotik,KRK,krk apotik,0.6453,apotik,0.6453,syarat krk,0.2772,krk,0.2131,syarat,0.2121
+383,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+384,irk surat,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+385,Konsultasi pembuatan Peta Polygon untuk pengajuan PKKPR sekolah,konsultasi buat peta polygon aju pkkpr sekolah,PKKPR,sekolah,0.3771,peta,0.3771,peta polygon,0.3771,aju pkkpr,0.3771,polygon,0.3676
+386,Konsultasi persyaratan KRK untuk Rumah Kost,konsultasi syarat krk rumah kost,KRK,rumah kost,0.5558,kost,0.5324,krk rumah,0.3215,rumah,0.291,syarat krk,0.2387
+387,Pengambilan dokumen KRK No. Reg 10.264.3199 dan No. Reg 10.264.3235,ambil dokumen krk reg reg,KRK,reg,0.5446,reg reg,0.4755,ambil dokumen,0.3311,krk reg,0.3239,dokumen krk,0.2928
+388,Konsultasi persyaratan KRK untuk Klinik,konsultasi syarat krk klinik,KRK,krk klinik,0.5964,klinik,0.5607,syarat krk,0.2926,konsultasi syarat,0.2879,konsultasi,0.2463
+389,Cek zona wilyah daerah Ujungberung dan Kiaracondong,cek zona wilyah daerah ujungberung kiaracondong,IRK,daerah ujungberung,0.4621,kiaracondong,0.4426,ujungberung,0.4426,cek zona,0.3529,zona,0.3405
+390,Konsultasi mengenai Retribusi PBG untuk Gor,konsultasi retribusi pbg gor,PBG,konsultasi retribusi,0.7906,retribusi,0.4335,pbg,0.3247,konsultasi,0.2858,,0.0
+391,Konsultasi perbaikan dokumen KRK No. Reg10.2512.12595 an. BERRY HERLAMBANG,konsultasi baik dokumen krk reg berry herlambang,KRK,konsultasi baik,0.4013,baik dokumen,0.3869,krk reg,0.3665,reg,0.364,baik,0.364
+392,informasi emngenai PBG reklame,emngenai pbg reklame,PBG,emngenai,0.7542,pbg reklame,0.4068,reklame,0.392,pbg,0.3348,,0.0
+393,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+394,Konsultasi dan cek pemberkasan PBG an. LIVIA SETYABRATA Nomor : 327310-06042026-002,konsultasi cek berkas pbg livia setyabrata nomor,PBG,setyabrata nomor,0.3449,setyabrata,0.3449,pbg livia,0.3449,livia,0.3449,livia setyabrata,0.3449
+395,info jalan masuk,info jalan,Lainnya,jalan,1.0,,0.0,,0.0,,0.0,,0.0
+396,Konsultasi persyaratan SLF untuk Apotek,konsultasi syarat slf apotek,SLF,slf apotek,0.5951,apotek,0.4293,syarat slf,0.4064,slf,0.3855,konsultasi syarat,0.2515
+397,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+398,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+399,Pengambilan dokumen KRK No. Reg 10.248.7971 an. ROSIHON ANWAR,ambil dokumen krk reg rosihon anwar,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+400,Bantu follow up pengajuan PBG an. Riana Indriani S.P. Nomor : 327324-23022026-018,bantu follow aju pbg riana indriani nomor,KRK,aju pbg,0.3988,follow aju,0.3815,bantu follow,0.3777,nomor,0.3777,follow,0.3741
+401,Konsultasi persyaratan KRK untuk Klinik Pratama daerah Puri Dago,konsultasi syarat krk klinik pratama daerah puri dago,KRK,pratama,0.4277,klinik pratama,0.4277,dago,0.4097,krk klinik,0.3745,klinik,0.3521
+402,Konsultasi persyaratan KRK untuk Kantor KUA daerah Panyileukan,konsultasi syarat krk kantor kua daerah panyileukan,KRK,daerah panyileukan,0.5025,kantor,0.5025,panyileukan,0.4648,daerah,0.3152,syarat krk,0.2158
+403,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Ujungberung,konsultasi syarat krk rumah tinggal daerah ujungberung,KRK,daerah ujungberung,0.4538,ujungberung,0.4347,tinggal daerah,0.3344,daerah,0.2846,tinggal,0.265
+404,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Batununggal,konsultasi syarat krk rumah tinggal daerah batununggal,KRK,batununggal,0.5039,tinggal daerah,0.3713,daerah,0.3161,tinggal,0.2943,rumah tinggal,0.2943
+405,INFORMASI ZONA,zona,PKKPR,zona,1.0,,0.0,,0.0,,0.0,,0.0
+406,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+407,Bantu follow up pengajuan KRK an. ybs status di Verifikasi Kabid TR,bantu follow aju krk ybs status verifikasi kabid,KRK,status verifikasi,0.3905,verifikasi,0.3612,status,0.3064,aju krk,0.3064,krk ybs,0.2877
+408,Konsultasi perbaikan dokumen KRK No. Reg 10.262.1908 an. LIEM SIOE TING,konsultasi baik dokumen krk reg liem sioe ting,KRK,ting,0.3303,sioe ting,0.3303,sioe,0.3303,reg liem,0.3303,liem sioe,0.3303
+409,PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+410,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+411,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+412,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+413,PEMBERKASAN,berkas,KRK,berkas,1.0,,0.0,,0.0,,0.0,,0.0
+414,Permohonan bantuan Pengukuran untuk Kantor Urusan Agama Kec. Panyileukan,mohon bantu ukur kantor urus agama kec panyileukan,Surat Masuk,ukur,0.5127,kantor,0.5127,panyileukan,0.4742,mohon,0.3561,bantu,0.3501
+415,Konsultasi persyaratan SLF,konsultasi syarat slf,SLF,syarat slf,0.5981,slf,0.5675,konsultasi syarat,0.3702,konsultasi,0.3166,syarat,0.2879
+416,PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+417,PENGAMBILAN KRK AN YBS,ambil krk ybs,KRK,krk ybs,0.5374,ybs,0.5111,ambil krk,0.494,ambil,0.3846,krk,0.2409
+418,Konsultasi pengajuan PKKPR Verifikasi Persyaratan (untuk pengajuan PKKPR Kolektif) karena berada dinaungan mall dengan Nomor : 202603110802330732229,konsultasi aju pkkpr verifikasi syarat aju pkkpr kolektif naung mall nomor,PKKPR,aju pkkpr,0.5413,pkkpr,0.405,syarat aju,0.3559,aju,0.3468,verifikasi,0.3292
+419,Konsultasi persyaratan KRK untuk Rumah Tingal,konsultasi syarat krk rumah tingal,KRK,krk rumah,0.5035,rumah,0.4557,syarat krk,0.3739,konsultasi syarat,0.3679,konsultasi,0.3147
+420,PERSYARATAN SALINAN IMB,syarat salin imb,KRK,syarat salin,0.6296,salin imb,0.4336,imb,0.4336,salin,0.4299,syarat,0.207
+421,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+422,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+423,Cek zona wilayah daerah Gumuruh,cek zona wilayah daerah gumuruh,IRK,wilayah daerah,0.4621,cek zona,0.3929,zona wilayah,0.388,wilayah,0.3834,zona,0.3791
+424,Konsultasi mengenai pembayaran retribusi,konsultasi bayar retribusi,PBG,bayar retribusi,0.6656,bayar,0.5659,retribusi,0.4063,konsultasi,0.2679,,0.0
+425,Konsultasi persyaratan IRK E-Mail untuk cek zona wilayah daerah cimincrang,konsultasi syarat irk mail cek zona wilayah daerah cimincrang,IRK,mail cek,0.3731,wilayah daerah,0.3352,irk mail,0.2928,cek zona,0.285,mail,0.2814
+426,Cek zona wilayah daerah kabupaten bandung (Awiligan),cek zona wilayah daerah kabupaten bandung awiligan,IRK,kabupaten bandung,0.378,kabupaten,0.378,wilayah daerah,0.3545,bandung,0.3545,cek zona,0.3014
+427,Pandu upload pengajuan KRK untuk Rumah Tinggal,pandu upload aju krk rumah tinggal,KRK,upload,0.4969,pandu,0.4167,aju krk,0.3899,rumah tinggal,0.2902,tinggal,0.2902
+428,"Cek pemberkasan PBG  Nomor : 327322-05012026-002 , Nomor :327307-03022026-007  dan Nomor : 327306-03012025-002",cek berkas pbg nomor nomor nomor,PBG,nomor nomor,0.5685,nomor,0.5603,cek berkas,0.3077,pbg nomor,0.2893,berkas pbg,0.2597
+429,Konsultasi Perbaikan dokumen PBG an. LIVIA SETYABRATA Nomor : 327310-06042026-002,konsultasi baik dokumen pbg livia setyabrata nomor,PBG,setyabrata nomor,0.3421,setyabrata,0.3421,pbg livia,0.3421,livia,0.3421,livia setyabrata,0.3421
+430,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Cipadung,konsultasi syarat krk rumah tinggal daerah cipadung,KRK,cipadung,0.45,daerah cipadung,0.45,tinggal daerah,0.3316,daerah,0.2822,tinggal,0.2628
+431,Konsultasi mengenai SBU,konsultasi sbu,Lainnya,konsultasi,1.0,,0.0,,0.0,,0.0,,0.0
+432,Pembuatan akun PBG untuk Biro Umum (Gedung Sate),buat akun pbg biro umum gedung sate,PBG,buat,0.7489,akun,0.562,pbg,0.3512,,0.0,,0.0
+433,Cek zona wilayah daerah Dago,cek zona wilayah daerah dago,IRK,dago,0.442,wilayah daerah,0.4145,cek zona,0.3524,zona wilayah,0.348,wilayah,0.3439
+434,informasi mengenai persayaratan slf,persayaratan slf,SLF,slf,1.0,,0.0,,0.0,,0.0,,0.0
+435,menanyakan alur pengajuan PBG,alur aju pbg,PBG,alur,0.6953,aju pbg,0.5244,aju,0.4002,pbg,0.2855,,0.0
+436,Informasi IRK surat,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+437,Bantu follow up pengajuan KRK No. Reg 10.264.3290,bantu follow aju krk reg,KRK,aju krk,0.3974,follow aju,0.3654,bantu follow,0.3617,follow,0.3583,bantu,0.3458
+438,Ce zona wilayah untuk lembaga  pelatihan,zona wilayah lembaga latih,IRK,zona wilayah,0.5841,wilayah,0.5772,zona,0.5707,,0.0,,0.0
+439,persyaratanb krk,persyaratanb krk,KRK,krk,1.0,,0.0,,0.0,,0.0,,0.0
+440,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+441,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+442,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+443,Konsultasi persyaratan PBG Reklame untuk Alfamart,konsultasi syarat pbg reklame alfamart,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+444,Konsultasi persyaratan KRK untuk Tanah Pemprov,konsultasi syarat krk tanah pemprov,KRK,tanah,0.7645,syarat krk,0.3284,konsultasi syarat,0.3231,konsultasi,0.2764,krk,0.2525
+445,PEMBERKASAN PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+446,CEK ZONASI,cek zonasi,IRK,zonasi,0.6477,cek zonasi,0.6477,cek,0.4012,,0.0,,0.0
+447,Konfirmasi mengenai SP 1 yang berlokasi didaerah Cipamokolan,konfirmasi lokasi daerah cipamokolan,WASDAL,konfirmasi,0.703,lokasi,0.5279,daerah,0.4766,,0.0,,0.0
+448,Pengambilan dokumen KRK an. VIRNANIRANTI,ambil dokumen krk virnaniranti,KRK,ambil dokumen,0.5425,dokumen krk,0.4798,dokumen,0.4682,ambil,0.429,krk,0.2687
+449,pemberkasan PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+450,Cek salinan IMB jl. Terbang Layang H1-5 TAHUN 1995,cek salin imb terbang layang tahun,SALINAN IMB,layang,0.4891,cek salin,0.4684,tahun,0.3528,imb,0.3368,salin imb,0.3368
+451,persyaratan pbg,syarat pbg,PBG,syarat pbg,0.6978,pbg,0.5592,syarat,0.4476,,0.0,,0.0
+452,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+453,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+454,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+455,Cek pemberkasan PBG Nomor : 327318-24022026-004 an. Ade Hasan Sumarso status ter hold karena INWAL,cek berkas pbg nomor ade hasan sumarso status ter hold inwal,PBG,ade,0.4602,cek berkas,0.3788,status,0.3611,pbg nomor,0.3561,nomor,0.3287
+456,"Pengambilan dokumen KRK an. ZAKI MUDZAKIR, S.ST., M.M",ambil dokumen krk zaki mudzakir,KRK,ambil dokumen,0.5425,dokumen krk,0.4798,dokumen,0.4682,ambil,0.429,krk,0.2687
+457,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+458,Konsultasi pengajuan PKKPR,konsultasi aju pkkpr,PKKPR,aju pkkpr,0.5735,konsultasi aju,0.5465,pkkpr,0.4291,aju,0.3675,konsultasi,0.2308
+459,Bantu follow up pengajuan PBG Nomor : 327326-10032026-010,bantu follow aju pbg nomor,PBG,pbg nomor,0.3787,aju pbg,0.3691,follow aju,0.3531,bantu follow,0.3496,nomor,0.3496
+460,Konsultasi persyaratan PBG untuk ruko,konsultasi syarat pbg ruko,PBG,ruko,0.6889,syarat pbg,0.4032,konsultasi syarat,0.3325,pbg,0.3231,konsultasi,0.2844
+461,PEMBERKASAN PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+462,PEMBERKASAN PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+463,INFORMASI MENGENAI ALUR KRK,alur krk,KRK,alur,0.9495,krk,0.3136,,0.0,,0.0,,0.0
+464,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+465,Pengambilan dokumen KRK No. Reg 10.264.3067 an. RABBANI AMARANGGANA,ambil dokumen krk reg rabbani amaranggana,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+466,pemberkasan pbg,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+467,PENGAMBILAN KRK AN. JAMES HARO & NELYWANI,ambil krk james haro nelywani,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+468,Cek status Surat Masuk mengenai Surat Pernyataan Pemindahan Data Pemohon PBG di SIMBG,cek status surat surat nyata pindah data pbg simbg,Surat Masuk,surat,0.4877,pindah data,0.4648,pindah,0.3979,status,0.3647,simbg,0.3077
+469,Konsultasi persyaratan PBG Reklame Identitas,konsultasi syarat pbg reklame identitas,Lainnya,reklame identitas,0.5025,identitas,0.5025,syarat pbg,0.3128,pbg reklame,0.3045,reklame,0.2934
+470,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+471,pengambilan krk,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+472,Konsultasi persyaratan PBG Reklame untuk Identitas,konsultasi syarat pbg reklame identitas,Lainnya,reklame identitas,0.5025,identitas,0.5025,syarat pbg,0.3128,pbg reklame,0.3045,reklame,0.2934
+473,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+474,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Cipadung/Panyileukan,konsultasi syarat krk rumah tinggal daerah cipadung panyileukan,KRK,daerah cipadung,0.4155,cipadung,0.4155,panyileukan,0.3843,tinggal daerah,0.3062,daerah,0.2606
+475,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+476,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+477,Pengambilan dokumen KRK No. Reg 10.262.1440 an. SEP BUDI NUGRAHA,ambil dokumen krk reg sep budi nugraha,KRK,sep budi,0.3687,sep,0.3687,nugraha,0.3687,budi,0.3687,budi nugraha,0.3687
+478,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+479,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+480,Konsultasi persyaratan PBG Reklame untuk Hotel Grand Cordela,konsultasi syarat pbg reklame hotel grand cordela,PBG,hotel grand,0.4591,grand,0.4397,reklame hotel,0.4019,hotel,0.3929,syarat pbg,0.2352
+481,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+482,pemberkasan pbg,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+483,pengambilan krk an ybs,ambil krk ybs,KRK,krk ybs,0.5374,ybs,0.5111,ambil krk,0.494,ambil,0.3846,krk,0.2409
+484,Konsultasi persyaratan PBG Reklame Azko,konsultasi syarat pbg reklame azko,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+485,Konsultasi persyaratan KRK untuk Sekolah,konsultasi syarat krk sekolah,KRK,krk sekolah,0.6004,sekolah,0.583,syarat krk,0.2788,konsultasi syarat,0.2743,konsultasi,0.2347
+486,persyaratan pbg,syarat pbg,PBG,syarat pbg,0.6978,pbg,0.5592,syarat,0.4476,,0.0,,0.0
+487,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+488,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+489,Konsultasi persyaratan Rumah Tinggal daerah Burangrang,konsultasi syarat rumah tinggal daerah burangrang,KRK,tinggal daerah,0.4849,daerah,0.4127,rumah tinggal,0.3842,tinggal,0.3842,rumah,0.3444
+490,Konsultasi persyaratan KRK untuk Kos Kos an daerah Panyileukan,konsultasi syarat krk kos kos daerah panyileukan,KRK,daerah panyileukan,0.5812,panyileukan,0.5376,daerah,0.3645,syarat krk,0.2497,konsultasi syarat,0.2457
+491,Konsultasi persyaratan KRK untuk Masjid,konsultasi syarat krk masjid,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+492,Konsultasi persyaratan KRK untuk Perumahan,konsultasi syarat krk rumah,KRK,krk rumah,0.5035,rumah,0.4557,syarat krk,0.3739,konsultasi syarat,0.3679,konsultasi,0.3147
+493,Pengambilan dokumen KRK No. Reg 10.261.200 an.  TRI AFIANTO,ambil dokumen krk reg tri afianto,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+494,Konsultasi jawaban IRK E-Mail,konsultasi irk mail,IRK,konsultasi irk,0.5921,irk mail,0.5022,mail,0.4827,irk,0.3326,konsultasi,0.2314
+495,PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+496,pengambilan krk an.BENIDEKTUS ADI PRIANTO (PT. BINTANG MEDIKA SEJAHTERA) / 1601141604940001,ambil krk benidektus adi prianto bintang medika sejahtera,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+497,Konsultasi mengenai retribusi pelayanan pemakaman (sudah gratis dan tidak ada hutang piutang lagi),konsultasi retribusi layan makam gratis hutang piutang,PEMAKAMAN,konsultasi retribusi,0.478,piutang,0.4185,layan makam,0.3807,layan,0.3699,makam gratis,0.3292
+498,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+499,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+500,informasi emngenai sumur resapan,emngenai sumur resap,PBG,emngenai,1.0,,0.0,,0.0,,0.0,,0.0
+501,informasi mengenai peta polygon,peta polygon,PKKPR,peta polygon,0.5822,peta,0.5822,polygon,0.5675,,0.0,,0.0
+502,Konsultasi persyaratan SLF untuk Apotek,konsultasi syarat slf apotek,SLF,slf apotek,0.5951,apotek,0.4293,syarat slf,0.4064,slf,0.3855,konsultasi syarat,0.2515
+503,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+504,Konsultasi perbaikan dokumen KRK an. YBS,konsultasi baik dokumen krk ybs,KRK,krk ybs,0.4022,konsultasi baik,0.3898,ybs,0.3825,baik dokumen,0.3758,baik,0.3536
+505,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+506,Konsultasi persyaratan PBG Reklame untuk Golden Money Changer,konsultasi syarat pbg reklame golden money changer,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+507,Bantu follow up pengajuan PBG Nomor : 327322-05012026-002 dan Nomor : 327306-03012025-002,bantu follow aju pbg nomor nomor,PBG,nomor,0.4964,nomor nomor,0.3687,pbg nomor,0.3176,aju pbg,0.3096,follow aju,0.2961
+508,informasi mengenai pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+509,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Andir,konsultasi syarat krk rumah tinggal daerah andir,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+510,Konsultasi persyaratan PBG untuk Cafe atau Restaurant,konsultasi syarat pbg cafe restaurant,PBG,syarat pbg,0.5563,konsultasi syarat,0.4588,pbg,0.4458,konsultasi,0.3924,syarat,0.3569
+511,Konsultasi persyaratan KRK untuk usaha,konsultasi syarat krk usaha,KRK,usaha,0.739,syarat krk,0.3432,konsultasi syarat,0.3377,konsultasi,0.2888,krk,0.2639
+512,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+513,Konsultasi persyaratan KRK untu Usaha,konsultasi syarat krk untu usaha,KRK,untu,0.5295,krk untu,0.5295,usaha,0.4898,syarat krk,0.2274,konsultasi syarat,0.2238
+514,Konsultasi mengenai peta Polygon,konsultasi peta polygon,PKKPR,konsultasi peta,0.5337,peta,0.4794,peta polygon,0.4794,polygon,0.4673,konsultasi,0.1929
+515,Konsultasi persyaratan IRK E-Mail untuk cek zona wilayah,konsultasi syarat irk mail cek zona wilayah,IRK,mail cek,0.4089,irk mail,0.3208,cek zona,0.3122,mail,0.3084,zona wilayah,0.3084
+516,PENGAMBILAN KRK,ambil krk,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+517,INFORMASI PBG,pbg,PBG,pbg,1.0,,0.0,,0.0,,0.0,,0.0
+518,Pandu langsung pengajuan KRK an. YBS,pandu aju krk ybs,KRK,pandu aju,0.4842,pandu,0.439,aju krk,0.4108,krk ybs,0.3857,ybs,0.3669
+519,Konsultasi dan pandu perbaikan dokumen KRK  No. Reg 10.264.3654,konsultasi pandu baik dokumen krk reg,KRK,pandu baik,0.4788,pandu,0.4016,baik dokumen,0.3297,krk reg,0.3124,reg,0.3102
+520,Konsultasi mengenai perubahan E-Mail an. HERAWAN KOSWARA,konsultasi ubah mail herawan koswara,PBG,konsultasi ubah,0.6517,ubah,0.5274,mail,0.4915,konsultasi,0.2356,,0.0
+521,Konsulasi persyaratan KRK untuk Rumah Tinggal daerah Gegerkalong,konsulasi syarat krk rumah tinggal daerah gegerkalong,KRK,daerah gegerkalong,0.4648,gegerkalong,0.4648,tinggal daerah,0.3425,daerah,0.2915,tinggal,0.2714
+522,Konsultasi mengenai penolakan zona wilayah pada pengajuan PKKPR yang berlokasi PT. SINERGY MEDIATEK INFORMASI,konsultasi tolak zona wilayah aju pkkpr lokasi sinergy mediatek,PKKPR,konsultasi tolak,0.4157,tolak,0.3981,aju pkkpr,0.3734,zona wilayah,0.3135,wilayah,0.3098
+523,PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+524,Konsultasi mengenai PBG Reklame Identitas,konsultasi pbg reklame identitas,PKKPR,konsultasi pbg,0.5482,identitas,0.4712,reklame identitas,0.4712,pbg reklame,0.2856,reklame,0.2752
+525,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+526,IRK EMAIL,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+527,INFORMASI PKKPR PT PINDAD,pkkpr pindad,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+528,Cek zona wilayah dan pelebaran jalan,cek zona wilayah lebar jalan,IRK,jalan,0.5286,cek zona,0.4037,zona wilayah,0.3987,wilayah,0.394,zona,0.3895
+529,Cek pemberkasan KRK No. Reg 10.262.1908 an. LIEM SIOE TING,cek berkas krk reg liem sioe ting,KRK,ting,0.3379,sioe ting,0.3379,sioe,0.3379,reg liem,0.3379,liem sioe,0.3379
+530,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+531,PEMBERKASAN KRK,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+532,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+533,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+534,PERSYARATAN SLF,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+535,perubahan akun simbg,ubah akun simbg,PBG,ubah akun,0.5789,ubah,0.4685,akun simbg,0.3922,simbg,0.3832,akun,0.3804
+536,Konsultasi perubahan atau migrasi E-Mail,konsultasi ubah migrasi mail,PBG,konsultasi ubah,0.5962,ubah,0.4825,mail,0.4497,migrasi,0.4039,konsultasi,0.2155
+537,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+538,Cek bantu follow up pengajuan PBG,cek bantu follow aju pbg,PBG,cek bantu,0.4487,aju pbg,0.3658,follow aju,0.3499,bantu follow,0.3465,follow,0.3432
+539,Pengambilan dokumen IRK Surat yang berlokasi di Jl. H. Kurdi,ambil dokumen irk surat lokasi kurdi,IRK,lokasi,0.4273,irk surat,0.4134,ambil dokumen,0.4102,surat,0.3812,dokumen,0.3541
+540,Konsultasi cek zona wilayah yang berlokasi di Jl. Buah Batu,konsultasi cek zona wilayah lokasi buah batu,IRK,batu,0.3563,buah batu,0.3563,buah,0.3563,wilayah lokasi,0.3413,konsultasi cek,0.312
+541,"PENGAMBILAN KRK AN ARIFIN MUNTHE, S.SOS. / 3273070105490001",ambil krk arifin munthe sos,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+542,Pandu revisi berkas KRK an. IDA AYU ASTUTI,pandu revisi berkas krk ida ayu astuti,KRK,ida,0.369,ida ayu,0.369,astuti,0.369,ayu astuti,0.369,ayu,0.369
+543,pemberkasan pbg,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+544,Pengajuan Migrasi atau Perubahan akun an. Drs. Paulus Suharja NIK : 327308150260001,aju migrasi ubah akun drs paulus suharja nik,PBG,ubah akun,0.4528,paulus,0.4528,drs,0.4528,ubah,0.3664,migrasi,0.3067
+545,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Cikaso,konsultasi syarat krk rumah tinggal daerah cikaso,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+546,Konsultasi persyaratan KRK untuk Gereja,konsultasi syarat krk gereja,KRK,gereja,0.7645,syarat krk,0.3284,konsultasi syarat,0.3231,konsultasi,0.2764,krk,0.2525
+547,Kolsultasi perbaikan KRK No. Reg 10.264.3654 an. IDA AYU ASTUTI,kolsultasi baik krk reg ida ayu astuti,KRK,ida,0.3703,ida ayu,0.3703,astuti,0.3703,ayu astuti,0.3703,ayu,0.3703
+548,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+549,persyaratan KRK untuk ruko,syarat krk ruko,KRK,krk ruko,0.6502,ruko,0.6155,syarat krk,0.3019,krk,0.2322,syarat,0.2311
+550,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+551,Konfirmasi mengenai KRK yang sudah terbit pad atahun 2020 namun berada diaerah KBU dan memerlukan Rekomendasi dari Gurbernur,konfirmasi krk terbit pad atahun diaerah kbu rekomendasi gurbernur,KRK,krk terbit,0.5891,terbit,0.5642,konfirmasi,0.5449,krk,0.1946,,0.0
+552,pemberkasan pbg,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+553,Konsultasi persyaratan IRK Surat untuk Apotek,konsultasi syarat irk surat apotek,IRK,surat apotek,0.4884,syarat irk,0.3964,apotek,0.3923,irk surat,0.3654,surat,0.337
+554,Konsultasi persyaratan PBG Reklame untuk Identitas (logo YAMAHA),konsultasi syarat pbg reklame identitas logo yamaha,Lainnya,reklame identitas,0.5025,identitas,0.5025,syarat pbg,0.3128,pbg reklame,0.3045,reklame,0.2934
+555,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+556,Konsultasi persyaratan PBG Reklame untuk HOtel Crown Plaza,konsultasi syarat pbg reklame hotel crown plaza,Lainnya,crown,0.4551,hotel crown,0.4551,reklame hotel,0.3985,hotel,0.3896,syarat pbg,0.2332
+557,pemberkasan krk,berkas krk,KRK,berkas krk,0.7105,berkas,0.6125,krk,0.3464,,0.0,,0.0
+558,Konsul mengenai proyek jembatan layang di daerah cinambo,konsul proyek jembatan layang daerah cinambo,Lainnya,layang,0.8472,daerah,0.5313,,0.0,,0.0,,0.0
+559,informasi mengenai pkkpr,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+560,Pengambilan dokumen KRK No. Reg 10.264.3275,ambil dokumen krk reg,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+561,Konsultasi salinan IMB Tahun 1993 yang berlokasi di Jl. Cicalengka Raya No. 44,konsultasi salin imb tahun lokasi cicalengka raya,SALINAN IMB,konsultasi salin,0.4951,imb tahun,0.3609,tahun,0.3572,lokasi,0.3439,imb,0.3409
+562,Cek bantu pengajuan PBG Nomor : 327326-20042026-002,cek bantu aju pbg nomor,PBG,cek bantu,0.4728,pbg nomor,0.3955,aju pbg,0.3855,nomor,0.3651,bantu,0.349
+563,Konsultasi persyaratan IRK Surat untuk Apotek,konsultasi syarat irk surat apotek,IRK,surat apotek,0.4884,syarat irk,0.3964,apotek,0.3923,irk surat,0.3654,surat,0.337
+564,Pengambilan dokumen KRK No. Reg 10.262.1284,ambil dokumen krk reg,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+565,pbg reklame,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+566,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+567,PERSYARATAN KRK,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+568,Konsultasi perbaikan dokumen KRK an. YBS,konsultasi baik dokumen krk ybs,KRK,krk ybs,0.4022,konsultasi baik,0.3898,ybs,0.3825,baik dokumen,0.3758,baik,0.3536
+569,pengajuan irk surat,aju irk surat,IRK,aju irk,0.5534,irk surat,0.4669,surat,0.4306,aju,0.3999,irk,0.3611
+570,Permohonan permintaan data untuk Karya Ilmiah,mohon minta data karya ilmiah,Mahasiswa,mohon,0.8148,data,0.5797,,0.0,,0.0,,0.0
+571,persyaratan pbg reklame,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+572,pengajuan irk surat,aju irk surat,IRK,aju irk,0.5534,irk surat,0.4669,surat,0.4306,aju,0.3999,irk,0.3611
+573,Bantu follow up pengajuan KRK No. Reg 10.263.2813 an. NURBANI SUCI,bantu follow aju krk reg nurbani suci,KRK,aju krk,0.3974,follow aju,0.3654,bantu follow,0.3617,follow,0.3583,bantu,0.3458
+574,Cek zona wilayah untuk perluasan gereja yang berlokasi di Jl. Setiabudhi,cek zona wilayah luas gereja lokasi setiabudhi,IRK,gereja,0.4962,cek zona,0.3789,zona wilayah,0.3742,wilayah,0.3698,zona,0.3657
+575,persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+576,Bantu follow up pengajuan KRK No. Reg 10.264.3290 SRI UTAMI RAHAYU,bantu follow aju krk reg sri utami rahayu,KRK,aju krk,0.3974,follow aju,0.3654,bantu follow,0.3617,follow,0.3583,bantu,0.3458
+577,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+578,Konsultasi persyaratan PBG Reklame,konsultasi syarat pbg reklame,Lainnya,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+579,persyratan pbg,persyratan pbg,PBG,pbg,1.0,,0.0,,0.0,,0.0,,0.0
+580,informasi persyaratan krk,syarat krk,KRK,syarat krk,0.6777,krk,0.5211,syarat,0.5187,,0.0,,0.0
+581,konsultasi mengenai irk email,konsultasi irk email,IRK,konsultasi irk,0.6456,irk email,0.4405,email,0.4405,irk,0.3627,konsultasi,0.2523
+582,irk surat,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+583,konsultasi mengenai pbg reklame,konsultasi pbg reklame,PBG,konsultasi pbg,0.7353,pbg reklame,0.383,reklame,0.3691,pbg,0.3153,konsultasi,0.2775
+584,Konsultasi persyartaan PBG Reklame Identitas,konsultasi persyartaan pbg reklame identitas,Lainnya,persyartaan pbg,0.4543,konsultasi persyartaan,0.4202,persyartaan,0.4202,reklame identitas,0.374,identitas,0.374
+585,irk email,irk email,IRK,irk email,0.6111,email,0.6111,irk,0.5032,,0.0,,0.0
+586,Cek pengajuan PBG Nomor : 327307-03022026-007 dan Nomor : 327322-05012026-002,cek aju pbg nomor nomor,PBG,nomor,0.537,nomor nomor,0.3988,cek aju,0.3988,pbg nomor,0.3436,aju pbg,0.3349
+587,Konsultasi persyartaan PBG Reklame,konsultasi persyartaan pbg reklame,Lainnya,persyartaan pbg,0.5352,persyartaan,0.4951,konsultasi persyartaan,0.4951,pbg reklame,0.2671,reklame,0.2573
+588,PEMBERKASAN PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+589,PEMBERKASAN PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+590,PERSYARATAN PBG REKLAME,syarat pbg reklame,PBG,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+591,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+592,Konsultasi persyaratan PBG untuk Rumah Tinggal,konsultasi syarat pbg rumah tinggal,KRK,pbg rumah,0.5671,tinggal,0.358,rumah tinggal,0.358,rumah,0.3209,syarat pbg,0.3142
+593,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+594,Konsultasi persyaratan PBG Reklame Identitas,konsultasi syarat pbg reklame identitas,Lainnya,reklame identitas,0.5025,identitas,0.5025,syarat pbg,0.3128,pbg reklame,0.3045,reklame,0.2934
+595,Konsultasi mengenai pengajuan PKKPR untuk PT. SURYA MULTI LAKSANA yang berlokasi di Jl. Soekarno Hatta No. 207 A,konsultasi aju pkkpr surya multi laksana lokasi soekarno hatta,PKKPR,aju pkkpr,0.5242,konsultasi aju,0.4996,lokasi,0.4054,pkkpr,0.3922,aju,0.3359
+596,PERSYARATAN SLF,syarat slf,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+597,INFORMASI PKKPR,pkkpr,PKKPR,pkkpr,1.0,,0.0,,0.0,,0.0,,0.0
+598,IRK SURAT,irk surat,IRK,irk surat,0.6391,surat,0.5893,irk,0.4943,,0.0,,0.0
+599,PEMBERKASAN PBG,berkas pbg,PBG,berkas pbg,0.6974,berkas,0.5863,pbg,0.4123,,0.0,,0.0
+600,Konsultasi perbaikan dokumen KRK No. Reg 10.264.3356 an.  IHSAN ALI MUHAROM,konsultasi baik dokumen krk reg ihsan ali muharom,KRK,ali,0.4898,konsultasi baik,0.3498,baik dokumen,0.3373,krk reg,0.3195,reg,0.3173
+601,Bantu follow up pengajuan IRK E-Mail an. KIKI MULYADI,bantu follow aju irk mail kiki mulyadi,IRK,aju irk,0.3789,irk mail,0.3733,mail,0.3588,follow aju,0.3432,bantu follow,0.3398
+602,Konsultasi persyaratan PBG untuk Rumah kost,konsultasi syarat pbg rumah kost,PBG,rumah kost,0.5067,kost,0.4853,pbg rumah,0.4687,rumah,0.2652,syarat pbg,0.2596
+603,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Citerrup,konsultasi syarat krk rumah tinggal daerah citerrup,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+604,INFORMASI MENGENAI PERSYARATAN PBG REKLAME,syarat pbg reklame,REKLAME,syarat pbg,0.5076,pbg reklame,0.4942,reklame,0.4762,pbg,0.4067,syarat,0.3256
+605,Cek dan bantu follow up pengajuan SLF an. Farida Anum,cek bantu follow aju slf farida anum,SLF,cek bantu,0.4665,follow aju,0.3638,bantu follow,0.3602,follow,0.3567,bantu,0.3444
+606,konsultasi mengenai pemberkasan pbg,konsultasi berkas pbg,PBG,konsultasi berkas,0.6705,berkas pbg,0.4863,berkas,0.4088,pbg,0.2875,konsultasi,0.2531
+607,Konsultasi persyaratan KRK untuk Rumah Tinggal dan Toko daerah Buah Batu,konsultasi syarat krk rumah tinggal toko daerah buah batu,KRK,buah,0.4305,batu,0.4305,buah batu,0.4305,daerah,0.27,tinggal,0.2514
+608,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+609,Bantu follow up pengajuan PBG Nomor : 327322-05012026-002 dan Nomor : 327306-03012025-002,bantu follow aju pbg nomor nomor,PBG,nomor,0.4964,nomor nomor,0.3687,pbg nomor,0.3176,aju pbg,0.3096,follow aju,0.2961
+610,Konsultasi persyartaan KRK untuk Ruko daerah Antapani,konsultasi persyartaan krk ruko daerah antapani,KRK,ruko daerah,0.3595,persyartaan krk,0.3595,daerah antapani,0.3443,antapani,0.3325,persyartaan,0.3325
+611,konsultasi mengenai persyaratan KRK,konsultasi syarat krk,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+612,Konsultasi persyaratan KRK untuk Klinik Pratama,konsultasi syarat krk klinik pratama,KRK,pratama,0.4906,klinik pratama,0.4906,krk klinik,0.4295,klinik,0.4038,syarat krk,0.2107
+613,Pengambilan KRK a.n irwansyah,ambil krk irwansyah,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+614,Pandu langsung pengajuan KRK an. ENUNG KUSTIAH,pandu aju krk enung kustiah,KRK,pandu aju,0.572,pandu,0.5186,aju krk,0.4852,aju,0.3559,krk,0.2042
+615,Konsultasi persyaratan KRK untuk Rumah Tinggl,konsultasi syarat krk rumah tinggl,KRK,krk rumah,0.5035,rumah,0.4557,syarat krk,0.3739,konsultasi syarat,0.3679,konsultasi,0.3147
+616,konsultasi persyaratan REKLAME,konsultasi syarat reklame,REKLAME,syarat reklame,0.7283,reklame,0.4091,konsultasi syarat,0.3596,konsultasi,0.3076,syarat,0.2797
+617,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Caringin,konsultasi syarat krk rumah tinggal daerah caringin,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+618,Konsultasi persyaratan KRK untuk Apotek,konsultasi syarat krk apotek,KRK,krk apotek,0.6291,apotek,0.5053,syarat krk,0.3009,konsultasi syarat,0.296,konsultasi,0.2532
+619,Konsultasi persyaratan KRK untuk Apotek,konsultasi syarat krk apotek,KRK,krk apotek,0.6291,apotek,0.5053,syarat krk,0.3009,konsultasi syarat,0.296,konsultasi,0.2532
+620,Cek pengajuan PBG status di Menunggu Pembayaran,cek aju pbg status tunggu bayar,PBG,cek aju,0.4869,status,0.4254,bayar,0.414,aju pbg,0.4089,aju,0.312
+621,Ubah password akun SIPETRUK an. YBS,ubah password akun sipetruk ybs,KRK,ubah password,0.5232,password,0.5053,ubah,0.4421,ybs,0.3829,akun,0.359
+622,Perbaikan dokumen KRK a.n Erwanti,baik dokumen krk erwanti,KRK,baik dokumen,0.5309,baik,0.4995,dokumen krk,0.4548,dokumen,0.4438,krk,0.2546
+623,Bantu follow up pengajuan KRK an. SITI AFIFAH,bantu follow aju krk siti afifah,KRK,siti afifah,0.3765,siti,0.3765,krk siti,0.3765,afifah,0.3765,aju krk,0.2955
+624,Konsultasi persyaratan KRK untuk Rumah Tingga,konsultasi syarat krk rumah tingga,KRK,krk rumah,0.5035,rumah,0.4557,syarat krk,0.3739,konsultasi syarat,0.3679,konsultasi,0.3147
+625,Informasi persyaratan IRK Email,syarat irk email,IRK,syarat irk,0.5581,irk email,0.4832,email,0.4832,irk,0.3979,syarat,0.2517
+626,Konsultasi Persyaratan KRK rumah tinggal daerah karasak,konsultasi syarat krk rumah tinggal daerah karasak,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+627,Konsultasi Persyaratan KRK Rumah tinggal daerah gegerkalong,konsultasi syarat krk rumah tinggal daerah gegerkalong,KRK,daerah gegerkalong,0.45,gegerkalong,0.45,tinggal daerah,0.3316,daerah,0.2822,tinggal,0.2628
+628,Konsultasi mengenai perijinan bangunan dengan pa rizky bidang ck an. Pa Ade,konsultasi perijinan bangun rizky bidang ade,PBG,perijinan bangun,0.4159,konsultasi perijinan,0.4159,bidang,0.4159,ade,0.4159,perijinan,0.3984
+629,Informasi mengenai program kerja tenaga kebersihan diarahkan ke DSDABM,program tenaga bersih arah dsdabm,Lainnya,program,1.0,,0.0,,0.0,,0.0,,0.0
+630,Konsultasi persyaratan PBG Reklame untuk Hotel Grand Kopo,konsultasi syarat pbg reklame hotel grand kopo,REKLAME,hotel grand,0.4591,grand,0.4397,reklame hotel,0.4019,hotel,0.3929,syarat pbg,0.2352
+631,Konsultasi mengenai persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+632,Konsultasi mengenai persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+633,Konsultasi Persyaratan KRK,konsultasi syarat krk,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+634,Informasi mengenai perngajuan proses PBG dan KRK,perngajuan proses pbg krk,PBG,pbg,0.7793,krk,0.6267,,0.0,,0.0,,0.0
+635,Konsultasi mengenai pesyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+636,Konsultasi Persyaratan KRK,konsultasi syarat krk,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+637,Konsultasi persyaratan KRK untuk Non Rumah Tinggal,konsultasi syarat krk non rumah tinggal,KRK,tinggal,0.4523,rumah tinggal,0.4523,rumah,0.4054,syarat krk,0.3327,konsultasi syarat,0.3273
+638,Konsultasi mengenai PBG REKLAME,konsultasi pbg reklame,PBG,konsultasi pbg,0.7353,pbg reklame,0.383,reklame,0.3691,pbg,0.3153,konsultasi,0.2775
+639,Informasi mengenai PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+640,Konsultasi salinan iMB Tahun 1997,konsultasi salin imb tahun,SALINAN IMB,konsultasi salin,0.5272,imb tahun,0.3843,tahun,0.3804,imb,0.3631,salin imb,0.3631
+641,Konsultasi mengenai kendala akun SIMBG,konsultasi kendala akun simbg,Tidak Diketahui,konsultasi kendala,0.4667,kendala,0.4667,kendala akun,0.4667,akun simbg,0.3301,simbg,0.3225
+642,Konsultasi mengenai persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+643,Konsultasi perbaikan dokumen KRK an. YBS,konsultasi baik dokumen krk ybs,KRK,krk ybs,0.4022,konsultasi baik,0.3898,ybs,0.3825,baik dokumen,0.3758,baik,0.3536
+644,Bantu follow up pengajuan IRK E-Mail,bantu follow aju irk mail,IRK,aju irk,0.3789,irk mail,0.3733,mail,0.3588,follow aju,0.3432,bantu follow,0.3398
+645,Konsultasi persyaratan IRK Surat,konsultasi syarat irk surat,IRK,syarat irk,0.5086,irk surat,0.4688,surat,0.4323,irk,0.3626,konsultasi syarat,0.2949
+646,Konsultasi persyartan PBG,konsultasi persyartan pbg,PBG,pbg,0.7506,konsultasi,0.6608,,0.0,,0.0,,0.0
+647,Pengambilan dokumen KRK an. RUDI SUDIRO MURBONEGORO dan IR. H. DUDUNG KUSMARA,ambil dokumen krk rudi sudiro murbonegoro dudung kusmara,KRK,ambil dokumen,0.5425,dokumen krk,0.4798,dokumen,0.4682,ambil,0.429,krk,0.2687
+648,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+649,Konsultasi persyaratan IRK Surat,konsultasi syarat irk surat,IRK,syarat irk,0.5086,irk surat,0.4688,surat,0.4323,irk,0.3626,konsultasi syarat,0.2949
+650,Konsultasi persyaratan PBG,konsultasi syarat pbg,PBG,syarat pbg,0.5563,konsultasi syarat,0.4588,pbg,0.4458,konsultasi,0.3924,syarat,0.3569
+651,Konsultasi mengenai persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+652,Pengambilan dokumen KRK No. Reg 10.262.2057 an. SONI SUHARYONO,ambil dokumen krk reg soni suharyono,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+653,Konsultasi persyaratan PBG Reklame untuk Identitas nama perusahaan asuransi,konsultasi syarat pbg reklame identitas nama usaha asuransi,REKLAME,usaha,0.4412,nama,0.4412,reklame identitas,0.3927,identitas,0.3927,syarat pbg,0.2444
+654,Pengambilan KRK a.n Ispurnomo no regist. 10.264.3510,ambil krk ispurnomo regist,KRK,regist,0.7213,ambil krk,0.5101,ambil,0.3971,krk,0.2487,,0.0
+655,Konsultasi persyaratan KRK untuk Kost,konsultasi syarat krk kost,KRK,kost,0.7506,syarat krk,0.3366,konsultasi syarat,0.3312,konsultasi,0.2833,krk,0.2588
+656,Cek salinan IMB,cek salin imb,SALINAN IMB,cek salin,0.5872,salin imb,0.4222,imb,0.4222,salin,0.4187,cek,0.3512
+657,Konsultasi perbaikan dokumen KRK an. YBS,konsultasi baik dokumen krk ybs,KRK,krk ybs,0.4022,konsultasi baik,0.3898,ybs,0.3825,baik dokumen,0.3758,baik,0.3536
+658,Konsultasi Persyaratan PBG REKLAME The Papandayan Hotel,konsultasi syarat pbg reklame the papandayan hotel,PBG,hotel,0.5962,syarat pbg,0.3569,pbg reklame,0.3475,reklame,0.3348,konsultasi syarat,0.2944
+659,Mengikuti rapat Klarifikasi terkait PBG dan SLF untuk Bangunan di Jl. Gajah lumantung No. 3  dengan Bidang WASDAL,ikut rapat klarifikasi pbg slf bangun gajah lumantung bidang wasdal,WASDAL,bidang,0.6564,bangun,0.5618,slf,0.4253,pbg,0.2696,,0.0
+660,Cek zona wilayah Jl. Dago Pojok,cek zona wilayah dago pojok,IRK,dago,0.5122,cek zona,0.4084,zona wilayah,0.4034,wilayah,0.3986,zona,0.3941
+661,Bantu follow up pengajuan IRK E-Mail yang berlokasi di Jl. Cigadung Selatan II No. 17 sejak tgl. 24 April 2026,bantu follow aju irk mail lokasi cigadung selatan tgl april,IRK,tgl,0.3873,mail lokasi,0.3391,aju irk,0.3085,irk mail,0.3039,mail,0.2921
+662,Konsultasi mengenai kendala Akun SIMBG,konsultasi kendala akun simbg,PBG,konsultasi kendala,0.4667,kendala,0.4667,kendala akun,0.4667,akun simbg,0.3301,simbg,0.3225
+663,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah BuahBatu,konsultasi syarat krk rumah tinggal daerah buahbatu,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+664,kosultasi persyaratan KRK untuk apotek daerah singgasana,kosultasi syarat krk apotek daerah singgasana,KRK,krk apotek,0.6166,apotek,0.4952,daerah,0.4305,syarat krk,0.2948,krk,0.2267
+665,Konsultasi mengenai KRK cagar budaya tipe c Jl. Bengawan No. 78  daerah bengawa,konsultasi krk cagar budaya tipe bengawan daerah bengawa,KRK,bengawan,0.7692,daerah,0.5037,konsultasi,0.2903,krk,0.2653,,0.0
+666,Konsultasi persyaratan KRK untuk Sekolah Paud,konsultasi syarat krk sekolah paud,KRK,krk sekolah,0.6004,sekolah,0.583,syarat krk,0.2788,konsultasi syarat,0.2743,konsultasi,0.2347
+667,Konsultasi mengenai pengajuan IRK email,konsultasi aju irk email,IRK,konsultasi aju,0.503,aju irk,0.468,irk email,0.3709,email,0.3709,aju,0.3382
+668,Konsultasi persyaratan PBG Reklame untuk Identitas (HYPERMART),konsultasi syarat pbg reklame identitas hypermart,REKLAME,reklame identitas,0.5025,identitas,0.5025,syarat pbg,0.3128,pbg reklame,0.3045,reklame,0.2934
+669,Cek pemberkasan KRK,cek berkas krk,KRK,cek berkas,0.5949,berkas krk,0.4895,berkas,0.422,cek,0.414,krk,0.2387
+670,Konsultasi mengenai persyaratan IRK surat,konsultasi syarat irk surat,IRK,syarat irk,0.5086,irk surat,0.4688,surat,0.4323,irk,0.3626,konsultasi syarat,0.2949
+671,Konsultasi persyaratan KRK rumah tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+672,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+673,Konsultasi Follow Up IRK Email Jl. Cijawura girang,konsultasi follow irk email cijawura girang,IRK,follow,0.5429,email,0.4843,irk email,0.4843,irk,0.3989,konsultasi,0.2775
+674,Konsultasi persyaratan KRK rumah tinggal daerah arcamanik,konsultasi syarat krk rumah tinggal daerah arcamanik,KRK,arcamanik,0.4749,tinggal daerah,0.3783,daerah,0.322,tinggal,0.2998,rumah tinggal,0.2998
+675,Informasi mengenai PBG REKLAME,pbg reklame,PBG,pbg reklame,0.6195,reklame,0.5969,pbg,0.5099,,0.0,,0.0
+676,Informasi mengenai kepemilikan tanah di jl. kupang antapani kidulmbuka,milik tanah kupang antapani kidulmbuka,Lainnya,tanah,0.7341,antapani,0.679,,0.0,,0.0,,0.0
+677,"Konsultasi perbaikan dokumen KRK an, YBS",konsultasi baik dokumen krk ybs,KRK,krk ybs,0.4022,konsultasi baik,0.3898,ybs,0.3825,baik dokumen,0.3758,baik,0.3536
+678,Konsultasi persyaratan KRK untuk apotik,konsultasi syarat krk apotik,KRK,krk apotik,0.6073,apotik,0.6073,syarat krk,0.2609,konsultasi syarat,0.2567,konsultasi,0.2196
+679,Perbaikan berkas KRK dengan no regist 10.264.4087,baik berkas krk regist,KRK,regist,0.6391,berkas krk,0.452,baik,0.4323,berkas,0.3897,krk,0.2204
+680,Cek pemberkasan KRK an. SITI AFIFAH,cek berkas krk siti afifah,KRK,siti afifah,0.4112,siti,0.4112,krk siti,0.4112,afifah,0.4112,cek berkas,0.3385
+681,Bantu follow up  pengajuan KRK an. YBS,bantu follow aju krk ybs,KRK,aju krk,0.3881,krk ybs,0.3645,follow aju,0.3568,bantu follow,0.3533,follow,0.3499
+682,Pengambilan dokumen KRK an. YBS,ambil dokumen krk ybs,KRK,krk ybs,0.4619,ybs,0.4393,ambil dokumen,0.418,dokumen krk,0.3697,dokumen,0.3608
+683,Pengambilan KRK A.N Dwi Narto Nugroho,ambil krk dwi narto nugroho,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+684,Pengambilan dokumen KRK an. ADEVIA MUTIARA OKTA,ambil dokumen krk adevia mutiara okta,KRK,ambil dokumen,0.5425,dokumen krk,0.4798,dokumen,0.4682,ambil,0.429,krk,0.2687
+685,Pengajuan IRK Surat an. ELVIN ATMAJA HIDAYAT yang berlokasi di Jl. Babakan Sukajadi No. 3,aju irk surat elvin atmaja hidayat lokasi babakan sukajadi,IRK,babakan,0.5141,aju irk,0.4275,lokasi,0.3729,irk surat,0.3607,surat,0.3326
+686,Bantu upluad perbaikan KRK rumah tinggal,bantu upluad baik krk rumah tinggal,KRK,baik krk,0.5351,bantu,0.3816,baik,0.362,tinggal,0.3263,rumah tinggal,0.3263
+687,Konsultasi persyaratan KRK untuk Apotek dan Klinik,konsultasi syarat krk apotek klinik,KRK,krk apotek,0.545,klinik,0.4995,apotek,0.4378,syarat krk,0.2606,konsultasi syarat,0.2565
+688,INFORMASI KONSULTASI PBB REKLAME,konsultasi pbb reklame,PBG,reklame,0.7992,konsultasi,0.601,,0.0,,0.0,,0.0
+689,Pengambilan KRK a.n ERNA KURNIATI,ambil krk erna kurniati,KRK,kurniati,0.4507,krk erna,0.4507,erna kurniati,0.4507,erna,0.4507,ambil krk,0.3188
+690,Konsultasi mengenai kendala akun SIMBG,konsultasi kendala akun simbg,PBG,konsultasi kendala,0.4667,kendala,0.4667,kendala akun,0.4667,akun simbg,0.3301,simbg,0.3225
+691,Konsultasi perbaikan dokumen KRK No. Reg 10.261.241,konsultasi baik dokumen krk reg,KRK,konsultasi baik,0.4013,baik dokumen,0.3869,krk reg,0.3665,reg,0.364,baik,0.364
+692,Konsultasi persyaratan KRK untuk alih fungsi,konsultasi syarat krk alih fungsi,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+693,kONSULTASI PERBAIKAN DOKUMEN KRK,konsultasi baik dokumen krk,KRK,konsultasi baik,0.4686,baik dokumen,0.4518,baik,0.4251,dokumen krk,0.387,dokumen,0.3776
+694,PENGECEKAN STATUS KRK VERIFIKASI SUBKOR PPTR,kece status krk verifikasi subkor pptr,KRK,kece status,0.4715,pptr,0.4715,kece,0.4516,verifikasi,0.4362,status,0.37
+695,Konsultasi persyaratan KRK untuk Gudang yang di Jl. Cimindi No. 272,konsultasi syarat krk gudang cimindi,KRK,gudang,0.7645,syarat krk,0.3284,konsultasi syarat,0.3231,konsultasi,0.2764,krk,0.2525
+696,Bantu follow up pengajuan KRK No. Reg 10.264.3237 an. DRS. H. E HUDAYA PRAWIRA status di Subkoor PPTR sejak tgl. 30/04/2026,bantu follow aju krk reg drs hudaya prawira status subkoor pptr tgl,KRK,tgl,0.3648,pptr,0.3648,drs,0.3648,aju krk,0.2862,status,0.2862
+697,Konsultasi persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+698,Konsultasi persyaratan PBG rumah tinggal,konsultasi syarat pbg rumah tinggal,PBG,pbg rumah,0.5671,tinggal,0.358,rumah tinggal,0.358,rumah,0.3209,syarat pbg,0.3142
+699,Konsultasi persyaratan PBG Reklame Identitas diatas 4 meter,konsultasi syarat pbg reklame identitas atas meter,REKLAME,reklame identitas,0.5025,identitas,0.5025,syarat pbg,0.3128,pbg reklame,0.3045,reklame,0.2934
+700,Konsultasi perbaikan dokumen KRK,konsultasi baik dokumen krk,KRK,konsultasi baik,0.4686,baik dokumen,0.4518,baik,0.4251,dokumen krk,0.387,dokumen,0.3776
+701,Konsultasi perijinan bangunan untuk Kabupaten Bandung,konsultasi perijinan bangun kabupaten bandung,PBG,perijinan bangun,0.3946,konsultasi perijinan,0.3946,perijinan,0.3779,kabupaten bandung,0.3779,kabupaten,0.3779
+702,Cek pengajuan KRK an. RIDWAN SETIAWAN,cek aju krk ridwan setiawan,KRK,setiawan,0.4019,ridwan setiawan,0.4019,ridwan,0.4019,krk ridwan,0.4019,cek aju,0.361
+703,Cek dan bantu follow up terkait pengajuan PBG Nomor : 327313-06052026-014 status di Verifikasi Kelengkapan Dokumen,cek bantu follow aju pbg nomor status verifikasi lengkap dokumen,PBG,status verifikasi,0.3319,lengkap,0.3179,verifikasi,0.307,cek bantu,0.307,status,0.2604
+704,Konsultasi perbaikan dokumen KRK fitness plus summarecon bandung,konsultasi baik dokumen krk fitness plus summarecon bandung,KRK,bandung,0.5077,konsultasi baik,0.4037,baik dokumen,0.3893,baik,0.3662,dokumen krk,0.3334
+705,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+706,Pengambilan dokumen KRK an. MARIO FRANSISCO RETA XAVERY,ambil dokumen krk mario fransisco reta xavery,KRK,ambil dokumen,0.5425,dokumen krk,0.4798,dokumen,0.4682,ambil,0.429,krk,0.2687
+707,Perbaikan dokumen KRK lapangan golf arcamanik,baik dokumen krk lapang golf arcamanik,KRK,arcamanik,0.5806,baik dokumen,0.4323,baik,0.4067,dokumen krk,0.3703,dokumen,0.3613
+708,Konsultasi persyaratan KRK untuk Ruko,konsultasi syarat krk ruko,KRK,krk ruko,0.6056,ruko,0.5732,syarat krk,0.2812,konsultasi syarat,0.2767,konsultasi,0.2367
+709,Pandu langsung pengajuan IRK E-Mail yang berlokasi di Jl. Ir. H. Juanda No.262,pandu aju irk mail lokasi juanda,IRK,pandu aju,0.4045,mail lokasi,0.3829,pandu,0.3668,aju irk,0.3483,irk mail,0.3432
+710,PENGECEKAN STATUS SLF UNTUK JL.RANGGA GEMPOL,kece status slf rangga gempol,SLF,kece status,0.5819,kece,0.5574,status,0.4566,slf,0.377,,0.0
+711,Konsultasi perbaikan dokumen KRK No. Reg 10.263.2983 an. ERIS RAMDANI (KLINIK LAPAS KELAS IIA BANCEUY),konsultasi baik dokumen krk reg eris ramdani klinik lapas kelas iia banceuy,KRK,lapas,0.4136,banceuy,0.4136,klinik,0.3405,konsultasi baik,0.2954,baik dokumen,0.2848
+712,Pergantian kata sandu akun krk bapak yudhi,ganti sandu akun krk yudhi,KRK,ganti,0.7932,akun,0.5441,krk,0.2735,,0.0,,0.0
+713,Konsultasi persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+714,PENGAMBILAN KRK A.N RIDWAN SETIAWAN,ambil krk ridwan setiawan,KRK,setiawan,0.4543,ridwan setiawan,0.4543,ridwan,0.4543,krk ridwan,0.4543,ambil krk,0.3077
+715,Konsultasi peng upload an PBG untuk apotek pada SIMBG,konsultasi peng upload pbg apotek simbg,PBG,upload,0.5712,pbg apotek,0.5131,apotek,0.4121,simbg,0.3781,pbg,0.2346
+716,Konsultasi persyaratan KRK rumah tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+717,Konsultasi persyaratan PBG Bangunan untuk Perumahan daerah Gedebage,konsultasi syarat pbg bangun rumah daerah gedebage,PBG,bangun,0.5708,daerah,0.4182,rumah,0.3491,syarat pbg,0.3417,konsultasi syarat,0.2818
+718,Bantu ubah password an. YBS,bantu ubah password ybs,KRK,ubah password,0.5205,password,0.5027,ubah,0.4398,ybs,0.3809,bantu,0.3712
+719,konsultasi pemberkasan pbg reklame,konsultasi berkas pbg reklame,PBG,konsultasi berkas,0.6033,berkas pbg,0.4376,berkas,0.3678,pbg reklame,0.3143,reklame,0.3028
+720,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+721,Konsultasi persyaratan KRK untuk Sekolah,konsultasi syarat krk sekolah,KRK,krk sekolah,0.6004,sekolah,0.583,syarat krk,0.2788,konsultasi syarat,0.2743,konsultasi,0.2347
+722,Informasi mengenai salinan siteplan 2004,salin siteplan,SITEPLAN,salin,1.0,,0.0,,0.0,,0.0,,0.0
+723,Konsultasi mengenai penolakan PKKPR karena RDTR tidak sesuai,konsultasi tolak pkkpr rdtr sesuai,PKKPR,rdtr,0.5346,konsultasi tolak,0.5346,tolak,0.512,pkkpr,0.3592,konsultasi,0.1933
+724,Konsultasi persyaratan KRK untuk Klinik,konsultasi syarat krk klinik,KRK,krk klinik,0.5964,klinik,0.5607,syarat krk,0.2926,konsultasi syarat,0.2879,konsultasi,0.2463
+725,Konsultasi mengenai persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+726,Konsultasi persyaratan KRK untu Ruko daerah Ciroyom,konsultasi syarat krk untu ruko daerah ciroyom,KRK,untu,0.4531,ruko daerah,0.4531,krk untu,0.4531,ruko,0.3967,daerah,0.2842
+727,Konsultasi persyaratan IRK Surat untuk Apotek,konsultasi syarat irk surat apotek,IRK,surat apotek,0.4884,syarat irk,0.3964,apotek,0.3923,irk surat,0.3654,surat,0.337
+728,Konsultasi persyaratan KRK rumah tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+729,Konsultasi mengenai persyaratan PBG Reklame untuk hotel daerah Braga,konsultasi syarat pbg reklame hotel daerah braga,REKLAME,reklame hotel,0.4878,hotel,0.4769,daerah,0.3494,syarat pbg,0.2855,pbg reklame,0.278
+730,Pengambilan KRK a.n Muhammad ali ridho diwakilkan,ambil krk muhammad ali ridho wakil,KRK,wakil,0.5099,muhammad,0.5099,ali,0.5099,ambil krk,0.3454,ambil,0.2689
+731,Konsultasi pemberkasan KRK,konsultasi berkas krk,KRK,konsultasi berkas,0.6846,berkas krk,0.4842,berkas,0.4175,konsultasi,0.2584,krk,0.2361
+732,Konsultasi persyaratan PBG untuk Apotek,konsultasi syarat pbg apotek,PBG,pbg apotek,0.6089,apotek,0.4891,syarat pbg,0.3474,konsultasi syarat,0.2865,pbg,0.2784
+733,iNFORMASI MENGENAI PERSYARATAN SLF BANDARA HUSEIN,syarat slf bandara husein,SLF,syarat slf,0.6849,slf,0.6498,syarat,0.3297,,0.0,,0.0
+734,Konsultasi dan cek zona wilayah melalui link RDTR yang berlokasi di Jl. Ciwaru,konsultasi cek zona wilayah link rdtr lokasi ciwaru,IRK,rdtr,0.4491,konsultasi cek,0.3932,cek zona,0.3429,zona wilayah,0.3387,wilayah,0.3347
+735,Konsultasi IRK Surat untuk Apotek,konsultasi irk surat apotek,IRK,konsultasi irk,0.5002,surat apotek,0.4858,apotek,0.3901,irk surat,0.3634,surat,0.3351
+736,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Kiaracondong,konsultasi syarat krk rumah tinggal daerah kiaracondong,KRK,kiaracondong,0.4878,tinggal daerah,0.3753,daerah,0.3194,tinggal,0.2974,rumah tinggal,0.2974
+737,Konsultasi persyaratan SLF,konsultasi syarat slf,SLF,syarat slf,0.5981,slf,0.5675,konsultasi syarat,0.3702,konsultasi,0.3166,syarat,0.2879
+738,Konsultasi persyaratan KRK,konsultasi syarat krk,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+739,Konsultasi mengenai informasi pengajuan PBG,konsultasi aju pbg,PBG,konsultasi aju,0.6158,aju pbg,0.5426,aju,0.4141,pbg,0.2954,konsultasi,0.2601
+740,Bantu follow up pengajuan PBG Nomor : 327309-23042026-007 an. Sep Budi Nugraha,bantu follow aju pbg nomor sep budi nugraha,PBG,sep budi,0.3301,sep,0.3301,nugraha,0.3301,budi,0.3301,budi nugraha,0.3301
+741,konultasi persyaratan PBG REKLAME,konultasi syarat pbg reklame,KRK,konultasi,0.5755,konultasi syarat,0.5755,syarat pbg,0.2949,pbg reklame,0.2871,reklame,0.2767
+742,INFORMASI MENGENAI PBG YANG SUDAH TERBIT,pbg terbit,PBG,terbit,0.9191,pbg,0.3941,,0.0,,0.0,,0.0
+743,PENGAMBILAN KRK A.N SUNARDI DIWAKILKAN,ambil krk sunardi wakil,KRK,wakil,0.736,ambil krk,0.4985,ambil,0.3881,krk,0.2431,,0.0
+744,PENGAMBILAN KRK ATAS NAMA MUHAMMAD RIZA,ambil krk nama muhammad riza,KRK,muhammad,0.6084,nama,0.5628,ambil krk,0.4121,ambil,0.3208,krk,0.2009
+745,Konsultasi IRK untuk cek Zona Wilayah daerah Antapani,konsultasi irk cek zona wilayah daerah antapani,IRK,daerah antapani,0.3671,konsultasi irk,0.3545,antapani,0.3545,wilayah daerah,0.3442,cek zona,0.2927
+746,KONSULTASI TERKAIT SURAT PENGAJUAN KKPR DAN SUDAH SIARAHKAN KE DPMPTSP,konsultasi surat aju kkpr siarah dpmptsp,Lainnya,konsultasi surat,0.736,surat,0.4561,aju,0.4236,konsultasi,0.2661,,0.0
+747,PENGAJUAN SURAT PERMOHONAN MIGRASI AKUN SIMBG ATAS NAMA IRSAN AHSEN SERVIA,aju surat mohon migrasi akun simbg nama irsan ahsen servia,PBG,mohon migrasi,0.4327,nama,0.4002,migrasi akun,0.3061,mohon,0.3006,migrasi,0.2931
+748,INFORMASI MENGENAI PERSYARATAN PBG,syarat pbg,PBG,syarat pbg,0.6978,pbg,0.5592,syarat,0.4476,,0.0,,0.0
+749,Konsultasi persyaratan KRK untuk Rumah Tinggal daerah Margahayu,konsultasi syarat krk rumah tinggal daerah margahayu,KRK,tinggal daerah,0.4299,daerah,0.3659,tinggal,0.3407,rumah tinggal,0.3407,krk rumah,0.3374
+750,Cek pengajuan PBG Nomor : 327322-05012026-002,cek aju pbg nomor,PBG,cek aju,0.4935,pbg nomor,0.4251,aju pbg,0.4144,nomor,0.3924,aju,0.3162
+751,KONSULTASI PERSYARATAN KRK,konsultasi syarat krk,KRK,syarat krk,0.5094,konsultasi syarat,0.5012,konsultasi,0.4287,krk,0.3917,syarat,0.3899
+752,"Pengambilan dokumen KRK No. Reg 10.264.3061 an. DEDI YUSUP APRIADI, SE",ambil dokumen krk reg dedi yusup apriadi,KRK,ambil dokumen,0.4344,krk reg,0.425,reg,0.4221,dokumen krk,0.3842,dokumen,0.3749
+753,Perbaikan dokumen KRK No. Reg 10.261.924 an. DR. RACHMAT GUNADI,baik dokumen krk reg rachmat gunadi,KRK,baik dokumen,0.4332,krk reg,0.4104,reg,0.4075,baik,0.4075,dokumen krk,0.371
+754,PENGAMBILAN KRK A.N NARENDRA SAVA HANUNG,ambil krk narendra sava hanung,KRK,ambil krk,0.7364,ambil,0.5733,krk,0.3591,,0.0,,0.0
+755,Konsultasi dan cek zona wilayah yang berlokasi di Jl. Windu No. 23,konsultasi cek zona wilayah lokasi windu,IRK,wilayah lokasi,0.4337,konsultasi cek,0.3965,cek zona,0.3458,zona wilayah,0.3416,wilayah,0.3375
+756,Pengambilan dokumen KRK No. Reg 10.264.3380 an. LIAUW PAULUS TEJAKUSUMA,ambil dokumen krk reg liauw paulus tejakusuma,KRK,paulus,0.5458,ambil dokumen,0.364,krk reg,0.3561,reg,0.3536,dokumen krk,0.322
+757,KONSULTASI PERSYARATAN PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+758,KONSILTASI PERSYARATAN KRK RUMAH TINGGAL,konsiltasi syarat krk rumah tinggal,KRK,tinggal,0.4489,rumah tinggal,0.4489,krk rumah,0.4446,rumah,0.4024,syarat krk,0.3302
+759,Konsultasi persyaratan migrasi atau ganti e-mail,konsultasi syarat migrasi ganti mail,PBG,ganti,0.6231,mail,0.4907,migrasi,0.4407,konsultasi syarat,0.275,konsultasi,0.2352
+760,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+761,Konsultasi dan cek zona wilayah yang berlokasi di Jl. Nagrog (Grand Valley Ujungberung),konsultasi cek zona wilayah lokasi nagrog grand valley ujungberung,IRK,wilayah lokasi,0.3697,grand,0.3697,ujungberung,0.3697,konsultasi cek,0.338,cek zona,0.2948
+762,Konsulyasi persyaratan KRK untuk bangunan pesantren,konsulyasi syarat krk bangun pesantren,PBG,pesantren,0.6845,bangun,0.5859,syarat krk,0.294,krk,0.2261,syarat,0.225
+763,konsultasi persyaratan KRK rumah tinggal di arcamanik,konsultasi syarat krk rumah tinggal arcamanik,IRK,arcamanik,0.5472,tinggal,0.3455,rumah tinggal,0.3455,krk rumah,0.3421,rumah,0.3097
+764,Pengajuan IRK surat apotek,aju irk surat apotek,IRK,surat apotek,0.4872,aju irk,0.432,apotek,0.3913,irk surat,0.3645,surat,0.3361
+765,Konsultasi persyaratan KRK untuk Apotek,konsultasi syarat krk apotek,IRK,krk apotek,0.6291,apotek,0.5053,syarat krk,0.3009,konsultasi syarat,0.296,konsultasi,0.2532
+766,Konsultasi persyaratan KRK untuk Ruko Batununggal,konsultasi syarat krk ruko batununggal,KRK,batununggal,0.5477,krk ruko,0.5066,ruko,0.4796,syarat krk,0.2353,konsultasi syarat,0.2315
+767,Konultasi persyaratan KRK untuk Pabrik,konultasi syarat krk pabrik,KRK,konultasi syarat,0.5422,pabrik,0.5422,konultasi,0.5422,syarat krk,0.2329,krk,0.1791
+768,Konsultasi persyaratan REKLAME,konsultasi syarat reklame,PBG,syarat reklame,0.7283,reklame,0.4091,konsultasi syarat,0.3596,konsultasi,0.3076,syarat,0.2797
+769,Konsultasi persyaratan KRK rumah tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+770,Cek salinan IMB tahun 2016,cek salin imb tahun,SALINAN IMB,cek salin,0.4971,imb tahun,0.3783,tahun,0.3744,imb,0.3574,salin imb,0.3574
+771,Konsultasi pengajuan PBG untuk Apotek an. YBS,konsultasi aju pbg apotek ybs,PBG,pbg apotek,0.4638,konsultasi aju,0.442,aju pbg,0.3894,apotek,0.3725,ybs,0.3619
+772,Konsultasi persyaratan IRK email,konsultasi syarat irk email,IRK,syarat irk,0.5135,email,0.4445,irk email,0.4445,irk,0.3661,konsultasi syarat,0.2977
+773,Konsultasi persyaratan dan informasi mengenai persyaratan PBG Reklame  untuk hotel crown,konsultasi syarat syarat pbg reklame hotel crown,REKLAME,crown,0.4459,hotel crown,0.4459,reklame hotel,0.3904,hotel,0.3817,syarat,0.2482
+774,Konsultasi persyaratan PBG REKLAME,konsultasi syarat pbg reklame,PBG,syarat pbg,0.4446,pbg reklame,0.4328,reklame,0.4171,konsultasi syarat,0.3667,pbg,0.3563
+775,Konsultasi persyaratan KRK untuk Pesantren,konsultasi syarat krk pesantren,KRK,pesantren,0.7645,syarat krk,0.3284,konsultasi syarat,0.3231,konsultasi,0.2764,krk,0.2525
+776,Konsultasi persyaratan KRK untuk Rumah Tinggal,konsultasi syarat krk rumah tinggal,KRK,tinggal,0.4128,rumah tinggal,0.4128,krk rumah,0.4088,rumah,0.37,syarat krk,0.3036
+777,Konsultasi persyaratan perubahan SLF untuk Puskesmas Pasirlayung,konsultasi syarat ubah slf puskesmas pasirlayung,SLF,ubah,0.6625,slf,0.5304,konsultasi syarat,0.346,konsultasi,0.296,syarat,0.2691
+778,"Yang Melaporkan,",lapor,Tidak Diketahui,lapor,1.0,,0.0,,0.0,,0.0,,0.0
+779,ANNISA NUR KHOLIFAH INSANI,annisa nur kholifah insani,Tidak Diketahui,,0.0,,0.0,,0.0,,0.0,,0.0
+780,Pembayaran piutang,bayar piutang,Pemakaman Umum,bayar piutang,0.6116,piutang,0.5962,bayar,0.52,,0.0,,0.0
+781,Pembayaran piutan,bayar piut,Pemakaman Umum,bayar,1.0,,0.0,,0.0,,0.0,,0.0
+782,MENANYAKAN BAHWA MAKAM SUDAH GRATIS,makam gratis,Revisi Data Makam,makam gratis,0.7081,gratis,0.5975,makam,0.3763,,0.0,,0.0
+783,DIKREMASI DIRUMAH DUKA BUMI BARU,kremasi rumah duka bumi,Pemindahan Makam,rumah duka,0.3921,kremasi rumah,0.3921,kremasi,0.3921,duka,0.3921,duka bumi,0.3921
+784,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+785,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+786,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+787,Pemakaman Baru Tumpang dengan Alm Sarah Binti Ripan wafat 19-08-2004 Blok D No.46,makam tumpang alm sarah binti ripan wafat blok,Pemakaman Baru Tumpang,wafat blok,0.4488,makam tumpang,0.4209,wafat,0.4103,tumpang,0.4011,blok,0.3626
+788,Sosialisasi Retribusi Gratis di UPTD wilayah I TPU Cibarunay,sosialisasi retribusi gratis uptd wilayah tpu cibarunay,Sosialisasi Retribusi Gratis,tpu cibarunay,0.4188,cibarunay,0.4188,tpu,0.4188,wilayah,0.3121,sosialisasi retribusi,0.3053
+789,PEMAKAMAN BARU DI BLOK D,makam blok,Pemakaman Baru,makam blok,0.7597,blok,0.5878,makam,0.2781,,0.0,,0.0
+790,PEMAKAMAN BARU WAFAT TANGGAL 2-2-2026 DI BLOK C,makam wafat tanggal blok,Pemakaman Baru,tanggal blok,0.439,wafat tanggal,0.4204,tanggal,0.4204,makam wafat,0.406,wafat,0.3844
+791,PENGAMBILAN KARTU DATA MAKAM WAFAT TANGGAL 10-01-2026 BLOK A,ambil kartu data makam wafat tanggal blok,Pemakaman Baru,tanggal blok,0.3638,wafat tanggal,0.3484,tanggal,0.3484,makam wafat,0.3365,wafat,0.3185
+792,PEMBAYARAN RETRIBUSI,bayar retribusi,Revisi Data Makam,bayar retribusi,0.6908,bayar,0.5873,retribusi,0.4217,,0.0,,0.0
+793,SOSIALISASI RETRIBUSI MAKAM,sosialisasi retribusi makam,Sosialisasi Retribusi Gratis,sosialisasi retribusi,0.529,sosialisasi,0.4956,retribusi makam,0.4956,retribusi,0.3979,makam,0.2656
+794,PEMBAYARAN RETRIBUSI MAKAM,bayar retribusi makam,Sosialisasi Retribusi Gratis,bayar retribusi,0.5934,bayar,0.5045,retribusi makam,0.4512,retribusi,0.3623,makam,0.2418
+795,PEMBAYARAN RETRIBUSI,bayar retribusi,Sosialisasi Retribusi Gratis,bayar retribusi,0.6908,bayar,0.5873,retribusi,0.4217,,0.0,,0.0
+796,Sosialisai Gratis dan Pengambilan Kartu Data Makam,sosialisai gratis ambil kartu data makam,Sosialisasi Retribusi Gratis,sosialisai,0.5105,ambil kartu,0.3805,kartu data,0.3683,kartu,0.3646,gratis,0.2967
+797,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Sosialisasi Retribusi Gratis,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+798,PEMAKAMAN BARU TUMPANG AN. RASMAH DITUMPANG DENGAN DADAN SETIADI WAFAT 01-04-2000 BLOK A,makam tumpang rasmah tumpang dad setiadi wafat blok,Pemakaman Baru Tumpang,tumpang,0.6281,wafat blok,0.4151,makam tumpang,0.3893,wafat,0.3795,blok,0.3354
+799,RETRIBUSI MAKAM,retribusi makam,Sosialisasi Retribusi Gratis,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+800,PEMBONGKARAN MAKAM,bongkar makam,Pemindahan Makam,bongkar makam,0.6781,bongkar,0.6781,makam,0.2835,,0.0,,0.0
+801,SOSIALISASI RETRIBUSI GRATIS,sosialisasi retribusi gratis,Sosialisasi Retribusi Gratis,sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+802,INFORMASI RETRIBUSI,retribusi,Sosialisasi Retribusi Gratis,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+803,SURAT KETERANGAN KEMATIAN,surat terang mati,Sosialisasi Retribusi Gratis,mati,0.5684,terang,0.5258,surat terang,0.5258,surat,0.3522,,0.0
+804,PEMAKAMAN BARU WAFAT 05-12-2026 BLOK B,makam wafat blok,Pemakaman Baru,wafat blok,0.5295,makam wafat,0.5113,wafat,0.484,blok,0.4278,makam,0.2023
+805,PEMINDAHAN PEMAKAMAN,pindah makam,Pemindahan Makam,pindah makam,0.6943,pindah,0.6617,makam,0.2829,,0.0,,0.0
+806,PENGAMBILKAN KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+807,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+808,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+809,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+810,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+811,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+812,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+813,Sosialisasi Retribusi Gratis _Ziarah,sosialisasi retribusi gratis ziarah,Sosialisasi Rumputisasi Gratis (Program Pemerintah),gratis ziarah,0.4493,ziarah,0.4267,sosialisasi retribusi,0.3905,retribusi gratis,0.3827,sosialisasi,0.3659
+814,kematian bayar,mati bayar,Sosialisasi Rumputisasi Gratis (Program Pemerintah),mati,0.7948,bayar,0.6069,,0.0,,0.0,,0.0
+815,pencarian data makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+816,SOSIALISASI GRATIS (ZIARAH),sosialisasi gratis ziarah,Sosialisasi Rumputisasi Gratis (Program Pemerintah),gratis ziarah,0.5731,ziarah,0.5442,sosialisasi,0.4666,gratis,0.3971,,0.0
+817,Sosialisasi Retribusi Gratis (Ziarah),sosialisasi retribusi gratis ziarah,Sosialisasi Rumputisasi Gratis (Program Pemerintah),gratis ziarah,0.4493,ziarah,0.4267,sosialisasi retribusi,0.3905,retribusi gratis,0.3827,sosialisasi,0.3659
+818,Sosialisasi Registrasi Gratis (ziarah),sosialisasi registrasi gratis ziarah,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi registrasi,0.4483,registrasi,0.4293,registrasi gratis,0.4293,gratis ziarah,0.376,ziarah,0.357
+819,"Mencari Lahan Makam dan ingin Memilih , dan sepertinya tidak jadi dimakamkan di TPU Cibarunay",cari lahan makam pilih makam tpu cibarunay,Sosialisasi Rumputisasi Gratis (Program Pemerintah),tpu cibarunay,0.5219,tpu,0.5219,cibarunay,0.5219,makam,0.3235,cari,0.2794
+820,Sosialisai makam gratis,sosialisai makam gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisai,0.7169,makam gratis,0.4937,gratis,0.4166,makam,0.2624,,0.0
+821,Sosialisasi Registrasi Gratis,sosialisasi registrasi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi registrasi,0.5242,registrasi gratis,0.5021,registrasi,0.5021,sosialisasi,0.358,gratis,0.3046
+822,PEMBONGKARAN MAKAM,bongkar makam,Pemindahan Makam,bongkar makam,0.6781,bongkar,0.6781,makam,0.2835,,0.0,,0.0
+823,Sosialisasi Retribusi Gratis (Ziarah),sosialisasi retribusi gratis ziarah,Sosialisasi Rumputisasi Gratis (Program Pemerintah),gratis ziarah,0.4493,ziarah,0.4267,sosialisasi retribusi,0.3905,retribusi gratis,0.3827,sosialisasi,0.3659
+824,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+825,PENAMBAHAN TENDA PEMAKAMAN,tambah tenda makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+826,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Sosialisasi Rumputisasi Gratis (Program Pemerintah),retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+827,PEMBONGKARAN MAKAM,bongkar makam,Pemindahan Makam,bongkar makam,0.6781,bongkar,0.6781,makam,0.2835,,0.0,,0.0
+828,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+829,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+830,RENCANA MEMINDAHKAN MAKAM KE PEMAKAMAN KELUARGA,rencana pindah makam makam keluarga,Pemindahan Makam,pindah makam,0.6476,pindah,0.6172,makam,0.4468,,0.0,,0.0
+831,AMBIL KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+832,PEMBAYARAN RETRIBUSI TERTUNDA,bayar retribusi tunda,Pencarian Data Makam,bayar retribusi,0.6908,bayar,0.5873,retribusi,0.4217,,0.0,,0.0
+833,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+834,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+835,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+836,Pengecekan Data makam dan sosialisasi retribusi gratis,kece data makam sosialisasi retribusi gratis,Pencarian Data Makam,makam sosialisasi,0.4613,kece,0.4418,sosialisasi retribusi,0.3363,retribusi gratis,0.3295,sosialisasi,0.315
+837,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+838,Sosialisasi Retribusi Gratis (Ziarah),sosialisasi retribusi gratis ziarah,Pencarian Data Makam,gratis ziarah,0.4493,ziarah,0.4267,sosialisasi retribusi,0.3905,retribusi gratis,0.3827,sosialisasi,0.3659
+839,Sosialisasi Retribusi Gratis (Ziarah),sosialisasi retribusi gratis ziarah,Pencarian Data Makam,gratis ziarah,0.4493,ziarah,0.4267,sosialisasi retribusi,0.3905,retribusi gratis,0.3827,sosialisasi,0.3659
+840,Sosialisasi Retribusi Gratis (Ziarah),sosialisasi retribusi gratis ziarah,Pencarian Data Makam,gratis ziarah,0.4493,ziarah,0.4267,sosialisasi retribusi,0.3905,retribusi gratis,0.3827,sosialisasi,0.3659
+841,Pemakaman baru Wafat tanggal 10-02-2026,makam wafat tanggal,Pemakaman Baru,wafat tanggal,0.5054,tanggal,0.5054,makam wafat,0.4881,wafat,0.4621,makam,0.1932
+842,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+843,pengambilan kartu data makam,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+844,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+845,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+846,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+847,Pencarian Data (Ziarah),cari data ziarah,Pencarian Data Makam,ziarah,0.6589,cari data,0.45,cari,0.4429,data,0.4088,,0.0
+848,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+849,Ziarah dan pengambilan kartu data makam,ziarah ambil kartu data makam,Pengambilan Kartu Data Makam,ziarah,0.4499,ambil kartu,0.421,kartu data,0.4075,kartu,0.4035,ambil,0.2979
+850,KARTU DATA MAKAM,kartu data makam,Pengambilan Kartu Data Makam,kartu data,0.5589,kartu,0.5534,data makam,0.393,data,0.3829,makam,0.2836
+851,MENANYAKAN RETRIBUSI,retribusi,Sosialisasi Rumputisasi Gratis (Program Pemerintah),retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+852,Menanyakan kapan makamnya di rumputisasi,makam rumput,Rumputisasi,rumput,0.9341,makam,0.357,,0.0,,0.0,,0.0
+853,PENGAMBILAN KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+854,SOSIALISASI RUMPUTIASI GRATIS,sosialisasi rumputiasi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi,0.7616,gratis,0.6481,,0.0,,0.0,,0.0
+855,MENANYAKAN RETRIBUSI,retribusi,Sosialisasi Rumputisasi Gratis (Program Pemerintah),retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+856,pencarian data makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+857,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+858,Pengambilan Kartu data makam,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+859,Mencari Data Makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+860,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+861,Menanyakan Retribusi Gratis,retribusi gratis,Pencarian Data Makam,retribusi gratis,0.6665,gratis,0.5422,retribusi,0.5117,,0.0,,0.0
+862,MENANYAKAN RETRIBUSI,retribusi,Pencarian Data Makam,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+863,DAFTAR ULANG,daftar ulang,Pencarian Data Makam,,0.0,,0.0,,0.0,,0.0,,0.0
+864,MENANYAKAN  RETRIBUSI,retribusi,Pencarian Data Makam,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+865,MENANYAKAN RETRIBUSI,retribusi,Pencarian Data Makam,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+866,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+867,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+868,menanyakan retribusi,retribusi,Pencarian Data Makam,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+869,MENANYAKAN RETRIBUSI,retribusi,Pencarian Data Makam,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+870,Pelayanan Pemakaman Tumpang,layan makam tumpang,Pemakaman Baru Tumpang,makam tumpang,0.5269,tumpang,0.5021,layan makam,0.4672,layan,0.4539,makam,0.2147
+871,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Pencarian Data Makam,sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+872,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Pencarian Data Makam,sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+873,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+874,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+875,PENCARIAN DATA MAKAM,cari data makam,Pemakaman Baru,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+876,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+877,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+878,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+879,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+880,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+881,Pelayanan Persyaratan Pemakaman Baru,layan syarat makam,Pemakaman Baru,layan,0.8439,makam,0.3992,syarat,0.3585,,0.0,,0.0
+882,SOSIALIASI HER REGISTRASI GRATIS,sosialiasi her registrasi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),registrasi gratis,0.6498,registrasi,0.6498,gratis,0.3943,,0.0,,0.0
+883,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+884,Pelayanan Pengambilan Kartu Data Makam,layan ambil kartu data makam,Pengambilan Kartu Data Makam,layan,0.4396,ambil kartu,0.4234,kartu data,0.4098,kartu,0.4058,ambil,0.2996
+885,MENANYAKAN RETRIBUSI,retribusi,Pencarian Data Makam,retribusi,1.0,,0.0,,0.0,,0.0,,0.0
+886,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+887,PEMBUATAN SURAT KETERANGAN PEMAKAMAN,buat surat terang makam,Pembuatan Surat Keterangan Pemakaman,terang makam,0.4358,buat surat,0.4358,terang,0.4209,surat terang,0.4209,buat,0.3984
+888,PENCARIANDATA MAKAM,pencariandata makam,Pencarian Data Makam,makam,1.0,,0.0,,0.0,,0.0,,0.0
+889,PENCARIA DATA MAKAM,pencaria data makam,Pencarian Data Makam,data makam,0.6363,data,0.6199,makam,0.4591,,0.0,,0.0
+890,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+891,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+892,Pencarian Data Makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+893,Pencarian Blok Makam,cari blok makam,Pencarian Data Makam,cari blok,0.5755,blok makam,0.5755,blok,0.4453,cari,0.3081,makam,0.2106
+894,Menanyakan Program Rumputisasi,program rumput,Sosialisasi Rumputisasi Gratis (Program Pemerintah),program rumput,0.594,rumput,0.5689,program,0.5689,,0.0,,0.0
+895,Pengambilan Kartu Data makam,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+896,Pencarian Data Makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+897,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+898,Pencarian Data Makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+899,Pencarian Kartu Data Makam,cari kartu data makam,Pencarian Data Makam,kartu data,0.5163,kartu,0.5111,cari,0.3831,data makam,0.363,data,0.3536
+900,Menanyakan Program Rumputisasi Gratis,program rumput gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),program rumput,0.5615,rumput,0.5377,program,0.5377,gratis,0.3263,,0.0
+901,Pencarian data makam ingin memperbaiki nisan,cari data makam baik nisan,Pencarian Data Makam,nisan,0.6157,baik,0.3989,cari data,0.3349,cari,0.3297,data makam,0.3123
+902,Sosialisasi Pemakaman Gratis,sosialisasi makam gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),makam gratis,0.5795,sosialisasi,0.5746,gratis,0.489,makam,0.308,,0.0
+903,Pencarian Data Makam Untuk Pengacatan Nisan,cari data makam acat nisan,Pencarian Data Makam,nisan,0.6715,cari data,0.3652,cari,0.3595,data makam,0.3406,data,0.3318
+904,Sosialisasi Retribusi Gratis,sosialisasi retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),sosialisasi retribusi,0.4976,retribusi gratis,0.4875,sosialisasi,0.4661,gratis,0.3967,retribusi,0.3743
+905,Pencarian Blok Makam,cari blok makam,Pencarian Data Makam,cari blok,0.5755,blok makam,0.5755,blok,0.4453,cari,0.3081,makam,0.2106
+906,Pengambilan Kartu Data Makam,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+907,Pencarian Data makam,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+908,Menanyakan Jatuh Tempo Pembayaran,jatuh tempo bayar,Pencarian Data Makam,tempo,0.5283,jatuh tempo,0.5283,jatuh,0.5283,bayar,0.4034,,0.0
+909,-,,Pencarian Data Makam,,0.0,,0.0,,0.0,,0.0,,0.0
+910,Menanyakan Jatuh Tempo Makam,jatuh tempo makam,Pencarian Data Makam,tempo,0.5649,jatuh tempo,0.5649,jatuh,0.5649,makam,0.2068,,0.0
+911,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+912,Pelayanan Pemakaman Baru ditumpang dengan almOdah (07-02-2010),layan makam tumpang almodah,Pemakaman Baru Tumpang,makam tumpang,0.5269,tumpang,0.5021,layan makam,0.4672,layan,0.4539,makam,0.2147
+913,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+914,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+915,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+916,Pencarian data Pembayran Retribusi Terakhir,cari data pembayran retribusi,Pencarian Data Makam,retribusi,0.5164,cari data,0.5123,cari,0.5042,data,0.4654,,0.0
+917,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+918,PENGAMBILAN KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+919,MENANYAKAN RETRIBUSI GRATIS,retribusi gratis,Sosialisasi Rumputisasi Gratis (Program Pemerintah),retribusi gratis,0.6665,gratis,0.5422,retribusi,0.5117,,0.0,,0.0
+920,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+921,PENGABILAN KARTU DATA MAKAM,kabil kartu data makam,Pengambilan Kartu Data Makam,kartu data,0.5589,kartu,0.5534,data makam,0.393,data,0.3829,makam,0.2836
+922,PEMINDAHAN MAKAM,pindah makam,Pemindahan Makam,pindah makam,0.6943,pindah,0.6617,makam,0.2829,,0.0,,0.0
+923,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+924,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+925,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+926,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+927,PETUGAS MEMBUAT SUKET PEMAKAMAN DENGAN DI LAMPIRKAN PERSYARATAN LENGKAP,tugas suket makam lampir syarat lengkap,Pembuatan Surat Keterangan Pemakaman,syarat lengkap,0.4657,tugas,0.4461,lengkap,0.4461,suket,0.4078,suket makam,0.4078
+928,MEMBUAT SUKET PEMAKAMAN ALM TAUFIK PERSYARATAN LENGKAP,suket makam alm taufik syarat lengkap,Pembuatan Surat Keterangan Pemakaman,syarat lengkap,0.4461,lengkap,0.4273,suket,0.3906,suket makam,0.3906,makam alm,0.3819
+929,KARTU MAKAM TELAH DI AMBIL,kartu makam ambil,Pengambilan Kartu Data Makam,kartu,0.7438,ambil,0.5491,makam,0.3811,,0.0,,0.0
+930,Pelayanan pemakaman tumpanng dengan Abu bakar Wijaya,layan makam tumpanng abu bakar wijaya,Pemakaman Baru Tumpang,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+931,Pelayanan Pemakaman Baru,layan makam,Pemakaman Baru,layan makam,0.6812,layan,0.6618,makam,0.313,,0.0,,0.0
+932,MENANYAKAN RETRIBUSI PEMAKAMAN,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+933,MENANYAKAN RETRIBUSI PEMAKAMAN,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+934,PEMAKAMAN BARU TUMPANG,makam tumpang,Pemakaman Baru Tumpang,makam tumpang,0.6943,tumpang,0.6617,makam,0.2829,,0.0,,0.0
+935,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+936,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+937,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+938,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+939,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+940,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+941,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+942,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+943,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+944,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+945,PEMBONGKARAN MAKAM,bongkar makam,Pembongkaran Makam,bongkar makam,0.6781,bongkar,0.6781,makam,0.2835,,0.0,,0.0
+946,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+947,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+948,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+949,MENANYAKAN RETRIBUSIMAKAM,retribusimakam,Menanyakan Retribusi Pemakaman,retribusimakam,1.0,,0.0,,0.0,,0.0,,0.0
+950,PEMBONGKARAN MAKAM,bongkar makam,Pembongkaran Makam,bongkar makam,0.6781,bongkar,0.6781,makam,0.2835,,0.0,,0.0
+951,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+952,PEMBUATAN SURAT KETERANGAN PEMAKAMAN,buat surat terang makam,Pembuatan Surat Keterangan Pemakaman,terang makam,0.4358,buat surat,0.4358,terang,0.4209,surat terang,0.4209,buat,0.3984
+953,BERKOODINASI DENGAN PETUGAS PENGGALI MAKAM DAN MENYAPKAN LIANG LAHAT,berkoodinasi tugas gali makam sap liang lahat,Pemakaman Baru,tugas,0.9341,makam,0.357,,0.0,,0.0,,0.0
+954,MENERIMA PEMBAYARAN PIUTANG,terima bayar piutang,Menanyakan Retribusi Pemakaman,bayar piutang,0.6116,piutang,0.5962,bayar,0.52,,0.0,,0.0
+955,DIBERIKAN KDM,kdm,Pencarian Data Makam,kdm,1.0,,0.0,,0.0,,0.0,,0.0
+956,MEMBUAT SUKET. PEMAKAMAN,suket makam,Pembuatan Surat Keterangan Pemakaman,suket makam,0.6781,suket,0.6781,makam,0.2835,,0.0,,0.0
+957,MEMBUAT SUKET. PEMAKAMAN,suket makam,Pembuatan Surat Keterangan Pemakaman,suket makam,0.6781,suket,0.6781,makam,0.2835,,0.0,,0.0
+958,MEMBUAT SUKET. PEMAKAMAN,suket makam,Pembuatan Surat Keterangan Pemakaman,suket makam,0.6781,suket,0.6781,makam,0.2835,,0.0,,0.0
+959,MENGAMBIL KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+960,MENGAMBIL KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+961,MENCARI DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+962,MENGAMBIL KARTU DATA MAKAM,ambil kartu data makam,Pengambilan Kartu Data Makam,ambil kartu,0.4714,kartu data,0.4563,kartu,0.4518,ambil,0.3335,data makam,0.3208
+963,MEMBUAT SUKET PEMAKAMAN,suket makam,Pembuatan Surat Keterangan Pemakaman,suket makam,0.6781,suket,0.6781,makam,0.2835,,0.0,,0.0
+964,MEMAKAMKAN ALM. NURLINA DITUMPANG DENGAN AHYADI SUGADI ( 21-06-2010) DI BLOK C,makam alm nurlina tumpang ahyadi sugadi blok,Pemakaman Baru Tumpang,tumpang,0.5118,makam alm,0.5118,blok,0.4627,alm,0.4627,makam,0.2189
+965,MEMAKAMKAN ALM DENI SUPRIADI DI TUMPANG DENGAN IBU DJUARIAH (01-05-2021) DI BLOK A,makam alm den supriadi tumpang djuariah blok,Pemakaman Baru Tumpang,tumpang,0.5118,makam alm,0.5118,blok,0.4627,alm,0.4627,makam,0.2189
+966,MEMAKAMKAN ALM RHUDIYANTO DI BLOK C,makam alm rhudiyanto blok,Pemakaman Baru,makam alm,0.5958,blok,0.5386,alm,0.5386,makam,0.2548,,0.0
+967,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+968,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+969,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+970,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+971,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+972,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+973,PEMBAYARAN PIUTANG RETRIBUSI ALM. SUKARYA 2023-2024,bayar piutang retribusi alm sukarya,Menanyakan Retribusi Pemakaman,retribusi alm,0.4331,piutang retribusi,0.4331,bayar piutang,0.4062,piutang,0.3959,alm,0.3499
+974,PEMBAYARAN PIUTANG RETRIBUSI ALM. II SADELI 2016-2024,bayar piutang retribusi alm sadel,Menanyakan Retribusi Pemakaman,sadel,0.381,alm sadel,0.381,retribusi alm,0.3649,piutang retribusi,0.3649,bayar piutang,0.3422
+975,MENANYAKAN RETRIBUSI PEMAKAMAN,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+976,Pembuatan Surat Keterangan Pemakaman,buat surat terang makam,Pemakaman Umum,terang makam,0.4358,buat surat,0.4358,terang,0.4209,surat terang,0.4209,buat,0.3984
+977,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+978,WAWANCARA TUGAS AKHIR,wawancara tugas,Pemakaman Umum,tugas,1.0,,0.0,,0.0,,0.0,,0.0
+979,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+980,PEMBAYARAN PIUTANG RETRIBUSI UNTUK ALM. II SADELI 2016-2024,bayar piutang retribusi alm sadel,Menanyakan Retribusi Pemakaman,sadel,0.381,alm sadel,0.381,retribusi alm,0.3649,piutang retribusi,0.3649,bayar piutang,0.3422
+981,PENGAMBILAN SURAT PEMAKAMAN,ambil surat makam,Pengambilan Kartu Data Makam,surat,0.6945,ambil,0.5911,makam,0.4102,,0.0,,0.0
+982,LAPORAN PEMAKAMAN BARU ALM. IBU MAMAH DI BLOK E,lapor makam alm mamah blok,Pemakaman Baru,lapor makam,0.4792,lapor,0.4653,makam alm,0.4434,blok,0.4008,alm,0.4008
+983,PEMINDAHAN MAKAM,pindah makam,Pemindahan Makam,pindah makam,0.6943,pindah,0.6617,makam,0.2829,,0.0,,0.0
+984,LAPORAN PEMAKAMAN,lapor makam,Pemakaman Baru,lapor makam,0.6901,lapor,0.6702,makam,0.2731,,0.0,,0.0
+985,ZIARAH MAKAM KE BLOK B ALM . P BANGUN,ziarah makam blok alm bangun,Pencarian Data Makam,makam blok,0.52,bangun,0.4451,ziarah,0.4141,blok,0.4024,alm,0.4024
+986,PENGAMBILAN KARTU DATA MAKAM ALM. ANINDIA PINASTHIKA,ambil kartu data makam alm anindia pinasthika,Pengambilan Kartu Data Makam,makam alm,0.4373,alm,0.3953,ambil kartu,0.3808,kartu data,0.3686,kartu,0.3649
+987,LAPORAN PEMAKAMAN ALM. MIMIL MAMILIANI,lapor makam alm mimil mamiliani,Pemakaman Baru,lapor makam,0.523,lapor,0.5079,makam alm,0.484,alm,0.4375,makam,0.207
+988,PEMINDAHAN MAKAM,pindah makam,Pemindahan Makam,pindah makam,0.6943,pindah,0.6617,makam,0.2829,,0.0,,0.0
+989,MENANYAKAN RETRIBUSIMAKAM,retribusimakam,Menanyakan Retribusi Pemakaman,retribusimakam,1.0,,0.0,,0.0,,0.0,,0.0
+990,PEMBONGKARAN MAKAM,bongkar makam,Pembongkaran Makam,bongkar makam,0.6781,bongkar,0.6781,makam,0.2835,,0.0,,0.0
+991,MENANYAKAN RETRIBUSI MAKAM,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+992,PENCARIAN DATA MAKAM DAN SOSIALISASI PERDA PEMAKAMAN GRATIS,cari data makam sosialisasi perda makam gratis,Pencarian Data Makam,sosialisasi perda,0.385,perda makam,0.385,perda,0.385,makam sosialisasi,0.385,makam gratis,0.2651
+993,PENCARIAN DATA MAKAM,cari data makam,Pencarian Data Makam,cari data,0.4928,cari,0.4851,data makam,0.4596,data,0.4478,makam,0.3317
+994,MENANYAKAN RETRIBUSI PEMAKAMAN,retribusi makam,Menanyakan Retribusi Pemakaman,retribusi makam,0.7194,retribusi,0.5777,makam,0.3856,,0.0,,0.0
+995,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+996,PEMAKAMAN BARU,makam,Pemakaman Baru,makam,1.0,,0.0,,0.0,,0.0,,0.0
+997,PENGAMBILAN KDM AN. ALM PUJIANTO KURNIADI,ambil kdm alm pujianto kurniadi,Pengambilan Kartu Data Makam,kdm,0.7299,alm,0.5648,ambil,0.3849,,0.0,,0.0
+998,MEMBUAT SURAT KET. PEMAKAMAN,surat ket makam,Pembuatan Surat Keterangan Pemakaman,surat,0.861,makam,0.5086,,0.0,,0.0,,0.0
+999,SOSIALISASI PERDA PEMAKAMAN DAN RETRIBUSI GRATIS,sosialisasi perda makam retribusi gratis,Menanyakan Retribusi Pemakaman,sosialisasi perda,0.4589,perda makam,0.4589,perda,0.4589,retribusi gratis,0.3278,sosialisasi,0.3134
+1000,LAPORAN PEMAKAMAN UNTUK ALMARHUM IBU AIDA,lapor makam almarhum aida,Pemakaman Baru,lapor makam,0.6901,lapor,0.6702,makam,0.2731,,0.0,,0.0
